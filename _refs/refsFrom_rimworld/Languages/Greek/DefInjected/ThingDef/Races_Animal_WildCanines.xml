@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>αρκτική αλεπού</Fox_Arctic.label>
+  <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description>Ένα μικρό αρπακτικό προσαρμοσμένο για τον μακρινό βορά. Συνήθως κυνηγάει μικρά θηράματα όπως ποντίκια και αρουραίους, μερικές φορές τρυπώνει μέσα σε ένα μέτρο χιονιού για να φτάσει στο θήραμά της.</Fox_Arctic.description>
+  <!-- EN: left claw -->
+  <Fox_Arctic.tools.left_claw.label>αριστερό νύχι</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Arctic.tools.right_claw.label>δεξιό νύχι</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Arctic.tools.head.label>κεφάλι</Fox_Arctic.tools.head.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>αλεπού της Σαχάρας</Fox_Fennec.label>
+  <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description>Μια μικρή αλεπού προερχόμενη από το βόρειο τμήμα της ηπειρωτικής Αφρικής της Γης. Κυνηγά μικρά πλάσματα και έχει πολύ μεγάλα αυτιά που την βοηθούν να δροσίζεται στην ζέστη.</Fox_Fennec.description>
+  <!-- EN: foxmeat -->
+  <Fox_Fennec.race.meatLabel>κρέας αλεπούς</Fox_Fennec.race.meatLabel>
+  <!-- EN: left claw -->
+  <Fox_Fennec.tools.left_claw.label>αριστερό νύχι</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Fennec.tools.right_claw.label>δεξιό νύχι</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Fennec.tools.head.label>κεφάλι</Fox_Fennec.tools.head.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>κόκκινη αλεπού</Fox_Red.label>
+  <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description>Ένα μικρό μοναχικό ζώο της οικογένειας των Κυνίδων εξελίχθηκε για το κυνήγι μικρών θηραμάτων σε εύκρατα κλίματα. Οι κοτετσάδες μισούν τις αλεπούδες εξαιτίας της ικανότητάς τους να καταστρέφουν ολόκληρο το κοτέτσι μέσα σε λίγα λεπτά.</Fox_Red.description>
+  <!-- EN: left claw -->
+  <Fox_Red.tools.left_claw.label>αριστερό νύχι</Fox_Red.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Red.tools.right_claw.label>δεξιό νύχι</Fox_Red.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Red.tools.head.label>κεφάλι</Fox_Red.tools.head.label>
+  
+  <!-- EN: warg -->
+  <Warg.label>γουόργκ</Warg.label>
+  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
+  <Warg.description>Ισχυρά μυώδη πλάσματα που μοιάζουν με λύκους με μοχθηρά αφύσικα νύχια και ένα υπερβολικά ισχυρό δάγκωμα. Τρώνε μόνο κρέας ή πτώματα. Αν ενοχληθούν όταν είναι σε άγρια κατάσταση, είναι πολύ πιθανό να επιτεθούν.\n\nΟι επιστήμονες λένε ότι τα γουόργκ είναι οι απόγονοι οπλωποιημένων πολεμικών ζώων που δημιουργήθηκαν για την καταστολή του πληθυσμού. Οι δεισιδαίμονες τα βλέπουν ως εργαλεία ενός θυμωμένου θεού.</Warg.description>
+  <!-- EN: left claw -->
+  <Warg.tools.left_claw.label>αριστερό νύχι</Warg.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Warg.tools.right_claw.label>δεξιό νύχι</Warg.tools.right_claw.label>
+  <!-- EN: razorfangs -->
+  <Warg.tools.razorfangs.label>δόντια ξυράφι</Warg.tools.razorfangs.label>
+  <!-- EN: head -->
+  <Warg.tools.head.label>κεφάλι</Warg.tools.head.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>αρκτικός λύκος</Wolf_Arctic.label>
+  <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
+  <Wolf_Arctic.description>Μια αρκτική παραλλαγή του παλιού λύκου της Γης. Ως κυνηγοί αγελών, οι λύκοι έχουν πολύπλοκη κοινωνική ζωή και είναι έντονα έξυπνοι.</Wolf_Arctic.description>
+  <!-- EN: left claw -->
+  <Wolf_Arctic.tools.left_claw.label>αριστερό νύχι</Wolf_Arctic.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Wolf_Arctic.tools.right_claw.label>δεξιό νύχι</Wolf_Arctic.tools.right_claw.label>
+  <!-- EN: head -->
+  <Wolf_Arctic.tools.head.label>κεφάλι</Wolf_Arctic.tools.head.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>γκρίζος λύκος</Wolf_Timber.label>
+  <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
+  <Wolf_Timber.description>Ένας τραχύς θηρευτής τρομακτικός σε πολλούς αρχαίους πολιτισμούς της Γης. Ως κυνηγοί αγελών, οι λύκοι έχουν πολύπλοκη κοινωνική ζωή και είναι έντονα έξυπνοι.</Wolf_Timber.description>
+  <!-- EN: wolfmeat -->
+  <Wolf_Timber.race.meatLabel>κρέας λύκου</Wolf_Timber.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Timber.tools.left_claw.label>αριστερό νύχι</Wolf_Timber.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Wolf_Timber.tools.right_claw.label>δεξιό νύχι</Wolf_Timber.tools.right_claw.label>
+  <!-- EN: head -->
+  <Wolf_Timber.tools.head.label>κεφάλι</Wolf_Timber.tools.head.label>
+  
+</LanguageData>

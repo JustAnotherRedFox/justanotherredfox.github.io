@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol -->
+  <Chemical_Alcohol.label>αλκοόλ</Chemical_Alcohol.label>
+  <!-- EN: Because of an alcohol addiction, this person needs to regularly consume alcohol to avoid withdrawal symptoms. -->
+  <Chemical_Alcohol.description>Λόγω του αλκοολισμού, αυτό το άτομο πρέπει να καταναλώνει τακτικά οινόπνευμα για να αποφύγει τα συμπτώματα στέρησης.</Chemical_Alcohol.description>
+  
+</LanguageData>

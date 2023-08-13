@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: depressive -->
+  <MoodOffsetDepressive.stages.depressive.label>κατάθλιψη</MoodOffsetDepressive.stages.depressive.label>
+  <!-- EN: Natural penalty from 'depressive' trait. -->
+  <MoodOffsetDepressive.stages.depressive.description>Φυσική ποινή για το χαρακτηριστικό της "κατάθλιψης".</MoodOffsetDepressive.stages.depressive.description>
+  
+  <!-- EN: optimist -->
+  <MoodOffsetOptimist.stages.optimist.label>αισιοδοξία</MoodOffsetOptimist.stages.optimist.label>
+  <!-- EN: Natural bonus from 'optimist' trait. -->
+  <MoodOffsetOptimist.stages.optimist.description>Φυσική επιβράβευση για το χαρακτηριστικό της "αισιοδοξίας".</MoodOffsetOptimist.stages.optimist.description>
+  
+  <!-- EN: pessimist -->
+  <MoodOffsetPessimist.stages.pessimist.label>απαισιοδοξία</MoodOffsetPessimist.stages.pessimist.label>
+  <!-- EN: Natural penalty from 'pessimist' trait. -->
+  <MoodOffsetPessimist.stages.pessimist.description>Φυσική ποινή για το χαρακτηριστικό της "απαισιοδοξίας".</MoodOffsetPessimist.stages.pessimist.description>
+  
+  <!-- EN: sanguine -->
+  <MoodOffsetSanguine.stages.sanguine.label>ενθουσιασμός </MoodOffsetSanguine.stages.sanguine.label>
+  <!-- EN: Natural bonus from 'sanguine' trait. -->
+  <MoodOffsetSanguine.stages.sanguine.description>Φυσική επιβράβευση για το χαρακτηριστικό του "ενθουσιασμού".</MoodOffsetSanguine.stages.sanguine.description>
+  
+</LanguageData>

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Autosaving -->
+  <Autosaving>自動保存中</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>ようこそ RimWorld (辺境の惑星)へ!\n\nあなたたちは けたたましい サイレンと 金属の裂ける音で 宇宙船の 冬眠カプセルから たたき起こされ, 船が バラバラに なる前に 脱出ポットへ 飛び込み…\n\nこんな ド田舎で 誰も知らない惑星に 不時着して しまいました.\n\nごらんのとおり, あなたたちの 周囲に 船の残骸が ちらばっています. さあ, それらを使って 生き延びる計画を たてましょう!</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>あなたのコロニー</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>と</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>不可</DisabledLower>
+
+  <!-- EN: Version {0} -->
+  <VersionIndicator>Version {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>Game version</GameVersionIndicator>
+  <!-- EN: development build -->
+  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
+  <CompiledOn>Compiled {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>{0}と{1}</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>{0}か{1}</ToCommaListOr>
+  
+  <!-- General-use words -->
+  <!-- EN: Yes -->
+  <Yes>はい</Yes>
+  <!-- EN: No -->
+  <No>いいえ</No>
+  <!-- EN: No {0} -->
+  <NoSubject>{0}がない</NoSubject>
+  <!-- EN: new -->
+  <New>新規</New>
+  <!-- EN: Gender -->
+  <Gender>性別</Gender>
+  <!-- EN: Sex -->
+  <Sex>性別</Sex>
+  <!-- EN: min -->
+  <min>最小</min>
+  <!-- EN: max -->
+  <max>最大</max>
+  <!-- EN: chance -->
+  <chance>確率</chance>
+  <!-- EN: context -->
+  <context>対象</context>
+  <!-- EN: multiplier -->
+  <multiplier>掛け率</multiplier>
+  <!-- EN: damage -->
+  <damage>ダメージ</damage>
+  <!-- EN: radius -->
+  <radius>半径</radius>
+  <!-- EN: expired -->
+  <expired>終了済み</expired>
+  <!-- EN: duration (days) -->
+  <durationDays>所要時間(日)</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>間隔(日)</intervalDays>
+  <!-- EN: repeat -->
+  <repeat>繰り返す</repeat>
+  <!-- EN: default -->
+  <default>初期値</default>
+  <!-- EN: distance -->
+  <distance>距離</distance>
+  <!-- EN: YES -->
+  <YesUppercase>ハイ</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>イイエ</NoUppercase>
+  <!-- EN: kg -->
+  <kg>kg</kg>
+  <!-- EN: Day -->
+  <Day>日</Day>
+  <!-- EN: day -->
+  <day>日</day>
+  <!-- EN: Default -->
+  <Default>デフォルト</Default>
+  <!-- EN: Average -->
+  <Average>平均</Average>
+  <!-- EN: Cause -->
+  <Cause>理由</Cause>
+  <!-- EN: etc -->
+  <Etc>その他</Etc>
+  <!-- EN: ${0} -->
+  <MoneyFormat>${0}</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>要素</Factors>
+  <!-- EN: Uses -->
+  <Uses>使用</Uses>
+  <!-- EN: Translation -->
+  <Translation>翻訳</Translation>
+
+  <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
+  <MeatLabel>{0}の肉</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>生の切り分けられた食用肉です.調理することも,生のままで食べることもできます.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>生の切り分けられた肉です.必要であれば,調理することも,生のままで食べることすらもできます.極めてマズイです.</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>生の切り分けられた肉です.調理することも,生のままで食べることもできますが,大抵の人間はこれを嫌います.</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>テックプリント({PROJECT_label})</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>研究プロジェクト'{PROJECT_label}'のテックプリントです. \n\nテックプリントの形態は,図式の記された紙の切れ端に近い物から,高度な内蔵型教育マシンまで様々な物があります.それらは形態に関係なく同じ役割を果たします.研究者はこのテックプリントから,この研究に着手できるという確信と,今ある共同体で広く使用されるに適した設計の大まかなアイデアを受け取ります.\n\n研究者は,与えられたテクノロジーにどこから着手すべきかを知るために,テックプリントから得られる基礎知識を必要とします.テックプリントを十分に適用した後でのみ,特定の状況でテクノロジーを利用する手段の詳細を把握できます.\n\n研究ができるようになったプロジェクトにテックプリントを適用すると,残りの進行度が半分になります.さらに,既に研究が完了したテクノロジーのテックプリントでも,適用すると研究者の知力スキルが上昇します.</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>アンロック</Unlocks>
+
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>{0}の死骸</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>{0}の死骸です.</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>{1_label} (死亡)</DeadLabel>
+
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>粗い{0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>粗く自然な{0}の地面です.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>荒けずりの{0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>ざっくりとカットされた自然な{0}の床です.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
+  <SmoothStoneTerrainLabel>滑らかな{0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>滑らかで自然な{0}の床です.</SmoothStoneTerrainDesc>
+
+  <!-- EN:  (blueprint) -->
+  <BlueprintLabelExtra>(設計)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
+  <FrameLabelExtra>(施工)</FrameLabelExtra>
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>仲間ではない</FactionUnaffiliated>
+
+  <!-- EN: Continue anyway? -->
+  <StillWishContinue>本当に続けますか?</StillWishContinue>
+  
+  <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
+  <BabyTalk>ば,ばー,ぼー,ぶー,ぎゃ,ぎゃー,ごー,にゃー,な,なー,のー,をー,わー,ふー,ま,まー</BabyTalk>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
+
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{PAWN_labelShort}の {1}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{PAWN1_labelShort}と {PAWN2_labelShort}の {2}</CouplesRoom>
+  
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>このタイプの部屋にとって重要な項目です.</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>この場所の地下に{COUNT}の{RESOURCE_label}があります.</DeepResourceRemaining>
+  
+  <!-- EN: (various) -->
+  <VariousLabel>(色々)</VariousLabel>
+
+  <!-- History events -->
+  <!-- EN: Colonist died -->
+  <ColonistDied>入植者 力尽きる</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>北</North>
+  <!-- EN: South -->
+  <South>南</South>
+  <!-- EN: West -->
+  <West>西</West>
+  <!-- EN: East -->
+  <East>東</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>テックプリントを適用中({0})</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>少し変わった</VariantOf>
+  
+  <!-- Familial relationships -->
+  <!-- EN: born to {0} -->
+  <BornOfParents>{0}から生まれた</BornOfParents>
+  <!-- EN: unknown parents -->
+  <ParentsUnknown>両親不明</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <!-- EN: colonist -->
+  <Colonist>入植者</Colonist>
+  
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: butcher creature -->
+  <ButcherCorpseFlesh.label>Kreatur schlachten</ButcherCorpseFlesh.label>
+  <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
+  <ButcherCorpseFlesh.description>Schlachte eine Kreatur, um Fleisch, Leder usw. zu erhalten.</ButcherCorpseFlesh.description>
+  <!-- EN: Butchering. -->
+  <ButcherCorpseFlesh.jobString>Schlachtet Kreatur.</ButcherCorpseFlesh.jobString>
+  
+  <!-- EN: shred mechanoid -->
+  <ButcherCorpseMechanoid.label>Mechanoiden zerlegen</ButcherCorpseMechanoid.label>
+  <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
+  <ButcherCorpseMechanoid.description>Zerlege einen toten Mechanoiden, um verwertbares Restmaterial zu erhalten.</ButcherCorpseMechanoid.description>
+  <!-- EN: Shredding mechanoid. -->
+  <ButcherCorpseMechanoid.jobString>Zerlegt Mechanoiden.</ButcherCorpseMechanoid.jobString>
+  
+  <!-- EN: smash mechanoid -->
+  <SmashCorpseMechanoid.label>Mechanoiden zertrümmern</SmashCorpseMechanoid.label>
+  <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
+  <SmashCorpseMechanoid.description>Zertrümmere einen toten Mechanoiden mit einfachen Handwerkzeugen, um verwertbares Restmaterial zu erhalten.</SmashCorpseMechanoid.description>
+  <!-- EN: Smashing mechanoid. -->
+  <SmashCorpseMechanoid.jobString>Zertrümmert Mechanoiden.</SmashCorpseMechanoid.jobString>
+  
+</LanguageData>

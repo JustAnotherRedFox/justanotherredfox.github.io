@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>αμνιακό υγρό</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>ακαθαρσίες ζώων</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>στάχτη</Filth_Ash.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>αίμα</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>σκαθαρόζουμο</Filth_BloodInsect.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>χολή πτώματος</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>χώμα</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>πυροσβεστικός αφρός</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>κηλίδα χημικών καυσίμων</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>Μια κηλίδα εύφλεκτων χημικών καυσίμων.</Filth_Fuel.description>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>ερείπια οικοδομών</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>σπασμένοι λίθοι</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>άμμος</Filth_Sand.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>μύξα</Filth_Slime.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>σκουπίδι</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>εμετός</Filth_Vomit.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>διεσπαρμένοι αμμόσακοι</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>διασπαρμένη σκουριά</SlagRubble.label>
+  
+</LanguageData>

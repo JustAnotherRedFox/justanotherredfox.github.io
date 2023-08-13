@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Call {0} -->
+  <CallOnRadio>{0}を呼び出す</CallOnRadio>
+  <!-- EN: Cannot use: {0} -->
+  <CannotUseReason>使用できない ({0})</CannotUseReason>
+  <!-- EN: Cannot use: EMP -->
+  <CannotUseSolarFlare>使用できない (太陽フレア)</CannotUseSolarFlare>
+  <!-- EN: Cannot use: No power -->
+  <CannotUseNoPower>使用できない (電気がない)</CannotUseNoPower>
+  <!-- EN: Cannot use: No path -->
+  <CannotUseNoPath>使用できない (道順がない)</CannotUseNoPath>
+  <!-- EN: Cannot use: Reserved -->
+  <CannotUseReserved>使用できない (予約済)</CannotUseReserved>
+  <!-- EN: Cannot use: Full -->
+  <CannotUseFull>使用できない (満載)</CannotUseFull>
+  <!-- EN: leader {1_labelShort} is unavailable -->
+  <LeaderUnavailable>リーダー{1_labelShort}は存在しない</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
+  <LeaderUnavailableNoLeader>リーダーは存在しない</LeaderUnavailableNoLeader>
+  <!-- EN: Not allowed -->
+  <NotAllowed>許可されていない</NotAllowed>
+  
+  <!-- EN: Fire at {1_label} -->
+  <FireAt>{1_label}に発射 (遠距離)</FireAt>
+
+  <!-- EN: out of range -->
+  <OutOfRange>範囲外</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>最低射程内</TooClose>
+  <!-- EN: Cannot hit target -->
+  <CannotHitTarget>目標に命中しない</CannotHitTarget>
+  <!-- EN: {1_labelShort} is incapable of violence -->
+  <IsIncapableOfViolenceLower>{1_labelShort}は暴力行為ができない</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
+  <IncapableOfViolenceLower>暴力行為ができない</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>{1_labelShort}は射撃できない</IsIncapableOfShootingLower>
+  <!-- EN: {1_labelShort} is not drafted -->
+  <IsNotDraftedLower>{1_labelShort}は徴兵されていない</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
+  <CannotOrderNonControlledLower>支配下にいない</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>自分自身には攻撃できない</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>同盟派閥は攻撃できない</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>消火できません.</IncapableOfFirefighting>
+
+  <!-- EN: Man {1_labelShort} -->
+  <OrderManThing>{1_labelShort}に配置</OrderManThing>
+  
+  <!-- EN: Melee attack {1_label} -->
+  <MeleeAttack>{1_label}に近接攻撃する</MeleeAttack>
+  <!-- EN: Melee attack {1_label} to death -->
+  <MeleeAttackToDeath>{1_label}を殺すまで近接攻撃する</MeleeAttackToDeath>
+  <!-- EN: no path -->
+  <NoPath>道順が無い</NoPath>
+  <!-- EN: burying -->
+  <Burying>を 埋葬する</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>{0}に指定する</DesignatedFor>
+
+  <!-- EN: forbidden -->
+  <ForbiddenLower>禁止</ForbiddenLower>
+  <!-- EN: outside allowed area -->
+  <ForbiddenOutsideAllowedAreaLower>許可ゾーン外</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
+  <NotInHomeArea>ホームエリアではない</NotInHomeArea>
+  <!-- EN: burning -->
+  <BurningLower>炎上</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
+  <NoEmptyPlaceLower>備蓄する空き場所がない</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>積み重ねられない</NoMergeTarget>
+  <!-- EN: already filled enough -->
+  <AlreadyFilledLower>すでに満杯になっている</AlreadyFilledLower>
+  <!-- EN: missing {0} -->
+  <MissingMaterials>{0}がない</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>医薬品設定'{CATEGORY}'の薬がありません.</NoMedicineMatchingCategory>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>要求するスキル以下 {0}</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>認められたスキル以下 {0}</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>認められたスキル以上 {0}</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>到達可能な外部セルがない</NoReachableOutsideCell>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>要求するスキルレベルが無い</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
+  <AnimalInteractedTooRecently>動物への調教間隔が短い</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>勧誘間隔が短い</PrisonerInteractedTooRecently>
+  <!-- EN: no usable food -->
+  <NoUsableFood>食べられるエサがない</NoUsableFood>
+  <!-- EN: no food -->
+  <NoFood>エサがない</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>食事制限に該当する食料がない</NoFoodMatchingRestrictions>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>{0_label}がない</NoIngredient>
+  <!-- EN: below requirements of {0} -->
+  <FoodBelowTitleRequirements>{0}の要件未満</FoodBelowTitleRequirements>
+  <!-- EN: animals skill too low - need {0} -->
+  <AnimalsSkillTooLow>動物スキルが低すぎる - {0} 必要</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>動物は意識がない</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>動物は寝ている</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>動物は他に気を奪われている</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>到達可能なペンが許可されていない</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>囲われたペンがない</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>ペンが許可されていない</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>到達可能なペンがない</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>干渉できない</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>ペンに空間がない</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>{0_labelShort}は{1}状態</CantRopeAnimalMentalState>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>すでに最良の囲いの中にいる</CantRopeAnimalAlreadyInBestPen>
+  <!-- EN: {0} skill too low -->
+  <SkillTooLowForConstruction>{0}スキルが低すぎる</SkillTooLowForConstruction>
+  <!-- EN: need components -->
+  <NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
+  <!-- EN: need {0} -->
+  <NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
+  <!-- EN: need wort -->
+  <NoWort>麦汁が必要</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>利用可能な食材は,より優先順位の高い倉庫にある</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
+  <NoFoodToFillHopper>適した食材がない</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
+  <SelfTendDisabled>自己治療が無効</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
+  <ReservedForPrisoners>予約済み(囚人)</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
+  <CannotReach>到達できない</CannotReach>
+  <!-- EN: not ready for surgery -->
+  <NotSurgeryReady>手術の準備ができていない</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>スキル能力がない</SkillDisabled>
+  <!-- EN: too bright -->
+  <CantSowCavePlantBecauseOfLight>明るすぎる</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
+  <CantSowCavePlantBecauseUnroofed>屋根がない</CantSowCavePlantBecauseUnroofed>
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>解体する能力がない</IncapableOfDeconstruction>
+  <!-- EN: incapable of mining -->
+  <IncapableOfMining>掘削する能力がない</IncapableOfMining>
+  <!-- EN: angers faction -->
+  <AngersFaction>派閥を怒らせる</AngersFaction>
+  <!-- EN: no body part -->
+  <InstallImplantNoBodyPart>その部位の身体がない</InstallImplantNoBodyPart>
+  <!-- EN: not a colonist -->
+  <InstallImplantNotAllowedForNonColonists>入植者ではない</InstallImplantNotAllowedForNonColonists>
+  <!-- EN: already installed -->
+  <InstallImplantAlreadyInstalled>既に装着済み</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>既存の{0}が必要</InstallImplantHediffRequired>
+  <!-- EN: max level -->
+  <InstallImplantAlreadyMaxLevel>最高レベル</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>最低でもレベル{0}が必要</InstallImplantMinLevel>
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>精神的無反応</InstallImplantPsychicallyDeaf>
+  <!-- EN: Upgrade {0} to level {1} -->
+  <UpgradeImplant>{0}をレベル{1}にアップグレードする</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>同盟派閥の妨害</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>{0_labelShort}によって運ばれている</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>満載</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>すでに割り当て済みです</AlreadyAssigned>
+  
+  <!-- EN: Consume {1_labelShort} -->
+  <ConsumeThing>{1_labelShort}を口にする</ConsumeThing>
+  
+  <!-- EN: Cannot go here: No path -->
+  <CannotGoNoPath>そこには行けない(道順がない)</CannotGoNoPath>
+  <!-- EN: Go here -->
+  <GoHere>ここに移動する</GoHere>
+  
+  <!-- EN: Arrest {0} -->
+  <Arrest>{0}を逮捕する</Arrest>
+  <!-- EN: Try to arrest {1_label} ({2} chance) -->
+  <TryToArrest>{1_label}の逮捕を試みる (成功率 {2})</TryToArrest>
+  <!-- EN: Cannot arrest -->
+  <CannotArrest>逮捕できない</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>逮捕成功率 {0}</ArrestChance>
+
+  <!-- EN: Capture {1_label} -->
+  <Capture>{1_label}を捕らえる</Capture>
+  <!-- EN: Cannot capture -->
+  <CannotCapture>捕獲できない</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>揺るぎない忠誠心</Unrecruitable>
+
+  <!-- EN: Rescue {1_label} -->
+  <Rescue>{1_label}を救助する</Rescue>
+  <!-- EN: Put {1_label} somewhere safe -->
+  <PutSomewhereSafe>{1_label}を安全な場所に移動させる</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>{0_labelShort}をベッドに運搬している</TakingToBed>
+  <!-- EN: Cannot rescue -->
+  <CannotRescue>救助できない</CannotRescue>
+
+  <!-- EN: Carry {1_label} to cryptosleep casket -->
+  <CarryToCryptosleepCasket>{1_label}を冬眠カプセルに運ぶ</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
+  <CannotCarryToCryptosleepCasket>冬眠カプセルに運べない</CannotCarryToCryptosleepCasket>
+
+  <!-- EN: Carry {0_label} to shuttle -->
+  <CarryToShuttle>シャトルに{0_label}を運ぶ</CarryToShuttle>
+
+  <!-- EN: No available cryptosleep casket. -->
+  <NoCryptosleepCasket>冬眠カプセルがありません.</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>一時的な派閥メンバーは許可されていません.</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>収容された囚人は許可されていません.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>すでに占有されている</CryptosleepCasketOccupied>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
+  <NoPrisonerBed>周囲を壁で遮断された,到達可能な,安全な温度の,予約されていない囚人用ベッドがありません.</NoPrisonerBed>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
+  <NoNonPrisonerBed>到達可能な,安全な温度の,予約されていない入植者用ベッドがありません.</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
+  <NoAnimalBed>到達可能な,安全な温度の,予約されていない動物用ベッドがありません.</NoAnimalBed>
+  <!-- EN: Reserved by someone else. -->
+  <Reserved>他の誰かが使用しています.</Reserved>
+  <!-- EN: Reserved by {1_labelShort} -->
+  <ReservedBy>{1_labelShort}が使用しています.</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
+  <IsReservedBy>{0}は{1}が使用しています.</IsReservedBy>
+  <!-- EN: Too heavy -->
+  <TooHeavy>重すぎる</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>{0_labelShort}は同じ派閥に所属しています.</SameFaction>
+
+  <!-- EN: incapable -->
+  <Incapable>能力が無い</Incapable>
+  <!-- EN: incapable of {0} -->
+  <IncapableOfCapacity>{0}をする能力が無い</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>{0_label}が必要</MustHaveHediff>
+
+  <!-- EN: min skill -->
+  <MinSkill>最小スキル</MinSkill>
+  
+  <!-- EN: Equip {0} -->
+  <Equip>{0}を 装備する</Equip>
+  <!-- EN: (brawler will be unhappy) -->
+  <EquipWarningBrawler>(格闘家は不機嫌になります)</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
+  <CannotEquip>{0}を 装備できない</CannotEquip>
+  <!-- EN: Cannot man {1_labelShort} -->
+  <CannotManThing>{1_labelShort}を配置できない</CannotManThing>
+  
+  <!-- EN: Force wear {1_labelShort} -->
+  <ForceWear>{1_labelShort}に 着替えさせる</ForceWear>
+  <!-- EN: Cannot wear {1_label} -->
+  <CannotWear>{1_label}を 着用できない</CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>{1_labelShort}を 装備させる</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>{1_label}を 装備できない</CannotEquipApparel>
+  <!-- EN: missing body parts -->
+  <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>{GEAR_labelShort} に {AMMO_label}を充填する</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>満タン</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>少なすぎる</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>1回分のチャージをリロードするのに十分な{AMMO_label}を運ぶことができません.</ReloadCannotCarryEnough>
+  
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUp>{1_labelShort}を拾えない</CannotPickUp>
+  <!-- EN: Cannot pick up {1_label} (all) -->
+  <CannotPickUpAll>{1_label}(全て)を拾えない</CannotPickUpAll>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>{1_labelShort}x1を拾う</PickUpOne>
+  <!-- EN: Pick up {1_label} (all) -->
+  <PickUpAll>{1_label}(全て)を拾う</PickUpAll>
+  <!-- EN: Pick up {1_labelShort}... -->
+  <PickUpSome>{1_labelShort}を拾う...</PickUpSome>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>{1_labelShort}x{{0}}を拾う</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>{1_labelShort}を拾えない</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>{1}は{0}つまでしか持てない</MaxPickUpAllowed>
+  
+  <!-- EN: Cannot load {1_label} onto pack animal -->
+  <CannotGiveToPackAnimal>{1_label}を駄載獣に与えられない</CannotGiveToPackAnimal>
+  <!-- EN: Cannot load {1_label} (all) onto pack animal -->
+  <CannotGiveToPackAnimalAll>{1_label}(全て)を駄載獣に与えられない</CannotGiveToPackAnimalAll>
+  <!-- EN: Load {1_label} onto pack animal -->
+  <GiveToPackAnimal>{1_label}を駄載獣に与える</GiveToPackAnimal>
+  <!-- EN: Load {1_label} (all) onto pack animal -->
+  <GiveToPackAnimalAll>{1_label}(全て)を駄載獣に与える</GiveToPackAnimalAll>
+  <!-- EN: Load {1_labelShort} onto pack animal... -->
+  <GiveToPackAnimalSome>{1_labelShort}を駄載獣に与える</GiveToPackAnimalSome>
+  <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
+  <GiveToPackAnimalCount>{1_labelShort}x{{0}}を取る</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {1_label} into caravan -->
+  <CannotLoadIntoCaravan>{1_label}をキャラバン隊に積載できない</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {1_label} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>{1_label}(全て)をキャラバン隊に積載できない</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {1_label} into caravan -->
+  <LoadIntoCaravan>{1_label}をキャラバン隊に積載する</LoadIntoCaravan>
+  <!-- EN: Load {1_label} (all) into caravan -->
+  <LoadIntoCaravanAll>{1_label}(全て)をキャラバン隊に積載する</LoadIntoCaravanAll>
+  <!-- EN: Load {1_labelShort} into caravan... -->
+  <LoadIntoCaravanSome>{1_labelShort}をキャラバン隊に積載する...</LoadIntoCaravanSome>
+  <!-- EN: Load {1_labelShort} x{{0}} -->
+  <LoadIntoCaravanCount>{1_labelShort}x{{0}}を積載する</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>過積載</OverweightLower>
+
+  <!-- EN: Cannot carry {1_label} and leave the area -->
+  <CannotCarryToExit>{1_label}を運んで,エリアを離れることができない</CannotCarryToExit>
+  <!-- EN: Carry {1_label} and leave the area -->
+  <CarryToExit>{1_label}を運んで,エリアを離れる</CarryToExit>
+  <!-- EN: Capture {1_label} and leave the area -->
+  <CarryToExitAndCapture>{1_label}を捕獲して,ここから離れる</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {1_label} -->
+  <Strip>{1_label}から剥ぐ</Strip>
+  <!-- EN: Cannot strip {1_label} -->
+  <CannotStrip>{1_label}から剥ぎ取れない</CannotStrip>
+  <!-- EN: Cannot drop {1_label} -->
+  <CannotDrop>{1_label}を外せない</CannotDrop>
+  <!-- EN: Carry {0_label} -->
+  <Carry>{0_label}を運ぶ</Carry>
+  <!-- EN: Cannot carry {0_label} -->
+  <CannotCarry>{0_label}を運べない</CannotCarry>
+  <!-- EN: temporary faction member -->
+  <QuestRelated>派閥構成員(仮)</QuestRelated>
+  <!-- EN: Cannot change outfits on temporary faction members -->
+  <QuestRelated_Outfit>仮の派閥構成員は服装を替えることはできない</QuestRelated_Outfit>
+  <!-- EN: would replace locked apparel -->
+  <WouldReplaceLockedApparel>ロックされた服装を交換する</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>{0_label}を{1_label}に寝かせられない</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>{0_label}を{1_label}に寝かせる</PlaceIn>
+
+  <!-- EN: Self-destruct here -->
+  <SelfDestructHere>【押すな】自爆装置【押すな】</SelfDestructHere>
+  
+  <!-- EN: Drop {1_label} -->
+  <Drop>{1_label}を手放す</Drop>
+
+  <!-- EN: Rest until healed -->
+  <UseMedicalBed>完治するまで休む</UseMedicalBed>
+  <!-- EN: not injured -->
+  <NotInjured>無傷</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>医者がいない</NoDoctor>
+  <!-- EN: medical bed not for slaves -->
+  <NotForSlaves>医療用ベッドが奴隷用でない</NotForSlaves><!-- text_todo -->
+  <!-- EN: occupied by {0} -->
+  <SomeoneElseSleeping>{0}が独占している</SomeoneElseSleeping>
+  
+  <!-- EN: Trade with {0} -->
+  <TradeWith>{0}とトレード</TradeWith>
+  <!-- EN: Cannot trade -->
+  <CannotTrade>トレードできない</CannotTrade>
+
+  <!-- EN: Open {0_label} -->
+  <Open>{0_label}を開く</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>{0_label}は開けない</CannotOpen>
+  
+  <!-- EN: Enter {0} -->
+  <EnterMap>{0}に入る</EnterMap>
+  <!-- EN: Visit {0} -->
+  <VisitSettlement>{0}に訪れる</VisitSettlement>
+  <!-- EN: Visit {0} -->
+  <VisitPeaceTalks>{0}に訪れる</VisitPeaceTalks>
+  <!-- EN: Visit {0} -->
+  <VisitEscapeShip>{0}に訪れる</VisitEscapeShip>
+  <!-- EN: Attack {0} -->
+  <AttackSettlement>{0}を攻撃する</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>{0}に接触</ApproachSite>
+  <!-- EN: Approaching {0} -->
+  <ApproachingSite>{0}に接触中</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>贈り物を提供する</OfferGifts>
+  <!-- EN: Trade with {0} -->
+  <TradeWithSettlement>{0}と貿易</TradeWithSettlement>
+
+  <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
+  <EnterCryptosleepCasket>冬眠カプセルに入る</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
+  <OpenCryptosleepCasket>冬眠カプセルを開ける</OpenCryptosleepCasket>
+  <!-- EN: Get in shuttle -->
+  <EnterShuttle>シャトルに乗り込む</EnterShuttle>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>{1}を{0}できない</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>{0}ができない</CannotGenericWorkCustom>
+
+  <!-- EN: Cannot prioritize: Incapable of {0} -->
+  <CannotMissingHealthActivities>優先できない: {0}能力が無い</CannotMissingHealthActivities>
+
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {2_labelShort} -->
+  <CannotGenericAlreadyAm>すでに行っている: {2_labelShort}{0}</CannotGenericAlreadyAm>
+  <!-- EN: Already {0} -->
+  <CannotGenericAlreadyAmCustom>すでに行っている: {0}</CannotGenericAlreadyAmCustom>
+
+  <!-- EN: Cannot prioritize: Will never do {0} -->
+  <CannotPrioritizeWorkTypeDisabled>優先できない: {0}しない</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>必要な称号がない</MissingTitleAbility>
+
+  <!-- EN: Cannot prioritize: Will never {0} -->
+  <CannotPrioritizeWorkGiverDisabled>優先できない: {0}しない</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>"{0}" しない</WillNever>
+
+  <!-- EN: Cannot prioritize: Not assigned to {0} -->
+  <CannotPrioritizeNotAssignedToWorkType>優先できない: {0}の割り当てなし</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>割り当てなし</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>{0}の割り当てなし</NotAssignedToWorkType>
+
+  <!-- EN: Cannot prioritize: Research is a long-term task -->
+  <CannotPrioritizeResearch>優先できない: 研究は優先順位をつけられない</CannotPrioritizeResearch>
+
+  <!-- EN: Cannot prioritize: {1_label} is forbidden -->
+  <CannotPrioritizeForbidden>優先できない: {1_label}は禁止されている</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize: Forbidden -->
+  <CannotPrioritizeCellForbidden>優先できない: 禁止事項</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
+  <CannotPrioritizeForbiddenOutsideAllowedArea>許可エリアの外にある</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>埋葬を優先できない</CannotPrioritizeBurying>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
+  <PrioritizeGeneric>いますぐ{1}{0}</PrioritizeGeneric>
+  
+  <!-- EN: Drop at edge -->
+  <DropAtEdge>端に落とす</DropAtEdge>
+  <!-- EN: Drop in center -->
+  <DropInCenter>真ん中に落とす</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>{0} 攻撃</AttackShuttle>
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>{0} 攻撃: 端に落とす</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>{0} 攻撃: 真ん中に落とす</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
+  <VomitingLower>オェ</VomitingLower>
+  <!-- EN: not interruptible -->
+  <NotInterruptibleLower>割り込めない</NotInterruptibleLower>
+  
+  <!-- EN: Add a new waypoint here -->
+  <AddWaypoint>ここにウェイポイントを追加</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
+  <RemoveWaypoint>このウェイポイントを削除</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>全ての指示を解除</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>全てを指示する</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>{0} 影響下にある</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>全アイテムを接触禁止</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>全アイテムの接触禁止を解除</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>ズームインして,{0}の着陸地点を選択する</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>内容物を失うだろう</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>此処でキャラバン隊を編成する</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>{0}に与える</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>贈り物として{0}に与える ({1})</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>発射グループの一部でない</NotPartOfLaunchGroup>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>囚人解放</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>救助の申し出</OfferHelp>
+
+  <!-- EN: apply {0} -->
+  <ApplyTechprint>{0}を 適用する</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>危険すぎる</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>誰も呼び出せない</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>{0}を呼び出す</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>{0}を呼び出せない</CannotInvoke>
+  <!-- EN: power -->
+  <Power>電力</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>すでに呼び出している</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>{0}を看護する</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>{0}を看護できない</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>{0}には看護の必要がありません</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>薬品は不使用</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>{0}を修理する</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>{0}を修理できない</CannotRepair>
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>入れない</CannotEnter>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>{0}には恋愛できない</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>{0}に恋愛する</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>嫌いな食べ物</WarningFoodDisliked>
+
+  <!-- UNUSED -->
+  <PickUp>{1_label}を拾う</PickUp>
+
+</LanguageData>

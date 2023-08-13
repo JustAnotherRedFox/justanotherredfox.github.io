@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flak helmet -->
+  <Apparel_AdvancedHelmet.label>防彈頭盔</Apparel_AdvancedHelmet.label>
+  <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
+  <Apparel_AdvancedHelmet.description>一頂設計複雜的輕巧戰鬥頭盔，使用塑鋼提昇硬度。對鈍擊沒有保護效果。</Apparel_AdvancedHelmet.description>
+  
+  <!-- EN: recon helmet -->
+  <Apparel_ArmorHelmetRecon.label>斥候頭盔</Apparel_ArmorHelmetRecon.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
+  <Apparel_ArmorHelmetRecon.description>一種有内建電腦裝置、塑鋼編織而成的高科技頭盔。\n\n帝國偵查兵或閃耀世界的警察常常使用這種頭盔。</Apparel_ArmorHelmetRecon.description>
+  
+  <!-- EN: bowler hat -->
+  <Apparel_BowlerHat.label>禮帽</Apparel_BowlerHat.label>
+  <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
+  <Apparel_BowlerHat.description>一頂好看的帽子，稍為有點都市的風格。提昇社交影響。</Apparel_BowlerHat.description>
+  
+  <!-- EN: cowboy hat -->
+  <Apparel_CowboyHat.label>牛仔帽</Apparel_CowboyHat.label>
+  <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
+  <Apparel_CowboyHat.description>時尚又耐用，這帽子可以阻擋陽光跟雨水，戴上它的人都有一些額外魅力。西部傳統中頗重要的服裝。</Apparel_CowboyHat.description>
+  
+  <!-- EN: hood -->
+  <Apparel_HatHood.label>兜帽</Apparel_HatHood.label>
+  <!-- EN: A draped hood which covers the head and ears. -->
+  <Apparel_HatHood.description>覆蓋頭部和耳朵的披肩罩。</Apparel_HatHood.description>
+  
+  <!-- EN: marine helmet -->
+  <Apparel_PowerArmorHelmet.label>海陸頭盔</Apparel_PowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by rapid-incursion space marines. -->
+  <Apparel_PowerArmorHelmet.description>海軍陸戰隊的頭盔，內建微型電腦、塑鋼製的面板。\n\n這裝甲通常都被太空海陸突擊隊使用。</Apparel_PowerArmorHelmet.description>
+  
+  <!-- EN: psychic foil helmet -->
+  <Apparel_PsychicFoilHelmet.label>心靈絕緣頭盔</Apparel_PsychicFoilHelmet.label>
+  <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
+  <Apparel_PsychicFoilHelmet.description>輕薄的頭盔，裡頭有調整降低心靈影響的薄片。降低心靈電波的影響。</Apparel_PsychicFoilHelmet.description>
+  
+  <!-- EN: simple helmet -->
+  <Apparel_SimpleHelmet.label>簡易頭盔</Apparel_SimpleHelmet.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet.description>簡單的頭盔，對於利刃有不錯的保護效果。對於鈍擊保護效果有限。</Apparel_SimpleHelmet.description>
+  
+  <!-- EN: tribal headdress -->
+  <Apparel_TribalHeaddress.label>部落頭飾</Apparel_TribalHeaddress.label>
+  <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
+  <Apparel_TribalHeaddress.description>高雅的傳統服裝，往往具有宗教意義。提昇社交影響。</Apparel_TribalHeaddress.description>
+  
+  <!-- EN: tuque -->
+  <Apparel_Tuque.label>織毛帽</Apparel_Tuque.label>
+  <!-- EN: A soft, thick cap. Great for keeping warm in winter. -->
+  <Apparel_Tuque.description>柔軟的帽子，在冬天戴很保暖。</Apparel_Tuque.description>
+  
+  <!-- EN: war mask -->
+  <Apparel_WarMask.label>戰爭面具</Apparel_WarMask.label>
+  <!-- EN: An artistically terrifying war mask. It hides the wearer's face and makes them more confident. -->
+  <Apparel_WarMask.description>恐怖的戰爭面具，遮掩佩帶者的臉部，讓他們增加自信。</Apparel_WarMask.description>
+  
+  <!-- EN: veil -->
+  <Apparel_WarVeil.label>面紗</Apparel_WarVeil.label>
+  <!-- EN: A piece of fabric which covers the wearer's face. It protects surprisingly well against pollution. -->
+  <Apparel_WarVeil.description>覆蓋配戴者臉部的織物。對抵禦污染特別有效。</Apparel_WarVeil.description>
+  
+</LanguageData>

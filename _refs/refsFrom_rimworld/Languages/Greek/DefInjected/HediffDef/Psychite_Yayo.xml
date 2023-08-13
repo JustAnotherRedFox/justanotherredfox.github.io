@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychite addiction -->
+  <PsychiteAddiction.label>εθισμός στο ψυχηλό</PsychiteAddiction.label>
+  <!-- EN: withdrawal -->
+  <PsychiteAddiction.stages.withdrawal.label>στέρηση</PsychiteAddiction.stages.withdrawal.label>
+  
+  <!-- EN: psychite tolerance -->
+  <PsychiteTolerance.label>ανοχή στο ψυχηλό</PsychiteTolerance.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-0.label>λίγη</PsychiteTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-1.label>λίγη</PsychiteTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <PsychiteTolerance.stages.large.label>μεγάλη</PsychiteTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsychiteTolerance.stages.massive.label>ολική</PsychiteTolerance.stages.massive.label>
+  
+  <!-- EN: high on yayo -->
+  <YayoHigh.label>μαστούρα με κόκα</YayoHigh.label>
+  <!-- EN: a yayo high -->
+  <YayoHigh.labelNoun>μία μαστούρα από κόκα</YayoHigh.labelNoun>
+  
+</LanguageData>

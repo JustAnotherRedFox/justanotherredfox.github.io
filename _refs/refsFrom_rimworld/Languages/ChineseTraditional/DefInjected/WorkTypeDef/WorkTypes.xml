@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Art.label>藝術</Art.label>
+  <!-- EN: Create beautiful works of art from raw materials. -->
+  <Art.description>用自然資源製作精美的藝術品。</Art.description>
+  <!-- EN: art -->
+  <Art.gerundLabel>藝術</Art.gerundLabel>
+  <!-- EN: art -->
+  <Art.labelShort>藝術家</Art.labelShort>
+  <!-- EN: Artist -->
+  <Art.pawnLabel>藝術家</Art.pawnLabel>
+  <!-- EN: Do art at -->
+  <Art.verb>創作</Art.verb>
+  
+  <BasicWorker.label>基礎工作</BasicWorker.label>
+  <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
+  <BasicWorker.description>非技能的簡單工作。釋放俘虜或撥動機械開關。</BasicWorker.description>
+  <!-- EN: dealing with -->
+  <BasicWorker.gerundLabel>處理</BasicWorker.gerundLabel>
+  <!-- EN: basic -->
+  <BasicWorker.labelShort>基礎工作</BasicWorker.labelShort>
+  <!-- EN: Worker -->
+  <BasicWorker.pawnLabel>工人</BasicWorker.pawnLabel>
+  <!-- EN: Deal with -->
+  <BasicWorker.verb>處理</BasicWorker.verb>
+  
+  <Cleaning.label>清潔</Cleaning.label>
+  <!-- EN: Clear snow, pollution and clean the floor in the home area. -->
+  <Cleaning.description>在生活區域鏟雪、清除污染或清理地面。</Cleaning.description>
+  <!-- EN: cleaning -->
+  <Cleaning.gerundLabel>清潔</Cleaning.gerundLabel>
+  <!-- EN: clean -->
+  <Cleaning.labelShort>清潔員</Cleaning.labelShort>
+  <!-- EN: Cleaner -->
+  <Cleaning.pawnLabel>清潔員</Cleaning.pawnLabel>
+  <!-- EN: Clean -->
+  <Cleaning.verb>清理</Cleaning.verb>
+  
+  <Construction.label>建造</Construction.label>
+  <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
+  <Construction.description>建造你指定的東西，並修理損壞或被破壞的建築。</Construction.description>
+  <!-- EN: constructing -->
+  <Construction.gerundLabel>建造</Construction.gerundLabel>
+  <!-- EN: construct -->
+  <Construction.labelShort>建築工</Construction.labelShort>
+  <!-- EN: Constructor -->
+  <Construction.pawnLabel>建築工</Construction.pawnLabel>
+  <!-- EN: Construct -->
+  <Construction.verb>建造</Construction.verb>
+  
+  <Cooking.label>烹飪</Cooking.label>
+  <!-- EN: Prepare meals and butcher meat. -->
+  <Cooking.description>製作料理和屠宰肉類。</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.gerundLabel>烹飪</Cooking.gerundLabel>
+  <!-- EN: cook -->
+  <Cooking.labelShort>廚師</Cooking.labelShort>
+  <!-- EN: Cook -->
+  <Cooking.pawnLabel>廚師</Cooking.pawnLabel>
+  <!-- EN: Cook -->
+  <Cooking.verb>烹調</Cooking.verb>
+  
+  <Crafting.label>製作</Crafting.label>
+  <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
+  <Crafting.description>在工作站上進行低技能的一般勞動。包含石材加工，提煉等等。</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.gerundLabel>製作</Crafting.gerundLabel>
+  <!-- EN: craft -->
+  <Crafting.labelShort>工匠</Crafting.labelShort>
+  <!-- EN: Crafter -->
+  <Crafting.pawnLabel>工匠</Crafting.pawnLabel>
+  <!-- EN: Craft at -->
+  <Crafting.verb>製作</Crafting.verb>
+  
+  <Doctor.label>醫護</Doctor.label>
+  <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
+  <Doctor.description>照顧疾病、幫患者拿食物、鼓勵患者、進行指定的手術。醫生會照顧殖民者、俘虜。</Doctor.description>
+  <!-- EN: doctoring -->
+  <Doctor.gerundLabel>治療</Doctor.gerundLabel>
+  <!-- EN: doctor -->
+  <Doctor.labelShort>醫生</Doctor.labelShort>
+  <!-- EN: Doctor -->
+  <Doctor.pawnLabel>醫生</Doctor.pawnLabel>
+  <!-- EN: Care for -->
+  <Doctor.verb>照顧</Doctor.verb>
+  
+  <Firefighter.label>滅火</Firefighter.label>
+  <!-- EN: Extinguish fires in the colony. -->
+  <Firefighter.description>撲滅殖民地内的火焰。</Firefighter.description>
+  <!-- EN: firefighting -->
+  <Firefighter.gerundLabel>滅火</Firefighter.gerundLabel>
+  <!-- EN: firefight -->
+  <Firefighter.labelShort>消防員</Firefighter.labelShort>
+  <!-- EN: Firefighter -->
+  <Firefighter.pawnLabel>消防員</Firefighter.pawnLabel>
+  <!-- EN: Extinguish -->
+  <Firefighter.verb>撲滅</Firefighter.verb>
+  
+  <Growing.label>種植</Growing.label>
+  <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
+  <Growing.description>播種種子、收獲農作物、野生植物的覓食。</Growing.description>
+  <!-- EN: growing -->
+  <Growing.gerundLabel>種植</Growing.gerundLabel>
+  <!-- EN: grow -->
+  <Growing.labelShort>農夫</Growing.labelShort>
+  <!-- EN: Grower -->
+  <Growing.pawnLabel>農夫</Growing.pawnLabel>
+  <!-- EN: Grow -->
+  <Growing.verb>種植</Growing.verb>
+  
+  <Handling.label>馴服</Handling.label>
+  <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
+  <Handling.description>馴服、訓練，從動物上獲取資源、屠宰動物。</Handling.description>
+  <!-- EN: handling -->
+  <Handling.gerundLabel>馴服</Handling.gerundLabel>
+  <!-- EN: handle -->
+  <Handling.labelShort>馴獸師</Handling.labelShort>
+  <!-- EN: Handler -->
+  <Handling.pawnLabel>馴獸師</Handling.pawnLabel>
+  <!-- EN: Handle -->
+  <Handling.verb>馴服</Handling.verb>
+  
+  <Hauling.label>運送</Hauling.label>
+  <!-- EN: Carry things to where they need to be. -->
+  <Hauling.description>將物品帶到需要的地方。</Hauling.description>
+  <!-- EN: hauling -->
+  <Hauling.gerundLabel>運送</Hauling.gerundLabel>
+  <!-- EN: haul -->
+  <Hauling.labelShort>運送員</Hauling.labelShort>
+  <!-- EN: Hauler -->
+  <Hauling.pawnLabel>運送員</Hauling.pawnLabel>
+  <!-- EN: Haul -->
+  <Hauling.verb>運送</Hauling.verb>
+  
+  <Hunting.label>狩獵</Hunting.label>
+  <!-- EN: Kill animals which are designated to be hunted. -->
+  <Hunting.description>獵殺指定的動物。</Hunting.description>
+  <!-- EN: hunting -->
+  <Hunting.gerundLabel>狩獵</Hunting.gerundLabel>
+  <!-- EN: hunt -->
+  <Hunting.labelShort>獵人</Hunting.labelShort>
+  <!-- EN: Hunter -->
+  <Hunting.pawnLabel>獵人</Hunting.pawnLabel>
+  <!-- EN: Hunt -->
+  <Hunting.verb>獵殺</Hunting.verb>
+  
+  <Mining.label>採礦</Mining.label>
+  <!-- EN: Digging and drilling. -->
+  <Mining.description>開採、挖掘。</Mining.description>
+  <!-- EN: mining -->
+  <Mining.gerundLabel>採礦</Mining.gerundLabel>
+  <!-- EN: mine -->
+  <Mining.labelShort>礦工</Mining.labelShort>
+  <!-- EN: Miner -->
+  <Mining.pawnLabel>礦工</Mining.pawnLabel>
+  <!-- EN: Mine -->
+  <Mining.verb>開採</Mining.verb>
+  
+  <Patient.label>療傷</Patient.label>
+  <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
+  <Patient.description>如果有生命危急的情況，會去醫療床治療。</Patient.description>
+  <!-- EN: patienting -->
+  <Patient.gerundLabel>療傷</Patient.gerundLabel>
+  <!-- EN: patient -->
+  <Patient.labelShort>病患</Patient.labelShort>
+  <!-- EN: Patient -->
+  <Patient.pawnLabel>病患</Patient.pawnLabel>
+  <!-- EN: Become patient -->
+  <Patient.verb>成為病患</Patient.verb>
+  
+  <PatientBedRest.label>療養</PatientBedRest.label>
+  <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
+  <PatientBedRest.description>沒有生命危急的情況下，會躺在床上休息。</PatientBedRest.description>
+  <!-- EN: resting in bed -->
+  <PatientBedRest.gerundLabel>療養</PatientBedRest.gerundLabel>
+  <!-- EN: bed rest -->
+  <PatientBedRest.labelShort>療養</PatientBedRest.labelShort>
+  <!-- EN: Bed rester -->
+  <PatientBedRest.pawnLabel>療養</PatientBedRest.pawnLabel>
+  <!-- EN: Become patient -->
+  <PatientBedRest.verb>療養</PatientBedRest.verb>
+  
+  <PlantCutting.label>採收</PlantCutting.label>
+  <!-- EN: Cut or harvest plants as designated. -->
+  <PlantCutting.description>指定要裁剪或收獲的植物。</PlantCutting.description>
+  <!-- EN: plant cutting -->
+  <PlantCutting.gerundLabel>剪裁植物</PlantCutting.gerundLabel>
+  <!-- EN: plant cut -->
+  <PlantCutting.labelShort>採收者</PlantCutting.labelShort>
+  <!-- EN: Plant cutter -->
+  <PlantCutting.pawnLabel>採收者</PlantCutting.pawnLabel>
+  <!-- EN: Cut -->
+  <PlantCutting.verb>裁剪</PlantCutting.verb>
+  
+  <Research.label>研究</Research.label>
+  <!-- EN: Perform research work. -->
+  <Research.description>進行研究工作。</Research.description>
+  <!-- EN: researching -->
+  <Research.gerundLabel>研究</Research.gerundLabel>
+  <!-- EN: research -->
+  <Research.labelShort>研究員</Research.labelShort>
+  <!-- EN: Researcher -->
+  <Research.pawnLabel>研究員</Research.pawnLabel>
+  <!-- EN: Research at -->
+  <Research.verb>研究</Research.verb>
+  
+  <Smithing.label>鍛造</Smithing.label>
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
+  <Smithing.description>用自然資源製作武器或工具，包含鍛造或機械加工。如果是御機使，也會修理機械族。</Smithing.description>
+  <!-- EN: smithing -->
+  <Smithing.gerundLabel>鍛造</Smithing.gerundLabel>
+  <!-- EN: smith -->
+  <Smithing.labelShort>鍛造師</Smithing.labelShort>
+  <!-- EN: Smith -->
+  <Smithing.pawnLabel>鍛造師</Smithing.pawnLabel>
+  <!-- EN: Smith at -->
+  <Smithing.verb>鍛造</Smithing.verb>
+  
+  <Tailoring.label>裁縫</Tailoring.label>
+  <!-- EN: Create apparel from raw materials. -->
+  <Tailoring.description>用自然資源製作衣物。</Tailoring.description>
+  <!-- EN: tailoring -->
+  <Tailoring.gerundLabel>裁縫</Tailoring.gerundLabel>
+  <!-- EN: tailor -->
+  <Tailoring.labelShort>裁縫師</Tailoring.labelShort>
+  <!-- EN: Tailor -->
+  <Tailoring.pawnLabel>裁縫師</Tailoring.pawnLabel>
+  <!-- EN: Tailor at -->
+  <Tailoring.verb>裁縫</Tailoring.verb>
+  
+  <Warden.label>監管</Warden.label>
+  <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
+  <Warden.description>管理、餵食、聊天和招募俘虜。</Warden.description>
+  <!-- EN: wardening -->
+  <Warden.gerundLabel>監管</Warden.gerundLabel>
+  <!-- EN: warden -->
+  <Warden.labelShort>獄卒</Warden.labelShort>
+  <!-- EN: Warden -->
+  <Warden.pawnLabel>獄卒</Warden.pawnLabel>
+  <!-- EN: Handle -->
+  <Warden.verb>處理</Warden.verb>
+  
+</LanguageData>

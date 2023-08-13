@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare -->
+  <Hare.label>λαγός</Hare.label>
+  <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
+  <Hare.description>Αυτό το μικρό, μοναχικό φυτοφάγο μπορεί γρήγορα να ξεφύγει από τον κίνδυνο.</Hare.description>
+  <!-- EN: head -->
+  <Hare.tools.head.label>κεφάλι</Hare.tools.head.label>
+  
+  <!-- EN: snowhare -->
+  <Snowhare.label>αρκτικός λαγός</Snowhare.label>
+  <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
+  <Snowhare.description>Αυτό το ανθεκτικό ζώο επιβιώνει από τους βάρβαρους χειμώνες των πατρίδων του, σκάβοντας στο χιόνι για να βρει εδώδιμα φυτά.</Snowhare.description>
+  <!-- EN: head -->
+  <Snowhare.tools.head.label>κεφάλι</Snowhare.tools.head.label>
+  
+</LanguageData>

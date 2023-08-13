@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: execution cut -->
+  <ExecutionCut.label>θανατηφόρα τομή</ExecutionCut.label>
+  <!-- EN: {0} has been executed by cutting. -->
+  <ExecutionCut.deathMessage>{0} εκτελέστηκε με τομή.</ExecutionCut.deathMessage>
+  
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>χειρουργική τομή</SurgicalCut.label>
+  <!-- EN: {0} has died during surgery. -->
+  <SurgicalCut.deathMessage>{0} πέθανε κατά την εγχείρηση.</SurgicalCut.deathMessage>
+  
+</LanguageData>

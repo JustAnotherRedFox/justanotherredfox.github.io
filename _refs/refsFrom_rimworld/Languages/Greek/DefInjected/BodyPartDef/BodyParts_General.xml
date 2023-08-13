@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brain -->
+  <Brain.label>μυαλό</Brain.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>αφτί</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>μάτι</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>πατούσα</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>κεφάλι</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>σαγόνι</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>πόδι</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>λαιμός</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>μύτη</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>πλευρά</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>κρανίο</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>ραχοκοκαλιά</Spine.label>
+  
+</LanguageData>

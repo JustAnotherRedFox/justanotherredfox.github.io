@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient concrete barrier -->
+  <AncientConcreteBarrier.label>遠古水泥路障</AncientConcreteBarrier.label>
+  <!-- EN: A traffic management solution from long ago. -->
+  <AncientConcreteBarrier.description>古老的道路交通設施。</AncientConcreteBarrier.description>
+  
+  <!-- EN: ancient lamppost -->
+  <AncientLamppost.label>遠古路燈</AncientLamppost.label>
+  <!-- EN: Road lighting from long ago. No longer functional. -->
+  <AncientLamppost.description>古老的道路照明設施，已經失去功能。</AncientLamppost.description>
+  
+  <!-- EN: urn -->
+  <Urn.label>甕</Urn.label>
+  <!-- EN: An ancient-style decorative container. -->
+  <Urn.description>一個遠古的裝飾性容器。</Urn.description>
+  
+</LanguageData>

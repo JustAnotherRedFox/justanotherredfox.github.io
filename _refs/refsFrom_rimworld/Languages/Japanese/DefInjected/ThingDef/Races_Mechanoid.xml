@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede blaster -->
+  <Mech_CentipedeBlaster.label>ブラスター型機械化ムカデ</Mech_CentipedeBlaster.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBlaster.description>何十本もの小さな脚で滑らかに動く,重武装の戦闘用機械生命体です.この生命体が持つ厚い鎧と,高い火力は,防御面に対して大きな効果をもたらします.ヒットアンドアウェイ戦法が,僅かながら有効とされています.</Mech_CentipedeBlaster.description>
+  <!-- EN: head -->
+  <Mech_CentipedeBlaster.tools.head.label>頭部</Mech_CentipedeBlaster.tools.head.label>
+  
+  <!-- EN: centipede burner -->
+  <Mech_CentipedeBurner.label>バーナー型機械化ムカデ</Mech_CentipedeBurner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBurner.description>何十本もの小さな脚で滑らかに動く,重武装の戦闘用機械生命体です.この生命体が持つ厚い鎧と,高い火力は,防御面に対して大きな効果をもたらします.ヒットアンドアウェイ戦法が,僅かながら有効とされています.</Mech_CentipedeBurner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeBurner.tools.head.label>頭部</Mech_CentipedeBurner.tools.head.label>
+  
+  <!-- EN: centipede gunner -->
+  <Mech_CentipedeGunner.label>ガンナー型機械化ムカデ</Mech_CentipedeGunner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeGunner.description>何十本もの小さな脚で滑らかに動く,重武装の戦闘用機械生命体です.この生命体が持つ厚い鎧と,高い火力は,防御面に対して大きな効果をもたらします.ヒットアンドアウェイ戦法が,僅かながら有効とされています.</Mech_CentipedeGunner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeGunner.tools.head.label>頭部</Mech_CentipedeGunner.tools.head.label>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>ランサー</Mech_Lancer.label>
+  <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
+  <Mech_Lancer.description>中距離および長距離戦闘用に構築された,動きの速いヒトサイズの戦闘用機械生命体です.軽装甲であるため,近距離,特に格闘戦において,この生命体は脆弱な標的となります.</Mech_Lancer.description>
+  <!-- EN: left fist -->
+  <Mech_Lancer.tools.left_fist.label>左拳</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Mech_Lancer.tools.right_fist.label>右拳</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: head -->
+  <Mech_Lancer.tools.head.label>頭部</Mech_Lancer.tools.head.label>
+  
+  <!-- EN: pikeman -->
+  <Mech_Pikeman.label>パイクマン</Mech_Pikeman.label>
+  <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
+  <Mech_Pikeman.description>長射程兵器を運用する土台として特化された,精度の低い多脚型の戦闘用機械生命体です.長距離においては大きな脅威ですが,近距離戦や格闘戦には弱いです.\n\n対メカノイド戦闘の猛者は,パイクマンに手が届く距離にいることが,最も安全であると知っています.</Mech_Pikeman.description>
+  <!-- EN: front left leg -->
+  <Mech_Pikeman.tools.front_left_leg.label>左前脚</Mech_Pikeman.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <Mech_Pikeman.tools.front_right_leg.label>右前脚</Mech_Pikeman.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <Mech_Pikeman.tools.head.label>頭部</Mech_Pikeman.tools.head.label>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>機械化カマキリ</Mech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive. -->
+  <Mech_Scyther.description>素早い接近と白兵戦に特化した,細長く,動きの速いヒトサイズの戦闘用機械生命体です.この生命体は全身が針や刃で覆われていますが,主な武器は2本の腕の刃であり,これを使用して犠牲者の手足やはらわたを生きたまま切り落とします.</Mech_Scyther.description>
+  <!-- EN: left blade -->
+  <Mech_Scyther.tools.left_blade.label>左刃</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: right blade -->
+  <Mech_Scyther.tools.right_blade.label>右刃</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: head -->
+  <Mech_Scyther.tools.head.label>頭部</Mech_Scyther.tools.head.label>
+  
+  <!-- EN: termite -->
+  <Mech_Termite.label>機械化シロアリ</Mech_Termite.label>
+  <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
+  <Mech_Termite.description>中型の戦闘用機械生命体です.機械化シロアリは,防御陣営の建築物の穴掘り,掘り起こし,ブリーチングに特化しています.防御陣営は,守りを掘り壊される前に機械化シロアリを排除するか,それとも元いた場所に追い返すかを選択する必要があります.</Mech_Termite.description>
+  <!-- EN: head -->
+  <Mech_Termite.tools.head.label>頭部</Mech_Termite.tools.head.label>
+  
+</LanguageData>

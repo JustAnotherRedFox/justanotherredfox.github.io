@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>水泥地</Concrete.label>
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
+  <Concrete.description>粗糙的水泥。方便於行走，建造迅速、便宜，但外觀欠佳。</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>黃金地磚</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>盛氣凌人的豪華品，沒有什麼比黃金更勝一籌了。它們非常昂貴、美麗，如果你真的生活在黃金上，會被人們當作是土豪。</GoldTile.description>
+  
+  <!-- EN: steel tile -->
+  <MetalTile.label>鋼鐵地磚</MetalTile.label>
+  <!-- EN: Steel tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
+  <MetalTile.description>鋼鐵地磚，擁有星艦般的外觀。易於清潔，能提昇乾淨度，並可用於醫療佈置。</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>鋪裝地磚</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>水泥地磚。鋪設便宜、方便行走，但外觀普通、鋪設相當費時。</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>白銀地磚</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
+  <SilverTile.description>除了超新奇、皇家風以外，白銀地磚也非常適合豪華房間。易於清潔，也提昇乾淨度。</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>抗菌地磚</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
+  <SterileTile.description>抗菌地磚的整潔度特別高，潔淨的房間可以提昇醫院、研究的效果。鋪設相當費時但易於清潔。</SterileTile.description>
+  
+  <!-- EN: straw matting -->
+  <StrawMatting.label>草蓆</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
+  <StrawMatting.description>用於動物穀倉的粗糙草蓆。它很便宜，而且不容易髒污。</StrawMatting.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>木地板</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>木頭地板讓人有溫暖、溫馨的感覺。鋪設容易，但非常容易燃燒。</WoodPlankFloor.description>
+  
+</LanguageData>

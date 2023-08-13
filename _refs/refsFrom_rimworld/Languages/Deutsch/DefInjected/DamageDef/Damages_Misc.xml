@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bomb -->
+  <Bomb.label>Explosion</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb.deathMessage>{0} ist in einer Explosion umgekommen.</Bomb.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombSuper.label>Explosion</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>{0} ist in einer Explosion umgekommen.</BombSuper.deathMessage>
+  
+  <!-- EN: deterioration -->
+  <Deterioration.label>Zerfall</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>{0} wurde getötet.</Deterioration.deathMessage>
+  
+  <!-- EN: extinguish -->
+  <Extinguish.label>Löschen</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>{0} wurde getötet.</Extinguish.deathMessage>
+  
+  <!-- EN: mining -->
+  <Mining.label>Abbauen</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>{0} wurde getötet.</Mining.deathMessage>
+  
+  <!-- EN: rotting -->
+  <Rotting.label>Verrotten</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>{0} wurde getötet.</Rotting.deathMessage>
+  
+  <!-- EN: smoke -->
+  <Smoke.label>Rauch</Smoke.label>
+  <!-- EN: {0} has been killed. -->
+  <Smoke.deathMessage>{0} wurde getötet.</Smoke.deathMessage>
+  
+  <!-- EN: thump -->
+  <Thump.label>Druckwelle</Thump.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Thump.deathMessage>{0} wurde erschossen.</Thump.deathMessage>
+  
+</LanguageData>

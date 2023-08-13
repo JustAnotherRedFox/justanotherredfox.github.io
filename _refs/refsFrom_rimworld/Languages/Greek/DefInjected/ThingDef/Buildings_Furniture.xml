@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bed -->
+  <AnimalBed.label>κρεβάτι ζώου</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>Ένα μαλακό κρεβάτι για να κοιμηθούν τα ζώα. Ταιριάζει σε οποιοδήποτε ζώο.</AnimalBed.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>φωλιά ύπνου ζώου</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>Ένα μικρό κιβώτιο για να κοιμούνται τα ζώα μέσα. Ταιριάζει σε μικρά ζώα όπως κότες, γάτες ή μικρά σκυλιά.</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>σημείο ύπνου ζώου</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>Ορίζει ένα σημείο στο έδαφος όπου τα ζώα μπορούν να κοιμηθούν.</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
+  <Armchair.label>πολυθρόνα</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>Ένα μεγάλο, μαλακό, άνετο κάθισμα. Σπουδαίο για χαλάρωση. Μπορεί να χρησιμοποιηθεί σε τραπέζια, σταθμούς εργασίας και αλλού.</Armchair.description>
+  
+  <!-- EN: bed -->
+  <Bed.label>κρεβάτι</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>Ένα άνετο στρώμα και σεντόνια πάνω σε έναν πλαίσιο για ξεκούραση.</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>υπνόσακος</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>Ένα απλό κρεβάτι που τοποθετείτε στο πάτωμα, συνήθως κατασκευασμένο από ύφασμα ή δέρμα, συχνά από γούνα. Είναι ελαφρύ και μπορεί να τυλίγεται για εύκολη μεταφορά, αλλά δεν είναι τόσο άνετο όσο ένα τυπικό κρεβάτι. Τα καραβάνια μπορούν να χρησιμοποιούν υπνόσακους ενώ ταξιδεύουν για καλύτερο ύπνο.</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>διπλός υπνόσακος</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>Ένα απλό διπλού μεγέθους κρεβάτι που τοποθετείτε στο πάτωμα, συνήθως κατασκευασμένο από ύφασμα ή δέρμα, συχνά από γούνα. Είναι ελαφρύ και μπορεί να τυλίγεται για εύκολη μεταφορά, αλλά δεν είναι τόσο άνετο όσο ένα τυπικό κρεβάτι. Τα καραβάνια μπορούν να χρησιμοποιούν υπνόσακους ενώ ταξιδεύουν για καλύτερο ύπνο.</BedrollDouble.description>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>καρέκλα κουζίνας</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>Μια άνετη και ελκυστική καρέκλα. Μπορεί να χρησιμοποιηθεί σε τραπέζια, σταθμούς εργασίας και αλλού.</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>διπλό κρεβάτι</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>Ένα απλό διπλό κρεβάτι που ταιριάζει σε δύο άτομα.</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>σημείο ύπνου για δύο</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>Προσδιορίζει ένα σημείο στο έδαφος όπου δύο άνθρωποι μπορούν να κοιμηθούν μαζί. Άβολο.</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
+  <Dresser.label>συρταριέρα</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>Μια σιφονιέρα. Παρέχει ένα μικρό μπόνους άνεσης σε όλα τα κοντινά κρεβάτια. Η τοποθέτηση περισσοτέρων της μίας συρταριέρας κοντά στο ίδιο κρεβάτι δεν θα έχει καμία επίδραση.</Dresser.description>
+  
+  <!-- EN: end table -->
+  <EndTable.label>κομοδίνο</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>Ένα μικρό κομοδίνο που κάνει τα κοντινά κρεβάτια λίγο πιο άνετα. Πρέπει να τοποθετηθεί ακριβώς δίπλα στο κεφάλι του κρεβατιού. Η τοποθέτηση περισσότερων από ενός κομοδίνου κοντά στο ίδιο κρεβάτι δεν έχει καμία επίδραση.</EndTable.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>νοσοκομειακό κρεβάτι</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>Ένα κρεβάτι ειδικά σχεδιασμένο για χρήση σε νοσοκομεία. Καλύπτει τις ανάγκες ενός ασθενή και είναι εξοπλισμένο με ενσωματωμένα εξαρτήματα, βελτιώνει τα ιατρικά αποτελέσματα σε σχέση με τα κανονικά κρεβάτια.</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>γλάστρα</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>Φυτέψτε διακοσμητικά λουλούδια εδώ για να βελτιώσετε τη διάθεση των ανθρώπων που βρίσκονται κοντά.</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>βασιλικό κρεβάτι</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>Ένα πολυτελές κρεβάτι πεποικιλμένο με χρυσό, κατάλληλο για αριστοκράτες. Πολύ άνετο και όμορφο, είναι ένα έργο τέχνης από μόνο του. Ταιριάζει για δύο.</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>ντουλάπι</Shelf.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <Shelf.description>Ένα ντουλάπι για την αποθήκευση διαφόρων ειδών. Τα αντικείμενα που είναι αποθηκευμένα σε αυτό δεν θα χαλάσουν, ακόμη και αν βρίσκονται έξω.</Shelf.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>σημείο ύπνου</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>>Ορίζει ένα μέρος στο έδαφος όπου οι άποικοι μπορούν να κοιμηθούν. Καθόλου βολικό.</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>λάμπα δαπέδου</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>Μία όρθια λάμπα η οποία φωτίζει την γύρω έκταση. Οι άνθρωποι χρειάζονται φως για να μετακινούνται και να εργάζονται με πλήρη ταχύτητα.</StandingLamp.description>
+  
+  <!-- EN: standing lamp (blue) -->
+  <StandingLamp_Blue.label>λάμπα δαπέδου(μπλε)</StandingLamp_Blue.label>
+  <!-- EN: A standing lamp that lights an area in blue. -->
+  <StandingLamp_Blue.description>Όρθια λάμπα η οποία φωτίζει την γύρω έκταση με μπλε φωτισμό.</StandingLamp_Blue.description>
+  
+  <!-- EN: standing lamp (green) -->
+  <StandingLamp_Green.label>λάμπα δαπέδου(πράσινη)</StandingLamp_Green.label>
+  <!-- EN: A standing lamp that lights an area in green. -->
+  <StandingLamp_Green.description>Όρθια λάμπα η οποία φωτίζει την γύρω έκταση με πράσινο φωτισμό.</StandingLamp_Green.description>
+  
+  <!-- EN: standing lamp (red) -->
+  <StandingLamp_Red.label>λάμπα δαπέδου (κόκκινη)</StandingLamp_Red.label>
+  <!-- EN: A standing lamp that lights an area in red. -->
+  <StandingLamp_Red.description>Όρθια λάμπα η οποία φωτίζει την γύρω έκταση με κόκκινο φωτισμό.</StandingLamp_Red.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>σκαμπό</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>Μια απλή επιφάνεια στην οποία μπορείτε να καθίσετε. Δεν είναι πολύ άνετο, αλλά πολύ καλύτερα από το τίποτα. Μπορεί να χρησιμοποιηθεί σε τραπέζια, σταθμούς εργασίας και αλλού.</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>λάμπα ηλιακού φωτός</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>Ένας βιομηχανικός λαμπτήρας που φωτίζει την γύρω περιοχή αρκετά δυνατά ώστε να μεγαλώνουν οι καλλιέργειες, αλλά καταναλώνει τεράστια ποσότητα ενέργειας. Απενεργοποιείται αυτόματα τη νύχτα.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>Απενεργοποίηση για περίοδο ανάπαυσης φυτών</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>τραπέζι (1x2)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>Οι άνθρωποι τρώνε από τα τραπέζια όταν υπάρχουν τοποθετημένες καρέκλες μπροστά τους.</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>τραπέζι (2x2)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>Οι άνθρωποι τρώνε από τα τραπέζια όταν υπάρχουν τοποθετημένες καρέκλες μπροστά τους.</Table2x2c.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>τραπέζι (2x4)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>Οι άνθρωποι τρώνε από τα τραπέζια όταν υπάρχουν τοποθετημένες καρέκλες μπροστά τους.</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>τραπέζι (3x3)</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>Οι άνθρωποι τρώνε από τα τραπέζια όταν υπάρχουν τοποθετημένες καρέκλες μπροστά τους.</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>πυρσός</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>Ένας ξύλινος δαυλός για τον φωτισμό μιας περιοχής. Οι άνθρωποι χρειάζονται φως για να μετακινούνται και να εργάζονται με πλήρη ταχύτητα. Μπορεί να αναπληρωθεί αυτόματα με ξύλο. Παράγει μικρή ποσότητα θερμότητας.</TorchLamp.description>
+  
+</LanguageData>

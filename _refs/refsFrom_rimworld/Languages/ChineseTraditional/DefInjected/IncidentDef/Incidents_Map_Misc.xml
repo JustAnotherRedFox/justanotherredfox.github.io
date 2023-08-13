@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>阿爾法海貍</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>仙饈果發芽</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>仙饈果發芽</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>一種神秘的仙饈果叢在附近發芽了！如果你耐心等待它的成長，你就能收獲美味、愉悅、有點讓人上癮的果實。</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>寒流</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>寒流</ColdSnap.letterLabel>
+  <ColdSnap.letterText>一波不尋常的寒流撲面而來。\n\n寒流會使殖民者的體溫過低致死。確保你有保暖場所、保暖衣物，並試著在農作物凍死前搶收。</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>枯萎病</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>家畜歸附</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>雷暴</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>雷暴</Flashstorm.letterLabel>
+  <Flashstorm.letterText>一場閃電風暴正在這附近肆虐。這可能會造成大規模的火災。</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>熱浪</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>熱浪</HeatWave.letterLabel>
+  <HeatWave.letterText>一波不尋常的熱浪迎風而來。\n\n熱浪會使殖民者中暑致死。建造冷氣或待在山洞深處以保持涼爽。</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>獸群遷徙</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>獸群遷徙：{0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>一群{0}正經過這附近。\n\n除非牠們被激怒，否則不會主動攻擊。</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>隕石撞擊</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>隕石</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>一大顆隕石撼動了大地，並留下了一塊{0}。</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>心靈干擾</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>心靈安撫</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>勒索贖金</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>勒索贖金</RansomDemand.letterLabel>
+  
+  <!-- UNUSED -->
+  <RefugeeChased.label>庇護請求</RefugeeChased.label>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>運輸艙墜落</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>貨艙墜落</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>自我馴服</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>短路</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>獨角獸</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>毒霧霾</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>毒霧霾</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>在遠方，一場化學火災釋出毒素到了這附近。\n\n任何沒有待在屋頂下的人類、生物會被大氣層中的毒霧霾慢慢侵蝕。\n\n毒霧霾將會瀰漫到整個區域持續數日，甚至數季。</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>火山冬天</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>火山冬天</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>在遙遠方，一座超級火山開始爆發了，釋出數百萬立方公里的火山灰至大氣層中。\n\n大氣層中的火山灰會擋住太陽。氣溫會下降，植物也因為缺乏陽光而難以生存。火山冬天可能會在幾周內結束，或可能持續數季。</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>志願者</WandererJoin.label>
+  <WandererJoin.letterLabel>志願者</WandererJoin.letterLabel>
+  <WandererJoin.letterText>一名叫{PAWN_nameDef}的[PAWN_kind]加入了你的殖民地。{PAWN_pronoun}是個[PAWN_title]。\n\n{PAWN_pronoun}自願加入你，但不會離開。如果你不想要{PAWN_nameDef}，你可以選擇放逐{PAWN_objective}、賣掉{PAWN_objective}，或是殺掉{PAWN_objective}。但是，你的其他殖民者可能會對此有些意見。</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>徘徊的野人</WildManWandersIn.label>
+  <!-- EN: {0} wanders in -->
+  <WildManWandersIn.letterLabel>徘徊的{0}</WildManWandersIn.letterLabel>
+  <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
+  <WildManWandersIn.letterText>一名與野生動物生活的野人在這附近徘徊。{PAWN_pronoun}被稱為{0}。\n\n你可以嘗試馴服或拘捕{PAWN_objective}。</WildManWandersIn.letterText>
+  
+</LanguageData>

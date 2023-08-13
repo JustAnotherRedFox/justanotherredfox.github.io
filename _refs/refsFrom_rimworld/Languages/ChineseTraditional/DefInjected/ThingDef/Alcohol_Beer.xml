@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer -->
+  <Beer.label>啤酒</Beer.label>
+  <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
+  <Beer.description>人類僅次於水的飲料。啤酒雖然好喝，但主要成份是酒精。飲酒過量會導致喝醉，長期下來就會上癮。</Beer.description>
+  <!-- EN: Drink {0} -->
+  <Beer.ingestible.ingestCommandString>飲用{0}</Beer.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Beer.ingestible.ingestReportString>飲用{0}。</Beer.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Beer.tools.bottle.label>瓶身</Beer.tools.bottle.label>
+  <!-- EN: neck -->
+  <Beer.tools.neck.label>瓶頸</Beer.tools.neck.label>
+  
+  <!-- EN: wort -->
+  <Wort.label>麥汁</Wort.label>
+  <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
+  <Wort.description>尚未發酵的啤酒。麥汁需要被裝進發酵桶中發酵才能成為可飲用的啤酒。</Wort.description>
+  
+</LanguageData>

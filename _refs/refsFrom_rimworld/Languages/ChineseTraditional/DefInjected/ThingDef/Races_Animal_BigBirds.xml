@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>食火雞</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>一種羽毛鮮艷、不會飛行的大型鳥類。牠看起來很漂亮，但被牠踢到會非常痛。當受到傷害或馴服失敗時，會迅速展開反擊。</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>鳥肉</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>爪</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>喙</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>頭</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>鴯鶓</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>一種呆呆的外表、圓圓的眼睛、不會飛行的大型鳥類。說到牠的個性，就是自然界中的痞子。打擾到牠必定會受到反擊。</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>爪</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>喙</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>頭</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>鴕鳥</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>無任何改變的大型鴕鳥，以飛快的跑速、巨大的蛋、強大的雙腳而聞名。很容易憤怒。</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>爪</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>喙</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>頭</Ostrich.tools.head.label>
+  
+</LanguageData>

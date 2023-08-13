@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Apparel -->
+  <Apparel.label>Ενδυμασία</Apparel.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Βασικά</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Βασικά</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Βασικά</BasicsPawn.label>
+  
+  <!-- EN: Building -->
+  <Building.label>Κατασκευή</Building.label>
+  
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>Αντισταθμίσεις όταν εξοπλίζεται</EquippedStatOffsets.label>
+  
+  <!-- EN: Combat -->
+  <PawnCombat.label>Μάχη</PawnCombat.label>
+  
+  <!-- EN: Misc -->
+  <PawnMisc.label>Διάφορα</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Κοινωνικότητα</PawnSocial.label>
+  
+  <!-- EN: Work -->
+  <PawnWork.label>Εργασία</PawnWork.label>
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Πολλαπλασιαστές όταν ο εξοπλισμός κατασκευάζεται από αυτό</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Πολλαπλασιαστές όταν κατασκευάζεται από αυτό</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Αντισταθμίσεις όταν κατασκευάζεται από αυτό</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>Χειρουργικός</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Όπλο</Weapon.label>
+  
+</LanguageData>

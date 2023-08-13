@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep casket -->
+  <AncientCryptosleepCasket.label>遠古休眠艙</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
+  <AncientCryptosleepCasket.description>看起來已經存在了非常久的休眠艙。誰知道裡頭裝了些什麼？</AncientCryptosleepCasket.description>
+  
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>旅隊拴繫點</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>指定一個組織旅隊和拴緊動物的地點。居民會在裝載旅隊時把動物拴在這裡。你亦可以在旅途中使用，以防止動物亂跑。</CaravanPackingSpot.description>
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>通訊台</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>可和其他派系、軌道商人進行無線電連繫。</CommsConsole.description>
+  <!-- EN: Summon diabolus threat -->
+  <CommsConsole.comps.CompUsable.useLabel>召喚迪亞布羅劫難</CommsConsole.comps.CompUsable.useLabel>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>休眠艙</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>一個能自行供電的休眠室，能讓裡頭的人進入多年的假死狀態。</CryptosleepCasket.description>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>蛋盒</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>一個用軟材料做成的盒子，用來裝蛋。如果可以的話，產卵動物會在蛋盒裡下蛋。殖民者在盒子裝滿後才會將所有蛋取出，以節省時間。盒子能保護蛋免受室外惡化，但無法防止溫度損害。</EggBox.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>滅火裝置</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>當偵測到火焰或是手動啟動時，此安全裝置會以它為中心爆發，向一片圓形範圍噴灑阻燃泡沫。</FirefoamPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopper.comps.CompUsable.useLabel>啟動{0_label}</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>墳墓</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>一個像樣的安息之地。人們會去掃墓以提昇娛樂值。</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>地質掃描器</GroundPenetratingScanner.label>
+  <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
+  <GroundPenetratingScanner.description>研究人員用來探測地下資源位置的掃描器。找到資源的機率取決於操作員的研究能力。它會消耗大量電能。如果找到資源，則需要採掘機來取得它。它無法在屋頂下運作。</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>長程礦物掃描器</LongRangeMineralScanner.label>
+  <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
+  <LongRangeMineralScanner.description>研究人員用來探測整顆星球特定資源位置的掃描器。找到資源的機率取決於操作員的研究能力。可以調整掃描器來找到特定資源。它消耗大量電能。如果找到資源，則需要派遣旅隊來取得它。</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>結婚點</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>指定一個舉辦婚禮的地點。觀禮者可站在兩側參加婚禮。</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>排水泵</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>非常緩慢地平衡附近地形的水分，將沼澤、淺水轉變為乾燥地面，將軟沙地轉變為沙地。對深水沒有效果。</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>多重分析裝置</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>放置在高科技研究台附近時，可提昇研究速度，同時解鎖新的研究項目。一張研究台只能使用一台多重分析裝置。</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>軌道交易信標</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>用來進行軌道交易。你只能賣出信標周圍的商品，軌道商人也會將商品丢在信標附近。可以放置在室內。</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>派對點</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>指定一個舉辦派對的地點。</PartySpot.description>
+  
+  <!-- EN: pen marker -->
+  <PenMarker.label>飼養圈標誌</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>動物飼養圈的標誌杆。它必須放置在柵欄、路障、牆和門圍住的區域。你可以在飼養圈標誌上指定動物，馴獸師會將動物帶到指定的飼養圈。</PenMarker.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>發射平台</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>用來啟動一個運輸艙的燃料槽。運輸艙可以批量發射，但發射平台必須彼此相連。</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>棺材</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>為一個光榮死亡的人而準備的安身之處。</Sarcophagus.description>
+  
+  <!-- EN: grand stele -->
+  <SteleGrand.label>宏偉紀念碑</SteleGrand.label>
+  <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleGrand.description>周圍有大量雕刻的高聳石板。自古以來都使用石碑紀念人、戰役、其他重要事件。</SteleGrand.description>
+  
+  <!-- EN: large stele -->
+  <SteleLarge.label>大型紀念碑</SteleLarge.label>
+  <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleLarge.description>周圍有雕刻的高而厚的石板。自古以來都使用石碑紀念人、戰役、其他重要事件。</SteleLarge.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>工具櫃</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
+  <ToolCabinet.description>放置工作台附近可提昇工作效率。一種工作台可同時使用兩個工具櫃。</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>運輸艙</TransportPod.label>
+  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>一種可以裝載人員、物品、動物的次級軌道運輸艙，可用來贈送禮物、運送人們或補給品、襲擊敵軍或支援戰鬥。</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>生命體徵檢測器</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>放置在醫療床附近時，可提昇醫療品質、手術成功率、免疫力形成速度。一張醫療床只能使用一台生命體徵檢測器。一般的病床無法使用。</VitalsMonitor.description>
+  
+</LanguageData>

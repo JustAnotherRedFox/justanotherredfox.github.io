@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambush -->
+  <Ambush.label>ενέδρα</Ambush.label>
+  <!-- EN: Caravan ambushed -->
+  <Ambush.letterLabel>Το καραβάνι έπεσε σε ενέδρα</Ambush.letterLabel>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
+  <Ambush.letterText>Το {0} έχει πέσει στην ενέδρα των {1} από το {2}!</Ambush.letterText>
+  
+  <!-- EN: payment demand -->
+  <CaravanDemand.label>απαίτηση πληρωμής</CaravanDemand.label>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>συνάντηση καραβανιών</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>ενέδρα ανθρωποκυνηγών</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>Το καραβάνι έπεσε σε ενέδρα ανθρωποκυνηγών</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by manhunting {1}! -->
+  <ManhunterAmbush.letterText>Το {0} έχει πέσει στην ενέδρα των ανθρωποκυνηγών {1}!</ManhunterAmbush.letterText>
+  
+</LanguageData>

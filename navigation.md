@@ -2,17 +2,14 @@
 
 [Home](index.md)
 
-<!--[About](about.md)-->
+[About]()
 
-[Menu Item]()
-
-	* # Submenu Head 1
-	* [Submenu Item 1](subitem1.md)
-	* [Submenu Item 2](subitem2.md)
+	* # Consept
+	* [About IsNUSF](about.md)
 	- - - -
-	* # Submenu Head 2
-	* [Submenu Item 3](subitem3.md)
-	* [Submenu Item 4](subitem4.md)
+	* # Road Ahead
+	* [Ideas to Implement](Data/GameIdeas.md)
+	* [Roadmap](Data/Roadmap.md)
 
 [gimmick:theme (inverse: true)](flatly)
 <!-- Comment -->

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia addiction -->
+  <AmbrosiaAddiction.label>仙饈果成癮</AmbrosiaAddiction.label>
+  <!-- EN: A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <AmbrosiaAddiction.description>仙饈果的化學成癮。長期食用仙饈果會造成細胞內的神經適應仙饈果，導致大腦沒有仙饈果的話就無法運作。\n\n如果沒有定期食用仙饈果，戒斷反應就會開始。然而，長時間的戒斷會迫使大腦恢復正常狀態，解決成癮問題。</AmbrosiaAddiction.description>
+  <!-- EN: withdrawal -->
+  <AmbrosiaAddiction.stages.withdrawal.label>戒斷</AmbrosiaAddiction.stages.withdrawal.label>
+  
+  <!-- EN: ambrosia warmth -->
+  <AmbrosiaHigh.label>仙饈果亢奮</AmbrosiaHigh.label>
+  <!-- EN: Ambrosia chemicals in the bloodstream. It lifts the mood. -->
+  <AmbrosiaHigh.description>流淌在血液裡的仙饈果。令人心情舒暢。</AmbrosiaHigh.description>
+  
+  <!-- EN: ambrosia tolerance -->
+  <AmbrosiaTolerance.label>仙饈果耐受</AmbrosiaTolerance.label>
+  <!-- EN: A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect. -->
+  <AmbrosiaTolerance.description>對仙饈果的耐受性。耐受性越嚴重，達到同樣效果所需要的仙饈果也就越多。</AmbrosiaTolerance.description>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small.label>輕微</AmbrosiaTolerance.stages.small.label>
+  <!-- EN: large -->
+  <AmbrosiaTolerance.stages.large.label>強烈</AmbrosiaTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AmbrosiaTolerance.stages.massive.label>極強</AmbrosiaTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <AmbrosiaTolerance.stages.small-1.label>輕微</AmbrosiaTolerance.stages.small-1.label>
+  
+</LanguageData>

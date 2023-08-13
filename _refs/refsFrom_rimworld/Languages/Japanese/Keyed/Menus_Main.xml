@@ -1,0 +1,746 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>操作方法の説明</Tutorial>
+  <!-- EN: New colony -->
+  <NewColony>新しくはじめる</NewColony>
+  <!-- EN: Back to game -->
+  <BackToGame>ゲーム再開</BackToGame>
+  <!-- EN: Review scenario -->
+  <ReviewScenario>シナリオ表示</ReviewScenario>
+  <!-- EN: Save -->
+  <Save>セーブ</Save>
+  <!-- EN: Load game -->
+  <LoadGame>ロード</LoadGame>
+  <!-- EN: Options -->
+  <Options>オプション</Options>
+  <!-- EN: Mod -->
+  <Mod>Mod</Mod>
+  <!-- EN: Mods -->
+  <Mods>Mods</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>翻訳ファイルを検証する</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>翻訳ファイルを検証しています</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>翻訳ファイルを正規化する</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>翻訳ファイルを更新する(TKey's)</TranslationFilesTKeyUpdate>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>翻訳ファイルを正規化しています</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>開発用クイックスタート</DevQuickTest>
+  <!-- EN: Credits -->
+  <Credits>クレジット</Credits>
+  <!-- EN: Quit to main menu -->
+  <QuitToMainMenu>タイトルに戻る</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
+  <SaveAndQuitToMainMenu>ゲームを保存して タイトルに戻る</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>ゲーム 終了</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>ゲームを保存して 終了する</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <!-- EN: Ludeon blog -->
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <!-- EN: Forums -->
+  <Forums>Forums</Forums>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>Official wiki</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
+  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <!-- EN: Tynan's design book -->
+  <TynansDesignBook>Tynan's design book</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
+  <HelpTranslate>Help translate RimWorld</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <!-- EN: Create world -->
+  <CreateWorld>惑星を創造</CreateWorld>
+
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました:\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>あなたも貢献することができます.下記のボタンを押してもっと知りましょう(ブラウザが開きます).</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>もっと知る</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>警告：これは不安定な開発ビルドです.これは私達が,設計上の実験と技術的な開発を行っていることを意味します.\n\n中には暫定措置として意図的にアンバランスになっている要素もあります.これは古典的なゲームデザインの手法で,バランスの匙加減をよりよく理解するために,故意に極端な調整になっています.我々はその情報を利用して,最終的な調整点を決定できます.\n\nまた,ゲームを壊してしまうものを含め,バグもあるでしょう.セーブデータの互換性はいつ壊れるか分かりません.\n\nこれら全てに問題がなければ,テストプレイへの参加に感謝します!もし私達の実験の対象になりたくない場合は,最新の安定版をプレイしてください.</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
+  <ReviewWorld>惑星を確認</ReviewWorld>
+  <!-- EN: Generate -->
+  <WorldGenerate>創造する</WorldGenerate>
+  <!-- EN: Save and finish -->
+  <WorldSaveAndFinish>保存して終了</WorldSaveAndFinish>
+  <!-- EN: Reset factions -->
+  <ResetFactions>派閥をリセット</ResetFactions>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>惑星表面データの生成範囲</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>平均降水量</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>平均気温</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>人口</PlanetPopulation>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>少雨</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>普通</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>多雨</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>低温</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>普通</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>高温</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>希薄</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>普通</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>混雑</PlanetPopulation_High>
+  <!-- EN: Seed -->
+  <WorldSeed>シード値</WorldSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>ランダムシード</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>惑星の直径は常に同じですが,大きなマップを選ぶと,処理時間が非常に掛かる為,惑星表面全体を生成しません. あなた望む,生成する惑星表面の割合を示します.</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>派閥</WorldFactionsTab>
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>惑星を選択</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>選択</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>保存されたデータがありません,先に惑星を創造してください</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable>新しい バージョン {0} が でました. ludeon.com の 情報を 確認してください.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>最新バージョン です.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>バージョンアップ中に エラーが 発生しました： {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>バージョン情報を 読み込んでいます...</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>世界を創造</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>Steamワークショップを開く</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>フォーラムからMODを入手する</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <OpenModsDataFolder>フォルダを開く</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>MODのある位置を表示する</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>コアMODを無効にしますか?コア機能を完全に代用するMODがない限り,ゲームはまったく動作しません.\n\n他MODが同じdefNameを使うことで,コアMODのdefを無視できるのを活用してください.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>{0} コンテンツの全てを削除しようとしています.よろしいですか?</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>MOD自動並べ替え</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>変更を適用して保存する</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>Modの変更は保存されません.続行してもよろしいですか?</DiscardModChanges>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>{0}は移動できない: {1}の後ろに読み込む必要があります.</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>{0}は移動できない: {1}の前に読み込む必要があります.</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>サブスクライブを解除</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe? -->
+  <ConfirmUnsubscribe>サブスクライブを解除しますか?</ConfirmUnsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribeFrom>{0}のサブスクライブを解除しますか?</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>サブスクライブを解除しますか:\n\n{0}</ConfirmUnsubscribeFromMultiple>
+  <!-- EN: Author -->
+  <Author>作者</Author>
+  <!-- EN: Enabled -->
+  <Enabled>有効</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>無効</Disabled>
+  <!-- EN: Enable -->
+  <Enable>有効</Enable>
+  <!-- EN: Disable -->
+  <Disable>無効</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>MODを入手...</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>サブスクライブを解除...</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>セーブ/ロードリスト...</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>MODリスト保存</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>MODリスト読込</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>追加されたMOD</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>削除されたMOD</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>共通MOD</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>ウェブサイト</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>フォルダを開く</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>MODオプション</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>ワークショップ</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>フォーラム</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>高度...</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>選択したすべてのMOD</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>すべての無効化したMOD</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>互換性のないすべてのMOD</AllIncompatibleMods>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>ワークショップ</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>ワークショップ アップロード</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>ワークショップ アップデート</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>既にアップロードは進行中です.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>ワークショップへの提出が失敗しました.\n\n理由：{0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>{0}アップロードは成功しました.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>ダウンロード中</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>ワークショップID</WorkshopId>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>実行済みの案件を表示する</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>選択するにはクリック</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>ウェブサイトへ行くにはクリック</ModClickToGoToWebsite>
+  <!-- EN: Source -->
+  <Source>ソース</Source>
+  <!-- EN: Game versions -->
+  <ModTargetVersion>ゲームのバージョン</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>MODバージョン</ModVersion>
+  <!-- EN: ID -->
+  <ModPackageId>ID</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>次よりも先にロードが必要: {0}.</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>次より後にロードが必要: {0}.</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>次に依存する: {0}</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>次と両立しない: {0}</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>このMODは,次と両立しない: {0}.</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>他のMODとの相対的位置を間違ってロードしています.'MOD自動並べ替え'ボタンを使うか,手動でMODの順序を入れ替えてください.</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>別の有効なMODが同じIDを使用している: {0}.</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>{0}から始まるMODの依存関係が循環している.</ModCyclicDependency>
+  <!-- EN: This requires the following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>動作させるには次のMODが必要: {0}.</ModUnsatisfiedDependency>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>このMODは,今のRimworld本体のバージョン用には作られていないので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion>
+  <!-- EN: This mod is not made for this version of RimWorld. -->
+  <ModNotMadeForThisVersionShort>このMODは現在のRimWorldのバージョンに対応していません.</ModNotMadeForThisVersionShort>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>このMODは,最新のRimworld本体のバージョン用に作られているので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.\n例: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions>\n&lt;targetVersion>を使うことは非推奨です.詳細についてはログを確認してください.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>MODには About.xml 内に正しいフォーマットで書かれた固有のパッケージIDが必要です.次の必須条件があります:\n\n - 半角英数とピリオドのみ.\n - スペースは含まない.\n - 最低1つのピリオドがある.\n - ピリオドは連続してはいけない,頭と尻にあってはいけない.\n - 60文字以内.\n - "Ludeon"という文字を含んではいけない.\n\n例えば:\nAuthorName.ModName\nAuthorName.ModName.Specific</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>このMODの LoadFolders.xml には問題がありアップロードする前に解決する必要があります:</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>{0} フォルダーには {1}が存在しません.</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>バージョン表記に間違いがあります：'{0}'. 正しいフォーマットは, メジャー番号.マイナー番号です. (例 1.1)</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>ロードフォルダーリストにバージョン{0}がありません.</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>バージョン{0}には同名のフォルダーが列挙されています：{1}.</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>バージョン順序が不正です：{0}は{1}の前に来なければなりません.</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>バージョン順序が不正です：'default'は最初に定義されてなければなりません.</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>ロードフォルダで'default'を使用することは非推奨です. &lt;v...>タグを使用し,各バージョンのフォルダを定義してください.</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>ロードフォルダーにバージョン{0}が定義されています,しかしMODのAbout.xmlにある'supportedVersions'にはありません.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>ドラッグで順序の変更</DragToReorder>
+
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>シナリオを選択</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>カスタム</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>Steamワークショップ</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>シナリオエディター</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>削除</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>シード</Seed>
+  <!-- EN: Load -->
+  <Load>ロード</Load>
+  <!-- EN: edit mode -->
+  <EditMode>エディット・モード</EditMode>
+  <!-- EN: Summary -->
+  <Summary>概略</Summary>
+  <!-- EN: Add part -->
+  <AddPart>パーツを追加</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>全てのテキストフィールドは,入力されていなければなりません.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>あなたは,"Steam Workshop"にアップロードしようとしています.よろしいですか?\n\n"Steam Workshop terms of service"を承諾しなければなりません. 全文はこちらから確認してください:\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>あなたは,あなた自身が作成したコンテンツのみをアップロードできます.\n\nこのコンテンツはあなた自身が作成したものでよろしいですか?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>適合しません</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>翻訳としてタグ付け</TagAsTranslation>
+  <!-- EN: Too many (max {0}):  -->
+  <TooMany>多すぎます(最大 {0}):</TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>あなたは作者であるため,ワークショップを更新することができます.</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>このシナリオは編集されています.\n\n続行する前に保存しますか?</ScenarioChangedSavePrompt>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>AIストーリーテラーの選択</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>AIストーリーテラーは,宙賊の襲撃,資源の墜落,動物の攻撃などのイベントを生成します.作家により,あなたのコロニーの物語は,大きく変化します.この設定は,オプションメニューからいつでも変更できます.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>プレイスタイルを選んでください.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>難易度</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>コミットメントモード</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>無制限リロードモード</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>コミットメントモードか,無制限リロードモードを選択してください.</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>いつでもセーブとロードができます.\n\nまだゲームに慣れていないか,それがあなたのゲームスタイルか,MODを山盛りにしたいか,自分で縛りをつくって遊びたいなら良い選択です.</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>ゲームをやめるときのみセーブできます.\n\nRimworldは,殆どの人員を失ってもストーリーを紡ぐので,一人が生き残っていれば,それも物語のひとつです.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしないことには,訳があるのです-損失と再生はドラマチックなものです.</PermadeathModeInfo>
+  <!-- EN: Storyteller and playstyle can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーとプレイスタイルは,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
+
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel>カスタムプレイスタイルの設定</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset>標準のプレイスタイルを出力...</DifficultyReset>
+  
+  <!-- EN: Threats -->
+  <DifficultyThreatSection>脅威</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label>脅威の規模</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info>襲撃や虫の襲来の脅威の大きさ,およびクエストの難易度を調整します.</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label>主要な脅威</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info>襲撃,虫の襲来,人狩りの群れ,メカノイド船の墜落などの主要な脅威を許可します.</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label>クエスト脅威</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info>クエストが暴力的な脅威や課題を提示できるようにします.これが無効にされた場合,クエストは非暴力的なものに変更されます.</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label>導入用の脅威</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info>ゲーム開始後付近で発生する,導入用に調整された脅威を有効にします.</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label>捕食者がヒトを狩る</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info>野生の捕食者がヒトを狩ることを許可します.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label>異常気象</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info>死の灰,火山の冬,ゲリラ雷雨などの異常気象を許可します.</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection>資源</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label>売買価格の不利率</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info>この数値分,取引時の買値が増加し,売値が減少します.</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label>収穫収率</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info>植物や農作物の収穫時に手に入る,資源の量を調整します.この項目は,植物の刈り取りや木の伐採にも,影響を与えます.</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label>採掘収率</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info>採掘時に手に入る資源の量を調整します.</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label>食肉加工収率</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info>食肉加工時に手に入る資源の量を調整します.この項目は,肉や皮,メカノイドの寸断にも,影響を与えます.</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label>研究速度</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info>研究の進む速度を調整します.</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label>クエスト報酬</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info>クエストから受け取る報酬の価値を調整します.\n\n注意：クエスト報酬の価値は,脅威の規模と釣り合うように自動的に調整されます.この項目を調整すると,脅威の規模に追加の乗数が追加されます.</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label>戦利品</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info>襲撃者から手に入る戦利品の価値を調整します.\n\n注意：襲撃の戦利品の価値は,脅威の規模と釣り合うように自動的に調整されます.この項目を調整すると,脅威の規模に追加の乗数が追加されます.</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label>タレット再装填コスト</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info>タレットを再装填するコストを調整します.</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label>スカリア病による腐敗率</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info>スカリア症に感染している生物が,死亡時に即座に腐敗する確率です.\n\n注意：デフォルトの設定では,難易度の高さによる動物の増加数と,正確にバランスを取るように設計されているため,全てのプレイヤーが同量の肉の報酬を入手するようになっています.</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>敵ダウン時の死亡率</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>敵がダウンしたときに,即座に死亡する確率を調整します.これは囚人を捕獲する機会に影響を与えるため,コロニーの人口増加率にも影響を与えます.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection>全般</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label>入植者の心情</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info>全ての入植者と囚人に適用される,心情の永続的な増減量です.入植者の基本心情は50％です.</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label>食中毒の確率補正</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info>中毒になる可能性のある食事を食べた人間が,食中毒になる確率を調整します.</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>野生動物の反撃率</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>危害を加えられた野生動物が,加害者を攻撃し始める確率を調整します.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label>味方への誤射</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info>味方へ誤射する確率を調整します.\n\n注意：この設定は,味方に直接当たる誤射にのみ影響します.爆発によるダメージや,標的の周囲への誤射は防げません.</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>入植者の即死率</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>入植者が攻撃によって即死する確率を調整します.代わりに,入植者はこのダメージによってダウンするように調整されます.\n\nこの設定は,即死しか防ぎません.入植者はダウンした状態から,出血,火災,爆発,病気などで死ぬ可能性があります.</Difficulty_AllowInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>感染症確率</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>傷から感染症が発生する確率を調整します.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>病気の頻度</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>ランダムな病気イベントの頻度を調整します.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label>虫の産出頻度</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info>虫の巣が,新たに虫を生み出す頻度を調整します.値が小さいほど,スポーンイベントの間隔が長くなります.\n\nこの設定は,虫の襲来が発生するかどうかには影響しません.活動中の巣が虫を生み出す速度にのみ影響します.</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>深部ドリルによる襲来</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>深部ドリルマシンが,虫の襲来を引き起こす確率を調整します.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label>マップ生成時の太古の脅威</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info>太古の建造物には,危険な脅威が含まれている可能性があります.</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label>マップ生成時の自然の巣</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info>自然の洞窟には,休止状態の虫の巣が出現することがあります.\n\nこの設定はマップ生成時にのみ適用され,プレイ中にトンネルを掘る可能性のある活発な虫には影響しません.</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>動じない囚人を追加</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>このオプションは,揺るぎない忠誠心を持ち勧誘できない囚人をゲームに追加します.\n\n動じない囚人は通常の囚人とは別に追加されるため,これをオフにしても勧誘可能な囚人は増えません.動じない囚人が削除されるだけです.\n\n動じない囚人は,外交上の利益のために解放したり,売却したり,奴隷にしたり,臓器を摘出したり,それ以外にもいくつかの手段で利用できます.一般に,この設定はより多くのオプションとリソースを提供し,ゲームをより豊かで簡単にします.</Difficulty_UnwaveringPrisoners_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection>プレイヤーツール</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label>建築可能：トラップ</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info>入植者に,スパイクトラップやIED系トラップのようなトラップの建築を許可します.</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label>建築可能：タレット</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info>入植者に,タレットやオートキャノンタレット,ウランスラグタレットのような,静的タレットの建築を許可します.\n\nこれが無効になっていても,鹵獲したタレットは引き続き使用できます.</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label>建築可能：迫撃砲</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info>入植者に,迫撃砲の建築を許可します.\n\nこれが無効になっていても,鹵獲した迫撃砲は引き続き使用できます.</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>旧式迫撃砲</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>迫撃砲は,組み立てや再装填のために強化バレルを必要とせず,使いやすさの観点から,バランスが取れています.</Difficulty_ClassicMortars_Info>
+  
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection>適応</DifficultyAdaptationSection>
+  <!-- EN: Adaptation growth rate -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>適応性の増加率</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>適応性とは,コロニーがうまくいっている間,ストーリーテラーがゲームをより挑戦的にすることを意味します.適応性スコアは時間と共に増加し,コロニーが被害を受けるとノックダウンします.\n\nこの設定は,適応性スコアが時間と共に増加する速度を調整します.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Adaptation impact -->
+  <Difficulty_AdaptationEffectFactor_Label>適応性の影響率</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
+  <Difficulty_AdaptationEffectFactor_Info>適応性とは,コロニーがうまくいっている間,ストーリーテラーがゲームをより挑戦的にすることを意味します.適応性スコアは時間と共に増加し,コロニーが被害を受けるとノックダウンします.\n\nこの設定は,適応性スコアが難易度にどの程度影響を与えるかを調整します.</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>非資産依存型進行モード</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>非資産依存型の進行モードでプレイします.\n\n通常のモードでは,ストーリーテラーは入植者の人数,プレーヤーの資産,及びその他の様々な要因に従って,脅威の規模を調整します.非資産依存型モードでは,資産係数が削除され,時間に基づく固定進行度曲線に置き換えられます.時間は各コロニーの設立からカウントされます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.非資産依存型モードでは,新しい入植地を見つけない限り,深刻な損失から回復することはほぼ不可能です.また,実際の資産が曲線を遙かに上回り,ゲームが簡単になりすぎることも起こりえます.</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>脅威が最大になるまでの年数</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>非資産依存型モードで,脅威レベルが最大に達するまでのゲーム内年数です.\n\nストーリーテラーは依然として,入植者の人数やその他の様々な要因に従って,脅威の規模を調整することに注意してください.</Difficulty_FixedWealthTimeFactor_Info>
+
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>Ideology</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>低人数での改宗ブースト</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>プレイヤーが始めに設定した思想の入植者が一人しかいない場合,その思想へ改宗する確率に乗算される値です.改宗対象者への改宗の試みは,その影響を乗算された値で割ったものになります.\n\n始めに設定した思想の入植者が二人になると,効果は半分になります.\n\n始めに設定した思想の入植者が三人以上になると,この効果はなくなります.</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>開始位置を選択</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>開始位置・ランダム</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>決定</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>目標を設定してください.</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>その地形は {0} なため,降下できません</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>山岳には着陸できません</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>すでに {0} の本拠地となっています</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>すでに 貴方の本拠地です</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>このタイルは占領下です</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>入植地は,お互いに接することはできません</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>気候</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>地形</Terrain>
+  <!-- EN: Road -->
+  <Road>道</Road>
+  <!-- EN: River -->
+  <River>川</River>
+  <!-- EN: Elevation -->
+  <Elevation>高度</Elevation>
+  <!-- EN: Fertility -->
+  <Fertility>豊穣</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>豊穣</FertilityLower>
+  <!-- EN: Average temperature -->
+  <AvgTemp>年平均気温</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>降雨量</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>特徴</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>北端は海岸</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>東端は海岸</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>南端は海岸</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>西端は海岸</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>洞窟あり</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>本拠地</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>主な地層</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>タイムゾーン</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>移動 難易度</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>牧草はある?</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>疾病 平均頻度</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>/年</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>食料調達性</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません:\n\n{0}\n\nこれは普通よりもっとゲームが難しくなります.本当に続けますか?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>温度</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>明るさ</LightLower>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>キャラクターの 作成</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>キャラクターの名前です. \n\nこれは 特定のメニューで 表示されます.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>キャラクターの 略称です.\n\nこれは 常に表示されます. 姓や名, または 完全に別の ニックネームでも かまいません.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>キャラクターの 姓です.\n\nこれは 特定のメニューで 表示されます.</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>ランダム</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>年齢 {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>{PAWN_race}, {PAWN_ageFull}歳</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, {PAWN_ageFull}歳</PawnSummaryWithGender>
+  <!-- EN: Backstory -->
+  <Backstory>生い立ち</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>苦手・欠点</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>才能</Abilities>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipHediff>原因</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>無効な職業:</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>原因となる生い立ち</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>原因となる爵位</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>原因となる特性</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
+  <IncapableOfTooltipQuest>原因となるクエスト</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role -->
+  <IncapableOfTooltipRole>原因となる任務</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>原因となる遺伝子</IncapableOfTooltipGene>
+  <!-- EN: Traits -->
+  <Traits>才能・性格</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>永続的な心情効果</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>スキル</Skills>
+  <!-- EN: none -->
+  <NoneLower>なし</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>成年期</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>幼年期</Childhood>
+  <!-- EN: male -->
+  <Male>男性</Male>
+  <!-- EN: female -->
+  <Female>女性</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>男女</MaleAndFemale>
+  <!-- EN: male -->
+  <MaleAnimal>オス</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>メス</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>痛み</Pain>
+  <!-- EN: Health -->
+  <Health>健康</Health>
+  <!-- EN: Relations -->
+  <Relations>相関関係</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>所有物</Possessions>
+  <!-- EN: Team skills -->
+  <TeamSkills>チームスキル</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>選択済</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>置き去り</StartingPawnsLeftBehind>
+  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <GuiltyDesc>この入植者は有罪と見なされます.自由に追放,処刑,または逮捕でき,他の人はこれを気にしません.\n\n有罪期限切れまで残り</GuiltyDesc>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>スタート</Start>
+  <!-- EN: Advanced -->
+  <Advanced>高度な設定</Advanced>
+  <!-- EN: Next -->
+  <Next>次</Next>
+  <!-- EN: Back -->
+  <Back>戻る</Back>
+  <!-- EN: Change material... -->
+  <ShowMaterials>材料を変更...</ShowMaterials>
+  <!-- EN: Gameplay -->
+  <Gameplay>ゲームの設定</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>本当に終了しますか? セーブしていないデータは失われます.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>次の作業を行うことができる人を一人も選択していません</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>やめる</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>無視</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>世界を生成しています</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>惑星を生成しています</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>地図を作成しています</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>新たな遭遇の為に,地図を作成しています</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info. -->
+  <ClickForMoreInfo>クリックで詳細を見る.</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>これ以上の情報はありません.</NoMoreInfoAvailable>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>派閥</Factions>
+  <!-- EN: max {0} basic factions allowed -->
+  <TotalFactionsAllowed>基本派閥は最大{0}つまで許可されます.</TotalFactionsAllowed>
+  <!-- EN: max {0} -->
+  <MaxFactionsForType>最大{0}</MaxFactionsForType>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>ワールドの派閥を選択してください.合計で最大{0}つまで派閥を選択できます.</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>{0}を無効にすると,クエストの種類が少なくなり,コンテンツが減ります.</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>{0}を無効にすると,一部の脅威の種類が少なくなります.</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>{0}を無効にすると,クエストの数と一部の脅威の種類が少なくなります.</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>他の派閥がない場合,襲撃,取引,クエストが通常どおりに発生しません.</FactionsDisabledWarning>
+
+  <!-- UNUSED -->
+  <RecommendedFactionCount>派閥の数を{0}以上にした場合,ゲームプレイに問題が生じる可能性があります.</RecommendedFactionCount>
+  <Current>現在</Current>
+  <ResetFactionsToDefault>デフォルトに戻す</ResetFactionsToDefault>
+
+</LanguageData>

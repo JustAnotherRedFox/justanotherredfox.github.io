@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: jaw -->
+  <AnimalJaw.label>σαγόνι</AnimalJaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>κεραία</Antenna.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>ράμφος</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>σώμα</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>έλυτρα</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>μπροστινό νύχι</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>νύχι</FrontClaw.labelShort>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>δαγκάνα</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>οπλή</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>κέρατο</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>καμπούρα</Hump.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>κεφάλι</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>καρδιά</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>πόδι</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>στόμα</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>ρουθούνι</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>μάγουλο</Jowl.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>πέλμα</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>πλαστρόν</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>πρόνωτο</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>πίσω νύχι</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>νύχι</RearClaw.labelShort>
+  
+  <!-- EN: shell -->
+  <Shell.label>κέλυφος</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>σώμα</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>κεφάλι</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>στόμα</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>ουρά</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>προβοσκίδα</Trunk.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeak.label>ράμφος</TurtleBeak.label>
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>καβούκι</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>χαυλιόδοντας</Tusk.label>
+  
+</LanguageData>

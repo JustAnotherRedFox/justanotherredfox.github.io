@@ -1,0 +1,1289 @@
+﻿1x2-tisch
+2x2-tisch
+2x4-tisch
+3x3-tisch
+abenteurer
+abfackler
+abtrünniger
+abtrünniger ingenieur
+ackerbauer
+adliger
+affe
+agarilux
+agrarhelfer
+ahorn
+akademiestudent
+akolyth
+akustiksensor
+alchemist-praktikant
+alkohol
+alkoholisierter trucker
+alphabiber
+amateur-astronom
+amateurbotaniker
+amateuringenieur
+ambrosiabusch
+ameisenbaum
+anarchistischer rebell
+anführer
+angehender künstler
+ängstlicher koch
+anhänger
+animabaum
+animabaumstumpf
+animus-stein
+annäherungsauslöser
+antiker
+antiker bandknoten
+antiker briefkasten
+antiker container
+antiker defekter panzer
+antiker defekter transportpanzer
+antiker einkaufswagen
+antiker exoschreiter-kopf
+antiker geldautomat
+antiker generator
+antiker giftgenerator
+antiker großer mech-gestator
+antiker großer motorblock
+antiker herd
+antiker hydrant
+antiker instabiler tankknoten
+antiker kampfläufer-fuß
+antiker kampfläufer-torso
+antiker kühlschrank
+antiker lagerzylinder
+antiker lastwagen
+antiker laternenmast
+antiker mech-gestator
+antiker motorblock
+antiker ofen
+antiker operationstisch
+antiker soldat
+antiker stacheldraht
+antiker truppentransporter
+antiker verkaufsautomat
+antiker zaun
+antimaterie-sprengkopf
+apokrit
+arbeitslagersklave
+arbeitsplatz
+archäologe
+architekt
+archonexuskern
+archotech-arm
+archotech-spion
+archotech-turm
+arenakämpfer
+arm
+armeekoch
+aromatherapeut
+artefaktjäger
+asperger-rebell
+assistenzarzt
+ästhetischer formgeber
+attentäter
+attentäter mit amnesie
+aufbereitungsmagen
+aufklärerscharfschütze
+aufrechter diplomat
+aufstrebender physiker
+auftragsattentäter
+auftragsschläger
+ausgegrabener baum
+ausgräber
+aushöhler
+auslöser anti-nebel
+auslöser containerentleerung
+ausrüstungszersetzer
+außenweltler
+außenwelt-rekrut
+austauschschüler
+auto-impuls-turm
+auto-inferno-turm
+autokanonenturm
+auto-mörser
+baby-schlafplatz
+balletttänzer
+bambus
+bandbreitenrucksack
+bandenchef
+bandenführer
+bandknoten
+barkeeper
+baron
+bauarbeiter
+bauchpanzer
+bauingenieur
+baumhausbauer
+baumstumpf
+bauschutt
+beamter
+beerenstrauch
+behälter
+berater
+berserker
+berserkermeister
+berühmter professor
+beschädigter asphalt
+bestatter
+bestienmeister
+beton
+bettler
+biestschlächter
+bildhauer
+billardtisch
+bionischer arm
+bionischer magen
+biorhythmus-assistent
+biorhythmus-halbierer
+biosphärenverwalter
+bison
+blackjackspieler
+blauer chaotischer teppich
+blitzsturm
+blumentopf
+blutrünstiger wanderer
+blutrünstiger zahnarzt
+blutspiel-überlebender
+bogenmeister
+bogenschütze
+bohrarm
+bong
+bonsai-baum
+bonsai-topf
+bordellhelfer
+bösewicht
+boss
+brandbolzen
+brandbolzenwerfer
+brandpfeil
+brettschneider
+brustkorb
+brutaler dieb
+bücherwurm
+buddler
+bürgerlicher baron
+bürgerlicher erbe
+busch
+büßer
+chefingenieur
+chefkoch
+chemiker
+clan-chef
+computer
+computernerd
+computertechniker
+countdown-aktivator
+cowboyhut
+damenhut
+dampfwelt-tüftler
+datendekodierer
+delinquent
+deserteur
+diabolus
+diamantener chaotischer teppich
+diener
+disziplinierter farmer
+doomsday-außenseiter
+doomsday-raketenwerfer
+doppelschlafplatz
+doppelschlafsack
+dorfbewohner
+dornenstrauch
+drachenbaum
+dreck
+dreifach-raketenwerfer
+dritter körperring
+drogenkurier
+drogenoffizier
+dromedar-ritter
+dryadenkokon
+durchbrecher
+eber
+ehrgeiziger ingenieur
+eifriger schüler
+einfacher soldat
+einsamer reisender
+einsiedler
+eintopfhüter
+einziger überlebender
+eisbär
+eiswelt-überlebender
+elch
+elefant
+elefantenstoßzahn
+elektr. herd
+elektr. nähtisch
+elite-ödländer
+elite-söldner
+eltex-helm
+eltex-stab
+embryo
+emi-generator
+empath
+emp-grenadier
+emp-werfer
+emu
+endlos-chemreaktor
+energieforscher
+engagierter student
+entdecker
+entehrter offizier
+enterich
+entflohener gefangener
+entführter
+enthaltsamer priester
+entlassener soldat
+entlauber
+eremit
+erfinder
+erster körperring
+esel
+ex-beamter
+exotischer koch
+fabrikarbeiter
+fabrikationstisch
+fabrikor
+fahnenflüchtiger soldat
+farbstoff
+farmer
+farmersklave
+fasermais
+fauler programmierer
+feldtechniker
+feuerbomber
+feuerhüter
+feuerstellenhüter
+finger
+firmenbauarbeiter
+firmensklave
+flachbildfernseher
+flammenbogen
+flaneur
+flaschenbauch
+flaschenhals
+fliegerass-pilot
+flottenforscher
+flottenpfadfinder
+flottentechnikoffizier
+flüchtiger
+flüchtling
+fluglotse
+folterer
+folterkäfig
+formsack
+forschertisch
+förster
+frachterpilot
+fraktionsführer
+freibauer
+freidenker
+friedlicher stamm
+frischling
+frommer soldat
+fuchspelz
+fühler
+fünfter körperring
+funke
+fuß
+galaktischer page
+gang-soldat
+gänserich
+gärbottich
+gartenzwergbiologe
+gärtner
+gastro-analysator
+gauralanbaum
+gauralanbaumstumpf
+gauralansamen
+gebetsteppich
+gebrochener soldat
+gefechtsmechaniker
+gefühlloser doktor
+gefürchteter dude
+geglätteter granit
+geglätteter kalkstein
+geglätteter marmor
+geglätteter sandstein
+geglätteter schiefer
+geheimagent
+gelber chaotischer teppich
+genetikwissenschaftler
+gen-extraktor
+gen-kombinator
+gen-prozessor
+gentechniker
+geologe
+geothermiegenerator
+geruchssensor
+gesandter der sterne
+geschäftsführer
+geschäftsgangster
+geschichtenerzähler
+geschichtsstudent
+gewaltiger altar
+gewiefter gauner
+gewürzschürfer
+geysir
+gezackter bodenstern (breit)
+gezackter bodenstern (mittel)
+gezüchteter attentäter
+gezüchteter forscher
+gezüchteter sanitäter
+gezüchteter soldat
+gießereilehrling
+giftgärtner
+giftgenerator
+giftiger fallout
+giftmüllatomisierer
+giftrucksack
+giftspeier
+giftwerfer
+giftzahn
+gigolo
+gladius
+glitzerwelt-adliger
+glitzerwelt-chirurg
+glitzerwelt-empath
+glitzerwelt-nerd
+glitzerwelt-offizier
+g-nome-modelleur
+gräber
+graf
+grafikdesigner
+granit
+granitbrocken
+grenadier
+grenzmarschall
+griff
+grimmiger neandertaler-stamm
+grimmiger stamm
+grizzlybär
+grober bauarbeiter
+großbildfernseher
+großbogen
+großbogenpfeil
+großer altar
+großer mech-gestator
+großer naturschrein
+grubenkämpfer
+grundbesitzer
+grüner chaotischer teppich
+gunlink
+gutsverwalter
+hahn
+hals
+halsschild
+hämogenverstärker
+handlanger
+händler
+handwerksexperte
+hase
+hauer
+häuptling
+hauptteil
+hausdiener
+hausmann
+heckenschütze
+hedgefonds-manager
+heeresfeldwebel
+heerführer
+heiler
+heilungsverstärker
+held
+helm
+hengst
+herd
+herpetologe
+herumtreiber
+herzog
+hexenwaldbaum
+hexzellen-künstler
+hightech-forschertisch
+hilfsmittel-slot
+hinterhalt
+hirnforscher
+hirsch
+hirte
+hochgeborener baron
+hochstapler
+hochstellarch
+hochzeitsplatz
+hocker
+höhlenforscher
+höhlenkäfer
+höhlenkäfer-kokon
+höhlenwelt-behüter
+höhlenwelt-erleuchter
+höhlenwelt-gräber
+höllensphärenkanonenschuss
+holz betriebener generator
+holzboden
+holzfäller
+holzpilz
+hopfen
+hornstachel
+huf
+hufeisenstab
+husky
+huskywelpe
+hüttenbauer
+hyperkondensator
+hypnokult-anführer
+idealistischer kadett
+illegaler schiffsbauer
+immunisierverstärker
+imp
+imperialer arbeiter
+imperialer bürger
+imperialer grenadier
+imperialer händler
+imperialer student
+imperialist
+impulsblasterschuss
+impulsblasterturm
+impulslanzenschuss
+impulsschuss
+inbrünstiger forscher
+inbrünstiger tänzer
+infanterie-ingenieur
+infanterie-offizier
+infanterie-sanitäter
+infanterist
+informationsmakler
+ingenieur
+ingenieurstudent
+insektenkokon
+intimer attentäter
+jade
+jagender plünderer
+jäger
+jäger des königs
+janitschar
+joywire-künstler
+joywire-süchtiger
+junger knappe
+junger krimineller
+junger landadliger
+junger lehnsherr
+junger meister
+junger pirat
+junger psychologe
+junger schiffslord
+junger soldat
+junger spion
+junger stadtlord
+junger waffennarr
+junghahn
+kadett
+kaiser
+kakaobaum
+kalkstein
+kalksteinbrocken
+kampfigel
+kampfingenieur
+kampfmedizintechniker
+kampfsanitäter
+kampfunterhändler
+kannibalischer stamm
+kanonier
+kapselmonteur
+kapselschleim
+karawanenreisender
+karawanensammelplatz
+karawanist
+kasuar
+kataphrakt
+kataphrakthelm
+katzenhirte
+katzenwissenschaftler
+kegelhut
+keiler
+kelch
+kern-dilettant
+kernwelt-juwelier
+kernwelt-student
+kies
+ki-forscher
+kinderhelm
+kinderparka
+kinderstar
+kinderstrampler
+ki-programmierer
+klassenclown
+kleiner altar
+kleiner naturschrein
+klimaregulator
+klinkenstecker-süchtiger
+klon-farmer
+klon-gezüchteter
+knastbruder
+kniestachel
+knochensammler
+koagulator
+kolonialer gouverneur
+kolonie-ingenieur
+koloniepionier
+kolonist
+kolosseumskämpfer
+kolosseumsreiniger
+koma-scharfschütze
+königlicher bastard
+königlicher koch
+königlicher masseur
+königlicher wächter
+konstruktoid
+konsul
+kontrollrucksack
+kontroll-sublink (mittelstufe)
+kontroll-sublink (oberstufe)
+konzeptkünstler
+konzernarbeiter
+konzernforscher
+konzernmanager
+konzern-problemlöser
+konzernstudent
+kopf
+kopfgeldjäger
+körper
+kosmetik-verweigerer
+kostümbildner
+krankenpfleger
+kränklicher anwalt
+kränklicher lügner
+kräuterheilkundiger
+krieger
+kriegsbastard
+kriegsflüchtling
+kriegsgefangener
+kriegshammer
+kriegshäuptling
+kriegsherr
+kriegshetzer
+kriegsschiffskapitän
+krimineller chirurg
+kugelturm
+kugelwerfer
+kühner exzentriker
+kuhzüchter
+kundenberater
+kunstexzentriker
+künstlertisch
+kunstmäzen
+kunstsklave
+kunststudent
+kurier
+kurzbogen
+kurzbogenpfeil
+labiler fleischer
+labrador retriever
+labrador retriever welpe
+landarbeiter
+landmechaniker
+landwirt
+langstreckenscanner
+lanzer
+lastenheber
+lauf
+laufbursche
+lautsprecher
+legaler hacker
+legionär
+leguan
+lehrer
+leibwächter
+leibwächter-praktikant
+leichter impulsblaster
+leichter mech
+leichter mech mit klingen
+lernassistent
+leuchtstuhl
+libidoverstärker
+lila chaotischer teppich
+linieninfanterist
+linker akustiksensor
+linker arm
+linker daumen
+linker fuß
+linker großer zeh
+linker hinterfuß
+linker hinterhuf
+linker huf
+linker kleiner finger
+linker kleiner zeh
+linker mittelfinger
+linker mittelzeh
+linker oberarmknochen
+linker oberschenkel
+linker optiksensor
+linker ringfinger
+linker ringzeh
+linker stoßzahn
+linker vorderfuß
+linker vorderhuf
+linker zeigefinger
+linker zeigezeh
+löschschaum
+löschschaumrucksack
+löschschaumwerfer
+löwenzahn
+loyaler janitschar
+luchs
+machtgieriger gelehrter
+mafiaboss
+magen
+mais
+marinehelm
+marinekadett
+marmor
+marmorbrocken
+maschinenbauingenieur
+maschinenreparateur
+maschinensammler
+maschinist
+materialformer
+mathematiker
+mechanitor
+mechanoid
+mechanoidenhacker
+mechanoiden-nerd
+mech-boden-schild
+mech-booster
+mechcommander-helm
+mech-gestation-prozessor
+mech-gestator
+mech-knoten
+mech-krieg-veteran
+mechlink
+mechlord-helm
+mech-luft-schild
+mech-schild
+mech-transponder
+meditationsplatz
+meditationsthron
+medizinforscher
+medizinhelfer
+medizinstudent
+megaskarabäus
+megaskarabäus-kokon
+megaspinne-kokon
+meisterhändler
+meisterkoch
+meisterspion
+menagerie-wärter
+mensch
+menschenhändler
+menschlicher computer
+merkwürdiger nerd
+meteorit (ankommend)
+meuternder kapitän
+mikrobiologe
+militär-büchsenmacher
+militär-erfinder
+militär-ingenieur
+militär-kadett
+militär-kaplan
+militär-koch
+militär-offizier
+militär-praktikant
+militär-rekrut
+militärwissenschaftler
+militor
+milizagent
+milizsoldat
+minenarbeiter
+mini-flammenblaster
+mini-kugelwerfer
+mini-kugelwerfer-turm
+minister
+missionar
+mittelalter-barde
+mittelalter-bauer
+mittelalter-dieb
+mittelalter-junker
+mittelalter-knappe
+mittelalter-lord
+mittelalter-nomade
+mittelalter-pflüger
+mittelalter-quacksalber
+mittelalter-ritter
+mittelalter-seefahrer
+mittelalter-sklave
+mittlerer altar
+mittwelt-computernerd
+mittwelt-einzelgänger
+mittwelt-kadett
+mittwelt-seemann
+mittwelt-zeichner
+mod-entwickler
+molotowcocktail
+monteur
+mörder
+mörser
+muffalo
+muffalo-forscher
+muffalo-schamane
+müll
+multi-analysator
+mund
+mundschutz
+muntermacher
+mutiger krieger
+mysteriöser fremder
+nachttisch
+nachzügler
+nadelwerfer
+näherungsaktivator
+nährpastenspender
+nähtisch
+nano-struktur-chip
+naturalist
+neandertaler
+nerd
+nervennagel
+netzwerktechniker
+neuer stamm
+neurorechner
+neuzeit-duellant
+niedriglohnarbeiter
+ninja-attentäter
+notfallsanitäter
+nudistenstamm
+nuklearmagen
+nutrifungus
+oberarmknochen
+oberkörper
+oberschenkelknochen
+oberster diener
+ober-urbweltler
+ödländer
+ödländer-boss
+ödländer-grenadier
+ödländer-schlitzer
+ödländer-schütze
+ödland-wanderer
+offiziersanwärter
+ölfleck
+optiksensor
+orakel-lehrling
+orbitalreservist
+organspender
+osteologe
+panther
+panzer
+parka
+partikelphysiker
+partyplatz
+pemmikan
+persona-kern
+persona-zeushammer
+pestdoktor
+pest-überlebender
+pfadfinder
+pflanzensammler
+philosoph
+pikenier
+pilger
+pilot-fan
+pilzkies
+pirat
+piratendoktor
+piratenkapitän
+piratenkönig
+piratenschütze
+piratensoldat
+piratensympathisant
+pizza-fan
+planetarer bergarbeiter
+planetarer diplomat
+planetenzerstörer
+plastahl
+plünderer
+plünderschläger
+plünderschütze
+pokertisch
+polarfuchs
+polarfuchswelpe
+polarwolf
+polarwolfswelpe
+politiker
+politischer aktivist
+politischer attentäter
+politischer gefangener
+politkommissar
+polizist
+poluxbaum
+poluxbaumstumpf
+poluxsamen
+pop-idol-pirat
+postbote
+powerfokus-chip
+prätor
+prediger
+prestige-kataphrakthelm
+prestige-marinehelm
+prestige-späherhelm
+privatdetektiv
+professioneller spieler
+prominenter student
+propagandist
+prothesenchirurg
+prunkvoller meditationsthron
+psychiatriepatient
+psychit
+psychit-tee
+psycho-beruhigung-impulsgeber
+psycho-brummer
+psycho-emanator
+psycho-folienhelm
+psycho-gedankenleser
+psycho-harmonisierer
+psychologiestudent
+psycho-sensibilisierer
+psycho-tier-impulsgeber
+psycho-unterdrücker
+psylink-neuroformer
+puma
+punk
+putzhelfer
+pyro-assistent
+pyromane
+rachgieriger entdecker
+rachsüchtiger jäger
+rachsüchtiger nomade
+raiderkönig
+raketeningenieur
+raketenpionier
+raketenschwarmturm
+raketenschwarmwerfer
+randwelt-exilant
+ratsvorsitzender
+räuber
+rauchblatt-joint
+rauchgenerator
+rauch-grenadier
+rauchrucksack
+rauchwerfer
+raumfahrt-ingenieur
+raumschiffhausmeister
+raumschiffkoch
+raumschiffsarzt
+raumschiffverkäufer
+raumstationskoch
+reaktor
+rebellischer schreiber
+rebellischer schüler
+rebellischer sklave
+rebellischer student
+rechteckauslöser
+rechter akustiksensor
+rechter arm
+rechter daumen
+rechter fuß
+rechter großer zeh
+rechter hinterfuß
+rechter hinterhuf
+rechter huf
+rechter kleiner finger
+rechter kleiner zeh
+rechter mittelfinger
+rechter mittelzeh
+rechter oberarmknochen
+rechter oberschenkel
+rechter optiksensor
+rechter ringfinger
+rechter ringzeh
+rechter stoßzahn
+rechter vorderfuß
+rechter vorderhuf
+rechter zeigefinger
+rechter zeigezeh
+recurvebogen
+recurvebogenpfeil
+regent
+regierungsagent
+reicher erbe
+reichsgeneral
+reichsinquisitor
+reichspriester
+reis
+reisender barde
+reisender handwerker
+reißdorn
+rekrutierer
+religiöser empath
+religiöser hierarch
+reliquienschrein
+reporter
+reptilienforscher
+restaurator
+rettungssanitäter
+revolver
+revolverheld
+riesenkaktus
+ritter
+ritualplatz
+roboteringenieur
+robotiker
+röhrenfernseher
+romanautor
+rotfuchs
+rotfuchswelpe
+rugby-spieler
+rumpf
+rüssel
+rustikaler teppich (breit)
+rustikaler teppich (mittel)
+sand
+sandstein
+sandsteinbrocken
+sanguophage
+sanierungskapitän
+sanitäter
+sarkophag
+säuresmog
+schachmeister
+schachtisch
+schädel
+schädelspieß
+schafbock
+schaft
+schattenschamane
+schatzsucher
+schaum
+schaumsprüher
+schaumturm
+schauspieler
+scheiterhaufen
+schiefer
+schieferbrocken
+schiffbrüchiger
+schiffscomputerkern
+schiffsjunge
+schiffsknacker
+schiffsreaktor
+schiffstechniker
+schiffsträger
+schild
+schildgürtel
+schildkern
+schildkrötenhirte
+schildrucksack
+schlachter
+schlachtplatz
+schlafplatz
+schlafsack
+schlamm
+schleier
+schleim
+schmelzofen
+schmerzstopper
+schmied
+schmiedelehrling
+schmuckmacher
+schmuggler
+schnabel
+schneehase
+schneemann
+schnitter
+schnitzer
+schnorrer
+schönheitschirurg
+schreibender entdecker
+schreiner
+schriftsteller
+schrottplatzmechaniker
+schulhof-außenseiter
+schultisch
+schutzhelm
+schwanz
+schweineschütze
+schwerbewaffneter reisender
+schwerer bogenschütze
+schwerer impulsblaster
+schwerer mech mit powerkrallen
+schwerer ödländer
+schwerer söldner
+schwerer waffengurt
+sechster körperring
+selbstloser jäger
+serienmörder
+sessel
+shadow-marine
+sheriff
+signal-chip
+simulant
+sklave
+sklavenchemiker
+sklavenkörpergurt
+skrupelloser arzt
+softwareentwickler
+sohn eines schmieds
+solargenerator
+soldatenbauer
+söldner
+söldneranführer
+söldnerfürst
+söldnerkapitän
+söldner-koch
+söldnerpilot
+söldnerrekrut
+söldnerscharfschütze
+söldnerschlitzer
+söldnerschütze
+sonnenblocker
+sozialer außenseiter
+sozialhelfer
+space marine
+space-marine-sanitäter
+späher
+späherhelm
+speeder-rennfahrer
+speer
+spieleentwickler
+spielefanatiker
+spieletester
+spion
+sportler
+sprachanalytiker
+sprengmeister
+sprit
+sprit betriebener generator
+sprung
+sprungrucksack
+staatlicher ingenieur
+staatsdiener
+stachel
+stadthändler
+stadtrat
+stadtwächter
+stahl
+stahlschrott
+stammesdonnerer
+stammesmann
+standhafter farmer
+stationswachmann
+stationswelpe
+staubiger stallknecht
+staubmantel
+steinbock
+steinhauer
+steinkaktus
+steinmetztisch
+steinwurfring
+stellarch
+stellarer pirat
+stellischer beschützer
+stellischer wächter
+sterilisiermagen
+sternenakolyt
+sternenflotte-kadett
+sternenjägerpilot
+sternenknappe
+sternenritter
+steward-assistent
+stiel
+stier
+stiletto-attentäter
+stiller nerd
+stoff
+stoßzahn
+strahlenangriff
+strahlen-graser
+straßenverkäufer
+strauß
+streamer
+streitkolben
+stromschalter
+student
+stuhl
+sturmtruppensoldat
+subkern (grundstufe)
+subkern (mittelstufe)
+subkern (oberstufe)
+subkern-kodierer
+subkern-ripscanner
+subkern-softscanner
+suchtberater
+sumpf
+supersoldat
+systemherrscher
+systemingenieur
+tagelöhner
+taschendieb
+taxonom
+teakbaum
+tech-enthusiast
+tech-nerd
+techniker
+technisierter pilot
+techprof-subpersona-kern
+tesseron
+teufelsgarnpilz
+theatertechniker
+thrumbo
+tiefenbohrer
+tiefenscanner
+tierarzt
+tierhüter
+tierlabortechniker
+tierpfleger
+tierschlafplatz
+tierschmutz
+timberwolf
+timberwolfswelpe
+titelverleiher
+toaster-mechaniker
+todesschlaf-beschleuniger
+todesschlaf-sarg
+tornado
+tourist
+tragant
+träumer
+trauriger einzelgänger
+trichter
+truthahn
+tüftler
+tunnel
+tunnelgräber
+turban
+turner
+turnierkämpfer
+überlebenskämpfer
+überlebenskünstler
+umhang
+unfertiger gürtel
+unfertiger rucksack
+unfertiger subkern
+unfreiwilliger eremit
+ungewollter überlebender
+unterboden
+uran
+urangeschossturm
+urbwelt-hooligan
+urbwelt-krimineller
+urbwelt-militär-bengel
+urbwelt-politiker
+urbwelt-rebell
+urbwelt-sexsklave
+urbwelt-unternehmer
+urbwelt-vollstrecker
+urbwelt-wachtmeister
+urbwelt-zuhälter
+ureinwohner
+vagabund
+verbannter
+verbannter forscher
+verbannter prinz
+verbannter soldat
+verbrannter holzboden
+verbrannter teppich
+verbrecherboss
+verbrecherfürst
+verglühender schild
+verhaltensforscher
+verlorener marinesoldat
+verlorener soldat
+verrückter buchhalter
+verrückter erfinder
+verrückter forscher
+verrückter professor
+verstärkter lauf
+verteidigungsanwalt
+vertragsschürfer
+vertriebener adliger
+verwaister akrobat
+verwöhnter prinz
+verzogener bengel
+videoproduzent
+videospieler
+vidtube-star
+viehzüchter
+vielseitiger arbeiter
+vierter körperring
+vinho-könig
+vitalmonitor
+vogel
+voidspace-raider
+vorhang
+vorkoster
+vr-entwickler
+vr-süchtiger
+vulkanischer winter
+wächter
+wachturmscharfschütze
+waffenhändler
+waffenschmied
+waldläufer
+waldstreuner
+wanderheiler
+warg
+wargwelpe
+warzenkaktus
+waschbär
+wasseraufbereiter
+wasserradgenerator
+weber
+wegpunkt
+weicher sand
+weihnachtsbaum
+weihrauchschrein
+weinläufer
+weltall-flottentechniker
+weltall-minenarbeiter
+weltenbummler
+weltenspringer
+weltraum-barkeeper
+weltraumentdecker
+weltraum-fan
+weltraum-flottenarzt
+weltraumflüchtling
+weltraumforscher
+weltraumhändler
+weltraumhumanist
+weltraumjäger
+weltraumkadett
+weltraum-nerd
+weltraumpirat
+weltraum-raider
+weltraumschmuggler
+weltraumtaktiker
+weltraumtechniker
+weltraumvermesser
+weltraumyacht-pilot
+werkzeugmechaniker
+werkzeugschrank
+wettermanipulator
+widerstandskämpfer
+wilder außenweltler-verbund
+wilder impiden-stamm
+wilder mann
+wilder mensch
+wilder schweinehäute-verbund
+wilder stamm
+wildhüter
+wissenshüter
+wohlhabender schüler
+wrackforscher
+wurfarm
+würfel
+wüstenfuchs
+wüstenfuchswelpe
+wütender schüler
+xenokeim
+yak
+yorkshire terrier
+yorkshire terrier welpe
+yttakin
+zähmer
+zaun
+zeh
+zenturio
+zerstörer-general
+zeushammer
+ziegenbock
+zirkusartist
+ziviler außenweltler-verbund
+zweiter körperring
+zylinder

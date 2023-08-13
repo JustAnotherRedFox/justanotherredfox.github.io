@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arresting worsens faction relations -->
+  <ArrestingCreatesEnemies.label>拘捕將導致關係惡化</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
+  <ArrestingCreatesEnemies.helpText>警告：你的拘捕對象可能不會乖乖地接受拘捕。\n\n如果你拘捕該派系的殖民者，他們整個派系都將視你為敵。\n\n根據拘捕者的社交等級，這次拘捕的成功率為{0}%。</ArrestingCreatesEnemies.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>最大殖民地數量</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <MaxNumberOfPlayerSettlements.helpText>警告：RimWorld在設計上是用來在同時間遊玩單一座玩家基地，雖然同時建立多座據點是可能的，但這很可能會導致遊戲運行速度變慢而且破壞平衡性，我們建議，至少在剛接觸遊戲時只玩一座基地就好。</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsGame.label>Steam Deck控制</SteamDeckControlsGame.label>
+  <!-- EN: Press X to open the architect menu and {Key:TogglePause} to pause and resume the game. Use triggers for primary and secondary clicks. Zoom in and out and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press and hold the L5 back button to pan the camera with the touch screen and simulate secondary clicks. -->
+  <SteamDeckControlsGame.helpText>按X開啟建築選單，按{Key:TogglePause}暫停和繼續遊戲。L2和R2分別作為滑鼠左右鍵。{Key:MapZoom_In}和{Key:MapZoom_Out}用作放大縮小畫面。當按住背鍵L5時，滑動觸控螢幕可以移動遊戲畫面，單擊螢幕可以模擬右鍵。</SteamDeckControlsGame.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsMainMenu.label>Steam Deck控制</SteamDeckControlsMainMenu.label>
+  <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
+  <SteamDeckControlsMainMenu.helpText>使用觸控板移動滑鼠游標。使用R2作為滑鼠左鍵。按{Key:Accept}確認，按{Key:Cancel}返回。</SteamDeckControlsMainMenu.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>開關電源</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>提示：切換開關必須由居民執行。\n\n在擁有「控制」技能的居民前來切換開關前，裝置將保持原來的狀態。</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>商品及信標</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>欲送出商品或白銀至宇宙商船處，你必須建立一座軌道交易信標，並於其周圍設置一片可接受商品的儲存區。</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <!-- EN: Trading permit requirements -->
+  <TradingRequiresPermit.label>需要貿易許可</TradingRequiresPermit.label>
+  <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
+  <TradingRequiresPermit.helpText>只有{0}才可以在此交易。\n\n請確保你派出的貿易旅隊至少有一名{0}或更高級的頭銜。</TradingRequiresPermit.helpText>
+  
+</LanguageData>

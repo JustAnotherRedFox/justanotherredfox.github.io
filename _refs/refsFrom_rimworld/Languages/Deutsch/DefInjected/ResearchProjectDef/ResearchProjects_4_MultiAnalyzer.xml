@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>erweiterte Fabrikation</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>Stelle Hightech-Bauteile aus normalen Bauteilen und anderen Materialien her.</AdvancedFabrication.description>
+  
+  <!-- EN: bionic replacements -->
+  <Bionics.label>Bionik</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>Stelle bionische Hightech-Körperteile her, um fehlende Gliedmaßen oder Augen zu ersetzen. Zum Anbringen ist ein qualifizierter Arzt erforderlich.</Bionics.description>
+  
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>impulsgeladene Munition</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>Stelle Schusswaffen her, die impulsgeladene Munition verschießen, um zusätzlichen Schaden anzurichten. Für die Herstellung werden Hightech-Bauteile benötigt.</ChargedShot.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <Cryptosleep.label>Kryptoschlafkapsel</Cryptosleep.label>
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>Baue Kryptoschlafkapseln, um beliebige Lebewesen in einen künstlichen Winterschlaf zu versetzen.</Cryptosleep.description>
+  
+  <!-- EN: fabrication -->
+  <Fabrication.label>Fabrikation</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>Baue Fabrikationstische, um moderne Produkte wie Bauteile oder Powerrüstungen herzustellen.</Fabrication.description>
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
+  <Fabrication.discoveredLetterText>Du verfügst nun über die Technologie, um einen Fabrikationstisch zu bauen - allerdings sind dafür einige Hightech-Bauteile erforderlich. Du kannst Hightech-Bauteile auf verschiedene Weise erwerben:\n\n  - Alle Außenweltlersiedlungen verkaufen Hightech-Bauteile. Entsende eine Karawane, um welche zu kaufen.\n  - Einige reisende Händler verkaufen Hightech-Bauteile. Rufe sie via Funkanlage oder warte auf sie.\n  - Einige Quests bieten Hightech-Bauteile als Belohnung.</Fabrication.discoveredLetterText>
+  <!-- EN: About: Getting advanced components -->
+  <Fabrication.discoveredLetterTitle>Info: Hightech-Bauteile erwerben</Fabrication.discoveredLetterTitle>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>Multi-Analysator</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>Baue Multi-Analysatoren, um die Forschungsgeschwindigkeit zu erhöhen und höherstufige Forschungsprojekte freizuschalten.</MultiAnalyzer.description>
+  
+  <!-- EN: marine armor -->
+  <PoweredArmor.label>Marinerüstung</PoweredArmor.label>
+  <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
+  <PoweredArmor.description>Stelle eine Marinerüstung her. Diese Powerrüstung kommt standardmäßig bei hochmodernen Sturmtruppen zum Einsatz. Für die Herstellung werden Hightech-Bauteile benötigt.</PoweredArmor.description>
+  
+  <!-- EN: recon armor -->
+  <ReconArmor.label>Späherrüstung</ReconArmor.label>
+  <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
+  <ReconArmor.description>Stelle eine Späherrüstung her. Diese leichte Powerrüstung kommt standardmäßig bei Spähtrupps zum Einsatz, die unterwegs Schutz benötigen. Für die Herstellung werden Hightech-Bauteile benötigt.</ReconArmor.description>
+  
+  <!-- EN: rocketswarm launcher -->
+  <RocketswarmLauncher.label>Raketenschwarmturm</RocketswarmLauncher.label>
+  <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
+  <RocketswarmLauncher.description>Baue einen Turm, der aktiviert werden kann, um ein großflächiges Gebiet mit einer Salve von Raketen zu bombardieren.</RocketswarmLauncher.description>
+  
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>Urangeschossturm</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>Baue einen Turm, der panzerbrechende Urangeschosse verschießt. Diese Geschosse können Plastahl durchdringen, als wäre es Papier. Nicht für nahe Ziele geeignet.</SniperTurret.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>Vitalmonitor</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>Baue Vitalmonitore neben Intensivbetten, um bessere medizinische Ergebnisse zu erzielen.</VitalsMonitor.description>
+  
+</LanguageData>

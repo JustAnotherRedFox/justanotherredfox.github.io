@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recon armor -->
+  <Apparel_ArmorRecon.label>斥候裝甲</Apparel_ArmorRecon.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
+  <Apparel_ArmorRecon.description>輕型的小動力裝甲，設計用於快速移動。輕巧的塑鋼可以有效阻擋攻擊，神經模仿器讓人類穿上後，仍然可以輕鬆移動。\n\n帝國偵查兵、閃耀世界警察常常使用這種裝甲。</Apparel_ArmorRecon.description>
+  
+  <!-- EN: T-shirt -->
+  <Apparel_BasicShirt.label>T恤</Apparel_BasicShirt.label>
+  <!-- EN: A simple T-shirt. -->
+  <Apparel_BasicShirt.description>普通的T恤。</Apparel_BasicShirt.description>
+  
+  <!-- EN: cape -->
+  <Apparel_Cape.label>披肩</Apparel_Cape.label>
+  <!-- EN: A long cape of elegant design. It hangs over one side of the torso. -->
+  <Apparel_Cape.description>具有典雅設計的長斗篷，它掛在軀幹的一側。</Apparel_Cape.description>
+  
+  <!-- EN: button-down shirt -->
+  <Apparel_CollarShirt.label>襯衫</Apparel_CollarShirt.label>
+  <!-- EN: A nice-looking collared shirt with buttons. -->
+  <Apparel_CollarShirt.description>好看的鈕扣襯衫。</Apparel_CollarShirt.description>
+  
+  <!-- EN: duster -->
+  <Apparel_Duster.label>風衣</Apparel_Duster.label>
+  <!-- EN: A long duster coat for blocking the sun and grit of the outdoors. -->
+  <Apparel_Duster.description>用於遮擋室外的陽光、沙塵的風衣。</Apparel_Duster.description>
+  
+  <!-- EN: flak jacket -->
+  <Apparel_FlakJacket.label>防彈夾克</Apparel_FlakJacket.label>
+  <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakJacket.description>縫入板甲的強韌夾克。雖然不比實際的裝甲，但它能有效防禦各種攻擊，穿起來也相當舒適。</Apparel_FlakJacket.description>
+  
+  <!-- EN: flak pants -->
+  <Apparel_FlakPants.label>防彈褲</Apparel_FlakPants.label>
+  <!-- EN: A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakPants.description>縫入板甲的褲子。雖然不比實際的裝甲，但它能有效防禦各種攻擊，穿起來也相當舒適。</Apparel_FlakPants.description>
+  
+  <!-- EN: flak vest -->
+  <Apparel_FlakVest.label>防彈背心</Apparel_FlakVest.label>
+  <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
+  <Apparel_FlakVest.description>胸部、背部附有板甲的背心。雖然可以有效防禦身體的槍傷、刺傷，但並沒有保護到四肢。</Apparel_FlakVest.description>
+  
+  <!-- EN: jacket -->
+  <Apparel_Jacket.label>夾克</Apparel_Jacket.label>
+  <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
+  <Apparel_Jacket.description>可以阻擋擦傷、撞傷的強韌夾克，可以在寒冷的天氣保持溫暖。</Apparel_Jacket.description>
+  
+  <!-- EN: pants -->
+  <Apparel_Pants.label>褲子</Apparel_Pants.label>
+  <!-- EN: A simple set of pants. -->
+  <Apparel_Pants.description>普通的褲子。</Apparel_Pants.description>
+  
+  <!-- EN: parka -->
+  <Apparel_Parka.label>大衣</Apparel_Parka.label>
+  <!-- EN: A parka for staying warm in even the coldest of temperatures. -->
+  <Apparel_Parka.description>即使在天寒地凍的溫度下，也能保持溫暖的大衣。</Apparel_Parka.description>
+  
+  <!-- EN: plate armor -->
+  <Apparel_PlateArmor.label>板甲</Apparel_PlateArmor.label>
+  <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
+  <Apparel_PlateArmor.description>從頭到腳，層層覆蓋的實心板甲。</Apparel_PlateArmor.description>
+  
+  <!-- EN: marine armor -->
+  <Apparel_PowerArmor.label>海陸裝甲</Apparel_PowerArmor.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
+  <Apparel_PowerArmor.description>輕型的動力裝甲。多重的塑鋼保護層可以有效阻擋攻擊，包含脆弱的各部關節。神經模仿器讓人類穿上後，仍然可以輕鬆移動。這裝甲通常都被太空海陸突擊隊使用。</Apparel_PowerArmor.description>
+  
+  <!-- EN: tribalwear -->
+  <Apparel_TribalA.label>部落裝</Apparel_TribalA.label>
+  <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
+  <Apparel_TribalA.description>用新石器時代工具製作的全身服裝。雖然看起來很原始，但作為服裝還是相當實在的。</Apparel_TribalA.description>
+  
+</LanguageData>

@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Tool -->
+  <Tool>工具</Tool>
+  <!-- EN: damage -->
+  <DamageLower>傷害</DamageLower>
+  <!-- EN: seconds per attack -->
+  <SecondsPerAttackLower>每秒攻擊</SecondsPerAttackLower>
+
+  <!-- EN: Base value -->
+  <StatsReport_BaseValue>基準值</StatsReport_BaseValue>
+  <!-- EN: Relevant traits -->
+  <StatsReport_RelevantTraits>相關特性</StatsReport_RelevantTraits>
+  <!-- EN: Relevant gear -->
+  <StatsReport_RelevantGear>相關裝備</StatsReport_RelevantGear>
+  <!-- EN: Relevant health conditions -->
+  <StatsReport_RelevantHediffs>相關健康狀況</StatsReport_RelevantHediffs>
+  <!-- EN: Life stage -->
+  <StatsReport_LifeStage>生命階段</StatsReport_LifeStage>
+  <!-- EN: Material -->
+  <StatsReport_Material>材料</StatsReport_Material>
+  <!-- EN: Character quality -->
+  <StatsReport_CharacterQuality>角色品質</StatsReport_CharacterQuality>
+  <!-- EN: Skills -->
+  <StatsReport_Skills>技能因素</StatsReport_Skills>
+  <!-- EN: Post-process - other stats -->
+  <StatsReport_OtherStats>其它因素</StatsReport_OtherStats>
+  <!-- EN: Health -->
+  <StatsReport_Health>健康</StatsReport_Health>
+  <!-- EN: {0} importance -->
+  <HealthFactorPercentImpact>{0}重要度</HealthFactorPercentImpact>
+  <!-- EN: {0} impact -->
+  <HealthOffsetScale>影響{0}</HealthOffsetScale>
+  <!-- EN: {0} max -->
+  <HealthFactorMaxImpact>最大值{0}</HealthFactorMaxImpact>
+  <!-- EN: if below {0} -->
+  <HealthFactorAllowedDefect>如果低於{0}</HealthFactorAllowedDefect>
+  <!-- EN: Post-process curve -->
+  <StatsReport_PostProcessed>曲線處理</StatsReport_PostProcessed>
+  <!-- EN: The chances to hit at increasing distances are -->
+  <StatsReport_ShootingExampleDistances>距離拉遠時擊中的機會</StatsReport_ShootingExampleDistances>
+  <!-- EN: Final value -->
+  <StatsReport_FinalValue>最終值</StatsReport_FinalValue>
+  <!-- EN: Multiplier for {0} -->
+  <StatsReport_MultiplierFor>{0}倍率</StatsReport_MultiplierFor>
+  <!-- EN: Materials and labor -->
+  <StatsReport_MarketValueFromStuffsAndWork>市價是以使用材料與工作時程計算。</StatsReport_MarketValueFromStuffsAndWork>
+  <!-- EN: Quality multiplier -->
+  <StatsReport_QualityMultiplier>品質倍率</StatsReport_QualityMultiplier>
+  <!-- EN: Quality offset -->
+  <StatsReport_QualityOffset>品質偏移</StatsReport_QualityOffset>
+  <!-- EN: Max gain -->
+  <StatsReport_MaxGain>最大收益</StatsReport_MaxGain>
+  <!-- EN: Multiplier for age {0} -->
+  <StatsReport_AgeMultiplier>{0}歲年齡倍率</StatsReport_AgeMultiplier>
+  <!-- EN: Offset for age {0} -->
+  <StatsReport_AgeOffset>{0}歲年齡補正</StatsReport_AgeOffset>
+  <!-- EN: Multiplier for health {0} -->
+  <StatsReport_HealthMultiplier>健康倍率{0}</StatsReport_HealthMultiplier>
+  <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
+  <StatsReport_ReloadMarketValue>裝填消耗（{COUNT}x{AMMO_label}）</StatsReport_ReloadMarketValue>
+  <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
+  <StatsReport_ReloadRemainingChargesMultipler>剩餘{CHARGENOUN_plural}({0})</StatsReport_ReloadRemainingChargesMultipler>
+  <!-- EN: Multiplier for mood {0} -->
+  <StatsReport_MoodMultiplier>心情倍率{0}</StatsReport_MoodMultiplier>
+  <!-- EN: Multiplier for light {0} -->
+  <StatsReport_LightMultiplier>{0}以上光線倍率</StatsReport_LightMultiplier>
+  <!-- EN: Multiplier for difficulty {0} -->
+  <StatsReport_DifficultyMultiplier>{0}難度倍率</StatsReport_DifficultyMultiplier>
+  <!-- EN: In bed -->
+  <StatsReport_InBed>臥床</StatsReport_InBed>
+  <!-- EN: Facilities -->
+  <StatsReport_Facilities>設施</StatsReport_Facilities>
+  <!-- EN: Multiplier for body size {0} -->
+  <StatsReport_BodySize>{0}體型倍率</StatsReport_BodySize>
+  <!-- EN: Damaged -->
+  <StatsReport_HasHediffExplanation>傷害</StatsReport_HasHediffExplanation>
+  <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
+  <StatsReport_MeleeDPSExplanation>DPS = 近戰傷害x近戰命中率/冷卻時間(秒)</StatsReport_MeleeDPSExplanation>
+  <!-- EN: Melee damage -->
+  <StatsReport_MeleeDamage>近戰傷害</StatsReport_MeleeDamage>
+  <!-- EN: Cooldown -->
+  <StatsReport_Cooldown>冷卻時間</StatsReport_Cooldown>
+  <!-- EN: Melee hit chance -->
+  <StatsReport_MeleeHitChance>近戰命中率</StatsReport_MeleeHitChance>
+  <!-- EN: {0} s -->
+  <StatsReport_CooldownFormat>{0}秒</StatsReport_CooldownFormat>
+  <!-- EN: Blocked by fences -->
+  <StatsReport_BlockedByFences>被柵欄阻擋</StatsReport_BlockedByFences>
+  <!-- EN: Roam interval -->
+  <StatsReport_RoamInterval>走失間隔</StatsReport_RoamInterval>
+  <!-- EN: Caravan rideable age -->
+  <StatsReport_CaravanRideableAge>可騎乘年齡</StatsReport_CaravanRideableAge>
+  <!-- EN: Life expectancy -->
+  <StatsReport_LifeExpectancy>預期壽命</StatsReport_LifeExpectancy>
+  <!-- EN: Multiplier for missing body parts -->
+  <StatsReport_MissingBodyParts>損失身體部位倍率</StatsReport_MissingBodyParts>
+  <!-- EN: Gear and inventory -->
+  <StatsReport_GearAndInventoryMass>裝備與行李</StatsReport_GearAndInventoryMass>
+  <!-- EN: Multiplier for worn by corpse -->
+  <StatsReport_WornByCorpse>屍體穿著的損壞倍率</StatsReport_WornByCorpse>
+  <!-- EN: average of all attacks -->
+  <AverageOfAllAttacks>全部攻擊平均值</AverageOfAllAttacks>
+  <!-- EN: Scenario -->
+  <StatsReport_ScenarioFactor>腳本設定</StatsReport_ScenarioFactor>
+  <!-- EN: Ingredients -->
+  <StatsReport_IngredientsMass>材料</StatsReport_IngredientsMass>
+  <!-- EN: Permanently disabled. -->
+  <StatsReport_PermanentlyDisabled>永久禁用。</StatsReport_PermanentlyDisabled>
+  <!-- EN: {0} -->
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <!-- EN: Added body parts -->
+  <StatsReport_AddedBodyPartsMass>添加身體部件</StatsReport_AddedBodyPartsMass>
+  <!-- EN: Material effect multiplier -->
+  <StatsReport_StuffEffectMultiplier>素材影響率</StatsReport_StuffEffectMultiplier>
+  <!-- EN: Resting -->
+  <StatsReport_Resting>休息中</StatsReport_Resting>
+  <!-- EN: recreation type -->
+  <StatsReport_JoyKind>娛樂類型</StatsReport_JoyKind>
+  <!-- EN: work to uninstall -->
+  <StatsReport_WorkToUninstall>進行移除工作</StatsReport_WorkToUninstall>
+  <!-- EN: Fence -->
+  <StatsReport_Fence>柵欄</StatsReport_Fence>
+  <!-- EN: Multiplier for growth {0} -->
+  <StatsReport_PlantGrowth>{0}生長倍率</StatsReport_PlantGrowth>
+  <!-- EN: scaled because wild -->
+  <StatsReport_PlantGrowth_Wild>野性倍率</StatsReport_PlantGrowth_Wild>
+  <!-- EN: Not flesh -->
+  <StatsReport_NotFlesh>非肉身</StatsReport_NotFlesh>
+  <!-- EN: Not fresh -->
+  <StatsReport_NotFresh>不新鮮</StatsReport_NotFresh>
+  <!-- EN: Wild man -->
+  <StatsReport_WildMan>野人</StatsReport_WildMan>
+  <!-- EN: Attack -->
+  <StatsReport_NonToolAttack>攻擊</StatsReport_NonToolAttack>
+  <!-- EN: Ideoligion -->
+  <StatsReport_Ideoligion>理念</StatsReport_Ideoligion>
+  <!-- EN: Multiplier for malnutrition {0} -->
+  <StatsReport_Malnutrition>營養不良倍率{0}</StatsReport_Malnutrition>
+
+  <!-- EN: Possible offsets -->
+  <StatReport_PossibleOffsets>補償率</StatReport_PossibleOffsets>
+  <!-- EN: Room impressiveness -->
+  <StatsReport_RoomImpressiveness>房間印象</StatsReport_RoomImpressiveness>
+  <!-- EN: Lit -->
+  <StatsReport_Lit>文學</StatsReport_Lit>
+  <!-- EN: Contains {0} -->
+  <StatsReport_GraveFull>包含{0}</StatsReport_GraveFull>
+  <!-- EN: Contains a human corpse -->
+  <StatsReport_GraveFullAbstract>包含人類屍體</StatsReport_GraveFullAbstract>
+  <!-- EN: Meditator is related to the corpse inside -->
+  <StatsReport_GraveCorpseRelatedAbstract>冥想者與裡面的屍體有關</StatsReport_GraveCorpseRelatedAbstract>
+  <!-- EN: From quality -->
+  <StatsReport_FromQuality>品質</StatsReport_FromQuality>
+  <!-- EN: Nearby artificial structures -->
+  <StatsReport_NearbyArtificialStructures>附近的人工建築</StatsReport_NearbyArtificialStructures>
+  <!-- EN: Satisfies user's title requirements -->
+  <StatsReport_SatisfiesTitle>滿足使用者的頭銜需求</StatsReport_SatisfiesTitle>
+
+  <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
+  <Stat_RecreationType_Desc>不同的娛樂設施提供不同的娛樂類型。殖民者重複相同的娛樂類型會感到厭倦，因此提供不同娛樂類型很重要。</Stat_RecreationType_Desc>
+  <!-- EN: All recreation types -->
+  <Stat_JoyKind_AllTypes>所有娛樂設施的類型</Stat_JoyKind_AllTypes>
+  <!-- EN: Mined item -->
+  <Stat_MineableThing_Name>開採物品</Stat_MineableThing_Name>
+  <!-- EN: The item that will be yielded when mining this. -->
+  <Stat_MineableThing_Desc>開採時所產生的物品。</Stat_MineableThing_Desc>
+  <!-- EN: Mining yield -->
+  <Stat_MiningYield_Name>開採產量</Stat_MiningYield_Name>
+  <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
+  <Stat_MiningYield_Desc>開採此物體時產出的最大數量。實際產量會根據礦工的採礦技能來進行調整。</Stat_MiningYield_Desc>
+  <!-- EN: Source species -->
+  <Stat_SourceSpecies_Name>源物種</Stat_SourceSpecies_Name>
+  <!-- EN: The species of creature from which this was taken. -->
+  <Stat_SourceSpecies_Desc>表示從哪些生物來源上獲得的。</Stat_SourceSpecies_Desc>
+  <!-- EN: Stuff -->
+  <Stat_Stuff_Name>材料</Stat_Stuff_Name>
+  <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
+  <Stat_Stuff_Desc>這東西是由什麼做的。這會影響許多其他屬性，包括武器傷害、衣物護甲、隔絕性、物品、建築耐久值、美觀度、市場價值等等。</Stat_Stuff_Desc>
+  <!-- EN: Weapon -->
+  <Stat_Weapon_Name>武器</Stat_Weapon_Name>
+  <!-- EN: The weapon used by this turret. -->
+  <Stat_Weapon_Desc>用作於砲塔的武器</Stat_Weapon_Desc>
+  <!-- EN: How much damage an object can take before being destroyed. -->
+  <Stat_HitPoints_Desc>物件被破壞之前能承受多少傷害。</Stat_HitPoints_Desc>
+  <!-- EN: The amount of work it takes to uninstall this. -->
+  <Stat_Thing_WorkToUninstall_Desc>移除它所需的工作量。</Stat_Thing_WorkToUninstall_Desc>
+  <!-- EN: Whether this building is a type of fence. Fences block these animals -->
+  <Stat_Thing_Fence_Desc>這建築是否屬於柵欄的一種類型。柵欄阻擋了這些動物</Stat_Thing_Fence_Desc>
+  <!-- EN: Which facilities can be used to produce this. -->
+  <Stat_Thing_CreatedAt_Desc>可以使用哪些設施來生產此產品。</Stat_Thing_CreatedAt_Desc>
+  <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
+  <Stat_Thing_Damage_Desc>此武器造成的傷害值。\n\n這可能會被目標的護甲抵消或減輕。</Stat_Thing_Damage_Desc>
+  <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>醫生在照顧病患時獲得的經驗倍率。</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <!-- EN: The attributes of this plant. -->
+  <Stat_Thing_Plant_Attributes_Desc>這種植物的屬性。</Stat_Thing_Plant_Attributes_Desc>
+  <!-- EN: Clothing (for nudity) -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>衣物（裸體主義者）</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>裸體主義者是否認為這件東西是一件衣服。如果不是，裸體主義者將永遠不會因為穿這個而感到困擾。</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
+  <Stat_Thing_Apparel_Covers_Desc>覆蓋了身體哪些部位。\n\n盔甲無法保護沒有覆蓋到的部位。</Stat_Thing_Apparel_Covers_Desc>
+  <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
+  <Stat_Thing_Apparel_Layer_Desc>覆蓋了哪些服裝層。\n\n特定的身體部位，每層只能穿一件衣服。</Stat_Thing_Apparel_Layer_Desc>
+  <!-- EN: The minimum soil fertility that this plant requires to grow. -->
+  <Stat_Thing_Plant_FertilityRequirement_Desc>這種植物生長所需的最低的土壤肥沃度。</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>這種植物對土壤肥沃度的敏感性。低敏感性意味著植物在肥沃或貧瘠的土壤中，都能以同樣的速度生長。高敏感性意味著植物在貧瘠的土壤中生長較慢，在肥沃的土壤中生長較快。</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <!-- EN: The amount of light this plant requires to grow. -->
+  <Stat_Thing_Plant_LightRequirement_Desc>這種植物生長所需要的光照量。</Stat_Thing_Plant_LightRequirement_Desc>
+  <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
+  <Stat_Thing_Plant_LifeSpan_Desc>植物的壽命。即使沒有收穫，植物也會在一定年齡後自然死亡。</Stat_Thing_Plant_LifeSpan_Desc>
+  <!-- EN: The amount of product this plant will yield when harvested. -->
+  <Stat_Thing_Plant_HarvestYield_Desc>這種植物收穫後的產量。</Stat_Thing_Plant_HarvestYield_Desc>
+  <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>這種植物可以適應的最低溫度。\n\n溫度低於這個數值將會隨著時間造成損害。</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>這種植物可以適應的最高溫度。\n\n溫度超過這個數值將會隨著時間造成損害。</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>播種這種植物所需要的最低的技能等級。</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
+  <Stat_Race_Diet_Desc>這種生物能吃的食物種類。\n\n可食用:{0}</Stat_Race_Diet_Desc>
+  <!-- EN: The type of leather this creature will yield when butchered. -->
+  <Stat_Race_LeatherType_Desc>這種生物被屠宰時獲得的皮革類型。</Stat_Race_LeatherType_Desc>
+  <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>馴服失敗時，這種生物反擊的機率。</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
+  <Stat_Race_Trainability_Desc>這種生物訓練的智能程度。這是智力與專注力的組合。這決定訓練這種生物可以做哪些工作。</Stat_Race_Trainability_Desc>
+  <!-- EN: The average life expectancy of this creature. -->
+  <Stat_Race_LifeExpectancy_Desc>這種生物的平均壽命。</Stat_Race_LifeExpectancy_Desc>
+  <!-- EN: Whether this creature is blocked by fences and barricades. -->
+  <Stat_Race_BlockedByFences_Desc>這種生物是否被柵欄和路障阻擋。</Stat_Race_BlockedByFences_Desc>
+  <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
+  <Stat_Race_RoamInterval_Desc>一個被馴服的動物多久會嘗試流浪並離開地圖。動物只有在有一條直接通往地圖邊緣的路線時才會流浪。你可以使用柵欄、路障、牆壁和門來防止這種狀況。\n\n馴獸師可以用繩子拴住流浪的動物，並把牠們帶回圍欄裡。</Stat_Race_RoamInterval_Desc>
+  <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
+  <Stat_Thing_Ingestible_Joy_Desc>攝入此物品所獲得的娛樂值。更高的數值將滿足更多的娛樂需求。</Stat_Thing_Ingestible_Joy_Desc>
+  <!-- EN: The size of this creature's body, compared to an average adult human. -->
+  <Stat_Race_BodySize_Desc>與普通的成人相較下，這種生物的體形大小。</Stat_Race_BodySize_Desc>
+  <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
+  <Stat_Race_Growth_Desc>這個生物有多接近成年。\n\n成長需要足夠的營養。一個飢餓的動物與一個吃飽的動物相比，成長速度比較慢。</Stat_Race_Growth_Desc>
+  <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>此武器從近戰開始攻擊，到擊中目標的時間。</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <!-- EN: How much time passes between when a ranged attack begins aiming and when it fires. -->
+  <Stat_Thing_Weapon_RangedWarmupTime_Desc>此武器從瞄準到發射的時間。</Stat_Thing_Weapon_RangedWarmupTime_Desc>
+  <!-- EN: The amount of shots this weapon fires in each burst. -->
+  <Stat_Thing_Weapon_BurstShotCount_Desc>此武器每次射擊的彈數。</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <!-- EN: The fire rate of this weapon during each burst. -->
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>此武器每次射擊的射速。</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <!-- EN: The maximum range of this weapon. -->
+  <Stat_Thing_Weapon_Range_Desc>此武器的最大射程。</Stat_Thing_Weapon_Range_Desc>
+  <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
+  <Stat_Thing_Weapon_MissRadius_Desc>此武器射擊時的隨機散佈的半徑。越高的數值會使砲彈在目標周圍分佈更散。</Stat_Thing_Weapon_MissRadius_Desc>
+  <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
+  <Stat_Thing_Weapon_DirectHitChance_Desc>如果沒有被阻擋，閃避或停止，射擊將直接命中目標的機率。</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <!-- EN: This body part's effect on the mood of the owner. -->
+  <Stat_Thing_MoodChange_Desc>此身體部件對擁有者的心情影響。</Stat_Thing_MoodChange_Desc>
+  <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
+  <Stat_Recipe_Skill_Desc>執行此清單時使用的主要技能。\n\n它決定了產品品質，並在進行製作時獲得相應的技能經驗。</Stat_Recipe_Skill_Desc>
+  <!-- EN: The ingredients required to perform this recipe. -->
+  <Stat_Recipe_Ingredients_Desc>執行此清單所需的材料</Stat_Recipe_Ingredients_Desc>
+  <!-- EN: The skills required to perform this recipe. -->
+  <Stat_Recipe_SkillRequirements_Desc>執行此清單所需的技能</Stat_Recipe_SkillRequirements_Desc>
+  <!-- EN: The products produced by this recipe. -->
+  <Stat_Recipe_Products_Desc>此清單產出的物品</Stat_Recipe_Products_Desc>
+  <!-- EN: Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done. -->
+  <Stat_Recipe_WorkSpeedStat_Desc>角色的哪些屬性決定了該製作的工作速度。\n\n工作者的狀態越高，工作效率就越快。</Stat_Recipe_WorkSpeedStat_Desc>
+  <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
+  <Stat_Recipe_EfficiencyStat_Desc>哪種狀態決定產出的品質或數量。\n\n工作者的狀態越高，品質或產量就越高。</Stat_Recipe_EfficiencyStat_Desc>
+  <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>此手術的成功率。困難的手術成功率較低。\n\n實際的手術成功率會受到醫生、醫療設備、藥品的影響。</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <!-- EN: Can't fail -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>不會失敗</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <!-- EN: Performing this operation is safe for the patient. -->
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>執行此手術對患者是安全的。</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <!-- EN: The chance the patient will die upon failure of this surgery. -->
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>患者因手術失敗而死亡的機率。</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <!-- EN: Total bleed factor -->
+  <Stat_Hediff_TotalBleedFactor_Name>失血率</Stat_Hediff_TotalBleedFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of blood loss. -->
+  <Stat_Hediff_TotalBleedFactor_Desc>適用於總失血率。</Stat_Hediff_TotalBleedFactor_Desc>
+  <!-- EN: Natural healing factor -->
+  <Stat_Hediff_NaturalHealingFactor_Name>自然癒合率</Stat_Hediff_NaturalHealingFactor_Name>
+  <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
+  <Stat_Hediff_NaturalHealingFactor_Desc>適用於傷口自然癒合的總體速率。</Stat_Hediff_NaturalHealingFactor_Desc>
+  <!-- EN: Food poisoning chance factor -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>食物中毒率</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>適用於烹飪出有毒料理的意外機率。</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <!-- EN: The rate at which this condition causes blood loss. -->
+  <Stat_Hediff_BleedingRate_Desc>此情況的失血率。</Stat_Hediff_BleedingRate_Desc>
+  <!-- EN: The amount of pain caused by this condition. -->
+  <Stat_Hediff_Pain_Desc>此情況引起的疼痛程度。</Stat_Hediff_Pain_Desc>
+  <!-- EN: The offset in efficiency applied to body parts affected by this. -->
+  <Stat_Hediff_PartEfficiency_Desc>適用於身體部位影響的補償率。</Stat_Hediff_PartEfficiency_Desc>
+  <!-- EN: The mental abilities this affects. -->
+  <Stat_Hediff_Affects_Desc>對精神方面的影響。※</Stat_Hediff_Affects_Desc>
+  <!-- EN: Hunger rate offset -->
+  <Stat_Hediff_HungerRateOffset_Name>饑餓率</Stat_Hediff_HungerRateOffset_Name>
+  <!-- EN: A multiplier on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateFactor_Desc>饑餓率。</Stat_Hediff_HungerRateFactor_Desc>
+  <!-- EN: An offset on the rate at which the food need depletes. -->
+  <Stat_Hediff_HungerRateOffset_Desc>饑餓率</Stat_Hediff_HungerRateOffset_Desc>
+  <!-- EN: Rest fall rate -->
+  <Stat_Hediff_TirednessOffset_Name>疲憊率</Stat_Hediff_TirednessOffset_Name>
+  <!-- EN: An offset applied to the rate at which the creature's sleep need falls. -->
+  <Stat_Hediff_TirednessOffset_Desc>生物睡眠需求的偏移。</Stat_Hediff_TirednessOffset_Desc>
+  <!-- EN: A multiplier applied to the rate at which the creature's sleep need falls. -->
+  <Stat_Hediff_TirednessFactor_Desc>生物睡眠需求的倍率。</Stat_Hediff_TirednessFactor_Desc>
+  <!-- EN: Whether or not this will prevent infections. -->
+  <Stat_Hediff_PreventsInfection_Desc>是否可以防止感染。</Stat_Hediff_PreventsInfection_Desc>
+  <!-- EN: The things this terrain supports. -->
+  <Stat_Thing_Terrain_Supports_Desc>地形支撐的物品。</Stat_Thing_Terrain_Supports_Desc>
+  <!-- EN: This can only be placed on terrain of these types. -->
+  <Stat_Thing_TerrainRequirement_Desc>只能放置在這些類型的地形上。</Stat_Thing_TerrainRequirement_Desc>
+  <!-- EN: Considered -->
+  <Stat_Thing_Terrain_Fine_Name>評鑑</Stat_Thing_Terrain_Fine_Name>
+  <!-- EN: Fine -->
+  <Stat_Thing_Terrain_Fine_Value>精美</Stat_Thing_Terrain_Fine_Value>
+  <!-- EN: This floor is considered fine and suitable for royalty. -->
+  <Stat_Thing_Terrain_Fine_Desc>這地板稱得上是精美的，適合貴族使用。</Stat_Thing_Terrain_Fine_Desc>
+  <!-- EN: The amount of power this building will draw from the power grid. -->
+  <Stat_Thing_PowerConsumption_Desc>此建築物將從電線中獲取的電量。</Stat_Thing_PowerConsumption_Desc>
+  <!-- EN: {CHARGENOUN_plural} remaining -->
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural}剩餘</Stat_Thing_ReloadChargesRemaining_Name>
+  <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
+  <Stat_Thing_ReloadChargesRemaining_Desc>此物體上剩餘的{CHARGENOUN_plural}數量。如果用完了，這個特殊的能力將無法使用。</Stat_Thing_ReloadChargesRemaining_Desc>
+  <!-- EN: {CHARGENOUN_plural} -->
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
+  <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
+  <Stat_Thing_ReloadMaxCharges_Desc>這個物體最多能保持的{CHARGENOUN_plural}數量。</Stat_Thing_ReloadMaxCharges_Desc>
+  <!-- EN: {CHARGENOUN} reload cost -->
+  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN}裝填消耗</Stat_Thing_ReloadRefill_Name>
+  <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
+  <Stat_Thing_ReloadRefill_Desc>此物體完全裝填需要消耗的物品數量。\n\n此物體在用完之前也可以重新裝填，但是消耗和從零裝填一致。</Stat_Thing_ReloadRefill_Desc>
+  <!-- EN: Reload cost per {CHARGENOUN} -->
+  <Stat_Thing_ReloadPerCharge_Name>每{CHARGENOUN}裝填消耗</Stat_Thing_ReloadPerCharge_Name>
+  <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
+  <Stat_Thing_ReloadPerCharge_Desc>每裝填一{CHARGENOUN}需要消耗物品的數量。多個{CHARGENOUN_plural}能一次裝填。</Stat_Thing_ReloadPerCharge_Desc>
+  <!-- EN: Vanish on exhaust -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>用盡時消失</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>這個道具會在最後一個{CHARGENOUN}使用完後消失。</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <!-- EN: The overall efficiency of this body part. -->
+  <Stat_Thing_BodyPartEfficiency_Desc>這個身體部位的整體效率。</Stat_Thing_BodyPartEfficiency_Desc>
+  <!-- EN: Install sites -->
+  <Stat_Thing_InstallSites>安裝部位</Stat_Thing_InstallSites>
+  <!-- EN: Areas on the body where this can be installed. -->
+  <Stat_Thing_InstallSites_Desc>此物品可以被安裝的身體部位。</Stat_Thing_InstallSites_Desc>
+  <!-- EN: Replaces parts -->
+  <Stat_Thing_ReplacesParts>取代部位</Stat_Thing_ReplacesParts>
+  <!-- EN: Body parts which are replaced by this when installed. -->
+  <Stat_Thing_ReplacesParts_Desc>此物品被安裝後所取代的身體部位。</Stat_Thing_ReplacesParts_Desc>
+  <!-- EN: Biocoding -->
+  <Stat_Thing_Biocoded_Name>生物鎖</Stat_Thing_Biocoded_Name>
+  <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
+  <Stat_Thing_Biocoded_Desc>此物品經過生物鎖，只能給特定的人使用。</Stat_Thing_Biocoded_Desc>
+  <!-- EN: Required apparel -->
+  <Stat_Pawn_RequiredApparel_Name>服裝需求</Stat_Pawn_RequiredApparel_Name>
+  <!-- EN: Growth rate -->
+  <Stat_Thing_Plant_GrowthRate>生長速率</Stat_Thing_Plant_GrowthRate>
+  <!-- EN: The rate at which a plant is growing.\n\nGrowth rate is affected by things like soil fertility, temperature, light, and environmental conditions. -->
+  <Stat_Thing_Plant_GrowthRate_Desc>植物的生長速率。\n\n生長速率受泥土豐沃度、溫度、光線和環境狀況影響。</Stat_Thing_Plant_GrowthRate_Desc>
+  <!-- EN: Age -->
+  <Stat_Thing_Plant_Age>年齡</Stat_Thing_Plant_Age>
+  <!-- EN: How long this has been alive. -->
+  <Stat_Thing_Plant_AgeDesc>已經歷的時間。</Stat_Thing_Plant_AgeDesc>
+  <!-- EN: Lifespan -->
+  <Stat_Thing_Plant_Lifespan>壽命</Stat_Thing_Plant_Lifespan>
+  <!-- EN: Paintable -->
+  <Stat_Building_Paintable>可否粉刷</Stat_Building_Paintable>
+  <!-- EN: Whether this can be painted using dye. -->
+  <Stat_Building_PaintableDesc>此物件可否用染料粉刷。</Stat_Building_PaintableDesc>
+  <!-- EN: Paint color -->
+  <Stat_Building_PaintColor>粉刷顏色</Stat_Building_PaintColor>
+  <!-- EN: The color this building was painted. -->
+  <Stat_Building_PaintColorDesc>此建築物被粉刷的顏色。</Stat_Building_PaintColorDesc>
+
+  <!-- Drugs -->
+  <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
+  <Stat_Thing_Drug_Chemical_Desc>此藥物裡頭的化學物質。\n\n在某些情況下，不同藥物會含有相同的化學物質。這些不同的藥物將滿足同一種成癮性。</Stat_Thing_Drug_Chemical_Desc>
+  <!-- EN: The category this drug belongs to. -->
+  <Stat_Thing_Drug_Category_Desc>這種藥物所屬的類別。</Stat_Thing_Drug_Category_Desc>
+  <!-- EN: The intensity of high gained per dose of this drug. -->
+  <Stat_Thing_Drug_HighGainPerDose_Desc>每次服用此藥物獲得的亢奮度</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <!-- EN: How much this drug's high will decay each day. -->
+  <Stat_Thing_Drug_HighFallPerDay_Desc>服用此藥物後的每日亢奮衰減度</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>此藥物的亢奮度能持續多長時間。\n\n這是根據亢奮度的獲得率和下降率計算出來的。</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>使用者對此藥物的耐受性會增加多少。\n\n同樣的化學物質，會因為不同的形式，產生不同的數值。</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>使用者對化學物質耐受性的每日下降率</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>引發藥物成癮所需的最低耐受性。\n\n如果使用者低於此水平，他們就不會因服用某種藥物而上癮。</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <!-- EN: An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size. -->
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>成人如果比這間隔更頻繁地服用藥物才會成癮。\n\n這是根據成癮者對藥物的最低耐受性、每次服用的耐受性增加、下降速率計算得出的。某些藥物並不安全。這樣的藥物只要一服用就有可能成癮。\n\n請注意，藥物安全間隔視乎個人的體型而變。</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
+  <Stat_Thing_Drug_RandomODChance_Desc>服用此藥物的而發生用藥過量的機率。無論服用多少、有無經驗，都有機會發生用藥過量。</Stat_Thing_Drug_RandomODChance_Desc>
+  <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
+  <Stat_Thing_Drug_Addictiveness_Desc>服用此藥物而成癮的機率。\n\n如果藥物對成癮者有最低耐受性，則耐受性必須高於那水平才會成癮。如果沒有最低耐受性，就隨時有可能成癮。</Stat_Thing_Drug_Addictiveness_Desc>
+  <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>對此藥物成癮的起始嚴重度。\n\n服用更多藥物會增加成癮的嚴重度，否則會隨著時間而減少。</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>此藥物的成癮恢復所需的時間。\n\n這是根據初期成癮嚴重度除以成癮恢復率計算得出的。繼續服用藥物的話，成癮恢復時間就越長。</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>每次服用此藥物會增加多少的成癮嚴重度。\n\n成癮嚴重度不會超過100％。</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>成癮者需要多久服用一次藥物才能預防藥物戒斷。\n\n這是根據成癮者的需求下降率和滿足度來計算的。</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>成癮者服用此藥物所獲得的化學物質需求。</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <!-- EN: How quickly an addict's need for the chemical will fall. -->
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>成癮者對化學物質需求的下降率。</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
+  <Stat_Thing_Drug_AddictionCost_Desc>為滿足成癮而每天不斷消耗的藥物市場價值。\n\n這是根據成癮者藥物需求量、需求下降率、藥物市場價值計算得出的。\n\n請注意，可能有其他方法可以用不同價格獲得同樣的化學物質。</Stat_Thing_Drug_AddictionCost_Desc>
+
+  <!-- EN: Style -->
+  <Stat_Thing_StyleLabel>風格</Stat_Thing_StyleLabel>
+  <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
+  <Stat_Thing_StyleDesc>一個物體的風格決定了它的外觀。這沒有游戲的效果。風格通常由不同信仰和文化的人透過使用不同的建築方法形成。</Stat_Thing_StyleDesc>
+
+  <!-- EN: Gestation time -->
+  <Stat_Animal_GestationTime>妊娠週期</Stat_Animal_GestationTime>
+  <!-- EN: The time this species takes to gestate its offspring or eggs. -->
+  <Stat_Animal_GestationTimeDesc>這個物種孕育其後代或產卵的時間。</Stat_Animal_GestationTimeDesc>
+  <!-- EN: Litter size -->
+  <Stat_Animal_LitterSize>後代規模</Stat_Animal_LitterSize>
+  <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
+  <Stat_Animal_LitterSizeDesc>這個生物每胎生產的後代數量。如果這是一個區間，任何特定的子代數量都是這區間內的隨機數。</Stat_Animal_LitterSizeDesc>
+  <!-- EN: Adult meat amount -->
+  <Stat_Animal_AdultMeatAmount>成年產肉量</Stat_Animal_AdultMeatAmount>
+  <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
+  <Stat_Animal_AdultMeatAmountDesc>屠宰該物種的成年成員所產生的基本肉量。實際產量受其他因素的影響，如對身體的損害和屠夫的技能。</Stat_Animal_AdultMeatAmountDesc>
+  <!-- EN: Growth time -->
+  <Stat_Animal_GrowthTime>成長時間</Stat_Animal_GrowthTime>
+  <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
+  <Stat_Animal_GrowthTimeDesc>這種生物通常需要多長時間才能達到成年。如果該生物挨餓，這個時間會更長。</Stat_Animal_GrowthTimeDesc>
+  <!-- EN: Meat per day during growth -->
+  <Stat_Animal_MeatPerDayDuringGrowth>每日成長肉量</Stat_Animal_MeatPerDayDuringGrowth>
+  <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>這種生物每生長一天就會獲得這個數量的肉，直到它達到成年。\n\n這個值是由肉量和生長時間計算出來的。</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <!-- EN: Grass to maintain -->
+  <Stat_Animal_GrassToMaintain>供養草量</Stat_Animal_GrassToMaintain>
+  <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
+  <Stat_Animal_GrassToMaintainDesc>該生物為滿足其飲食需求而需要的草數量。這是基於一般草的生長速度，並忽略了冬季。</Stat_Animal_GrassToMaintainDesc>
+  <!-- EN: Egg type -->
+  <Stat_Animal_EggType>卵類型</Stat_Animal_EggType>
+  <!-- EN: The type of egg this creature lays. -->
+  <Stat_Animal_EggTypeDesc>這種生物所產卵的類型。</Stat_Animal_EggTypeDesc>
+  <!-- EN: Eggs per year -->
+  <Stat_Animal_EggsPerYear>每年產卵</Stat_Animal_EggsPerYear>
+  <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
+  <Stat_Animal_EggsPerYearDesc>這種生物每年會產多少個卵。有些生物需要受精後才能產卵。如果該生物挨餓，產卵速度會變慢。</Stat_Animal_EggsPerYearDesc>
+  <!-- EN: Egg nutrition -->
+  <Stat_Animal_EggNutrition>卵營養值</Stat_Animal_EggNutrition>
+  <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
+  <Stat_Animal_EggNutritionDesc>這種生物所產的一個卵中的營養值。</Stat_Animal_EggNutritionDesc>
+  <!-- EN: Egg nutrition per year -->
+  <Stat_Animal_EggNutritionYearly>每年產卵營養值</Stat_Animal_EggNutritionYearly>
+  <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
+  <Stat_Animal_EggNutritionYearlyDesc>這種生物每年產的卵所產生的營養值。\n\n這個值是由每年的卵和卵營養計算出來的。</Stat_Animal_EggNutritionYearlyDesc>
+  <!-- EN: Egg market value -->
+  <Stat_Animal_EggMarketValue>卵市場價</Stat_Animal_EggMarketValue>
+  <!-- EN: The market value of a single laid egg. -->
+  <Stat_Animal_EggMarketValueDesc>一顆卵的市場價。</Stat_Animal_EggMarketValueDesc>
+  <!-- EN: Egg value per year -->
+  <Stat_Animal_EggMarketValueYearly>每年卵市場價</Stat_Animal_EggMarketValueYearly>
+  <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
+  <Stat_Animal_EggMarketValueYearlyDesc>通常一年中所產卵的總價值。\n\n這是由每年的卵產量和卵的市場價值計算出來的。</Stat_Animal_EggMarketValueYearlyDesc>
+  <!-- EN: Milk type -->
+  <Stat_Animal_MilkType>奶類型</Stat_Animal_MilkType>
+  <!-- EN: The type of milk this creature produces. -->
+  <Stat_Animal_MilkTypeDesc>這種生物生產的奶的類型。</Stat_Animal_MilkTypeDesc>
+  <!-- EN: Milk amount -->
+  <Stat_Animal_MilkAmount>產奶量</Stat_Animal_MilkAmount>
+  <!-- EN: The amount of milk this creature produces each time it is milked. -->
+  <Stat_Animal_MilkAmountDesc>這種生物每次擠奶時產生的奶量。</Stat_Animal_MilkAmountDesc>
+  <!-- EN: Milking interval -->
+  <Stat_Animal_MilkGrowthTime>產奶週期</Stat_Animal_MilkGrowthTime>
+  <!-- EN: The amount of time this creature needs between milkings. -->
+  <Stat_Animal_MilkGrowthTimeDesc>這種生物在兩次擠奶之間需要多少時間。</Stat_Animal_MilkGrowthTimeDesc>
+  <!-- EN: Milk per year -->
+  <Stat_Animal_MilkPerYear>每年產奶量</Stat_Animal_MilkPerYear>
+  <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
+  <Stat_Animal_MilkPerYearDesc>該動物在一年中的產奶量。\n\n這是由產奶量和擠奶間隔時間計算出來的。</Stat_Animal_MilkPerYearDesc>
+  <!-- EN: Milk market value -->
+  <Stat_Animal_MilkValue>奶市場價格</Stat_Animal_MilkValue>
+  <!-- EN: The value of one unit of this creature's milk. -->
+  <Stat_Animal_MilkValueDesc>一個單位此生物的奶的價值。</Stat_Animal_MilkValueDesc>
+  <!-- EN: Milk value per year -->
+  <Stat_Animal_MilkValuePerYear>每年產奶價值</Stat_Animal_MilkValuePerYear>
+  <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
+  <Stat_Animal_MilkValuePerYearDesc>這種動物一年的牛奶的市場價值，假設它從不挨餓，在每個擠奶間隔結束時立即擠奶。\n\n這是由每年的產奶量和奶的市場價值計算出來的。</Stat_Animal_MilkValuePerYearDesc>
+  <!-- EN: Wool type -->
+  <Stat_Animal_WoolType>毛類型</Stat_Animal_WoolType>
+  <!-- EN: The type of wool produced by this creature. -->
+  <Stat_Animal_WoolTypeDesc>這種生物生產的毛的類型。</Stat_Animal_WoolTypeDesc>
+  <!-- EN: Wool amount -->
+  <Stat_Animal_WoolAmount>產毛量</Stat_Animal_WoolAmount>
+  <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
+  <Stat_Animal_WoolAmountDesc>這種生物每次剪羊毛時產生的數量。</Stat_Animal_WoolAmountDesc>
+  <!-- EN: Wool shearing interval -->
+  <Stat_Animal_WoolGrowthTime>產毛週期</Stat_Animal_WoolGrowthTime>
+  <!-- EN: The time after shearing before this creature can be shorn again. -->
+  <Stat_Animal_WoolGrowthTimeDesc>剪毛後該生物可以再次剪毛的時間。</Stat_Animal_WoolGrowthTimeDesc>
+  <!-- EN: Wool amount per year -->
+  <Stat_Animal_WoolPerYear>每年產毛量</Stat_Animal_WoolPerYear>
+  <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
+  <Stat_Animal_WoolPerYearDesc>這種動物每年生產的毛數量。\n\n這是由產毛量和產毛週期計算出來的。</Stat_Animal_WoolPerYearDesc>
+  <!-- EN: Wool market value -->
+  <Stat_Animal_WoolValue>毛市場價</Stat_Animal_WoolValue>
+  <!-- EN: The market value of one unit of this creature's wool. -->
+  <Stat_Animal_WoolValueDesc>一單位這種生物產毛的市場價。</Stat_Animal_WoolValueDesc>
+  <!-- EN: Wool value per year -->
+  <Stat_Animal_WoolValuePerYear>每年產毛價值</Stat_Animal_WoolValuePerYear>
+  <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
+  <Stat_Animal_WoolValuePerYearDesc>這種動物一年的毛的市場價值。\n\n這是由每年的產毛量和毛的市場價值計算出來的。</Stat_Animal_WoolValuePerYearDesc>
+
+  <!-- EN: How much of the total possible study you have performed on this object. -->
+  <Stat_Studiable_Desc>可對此對象進行研究的總點數。</Stat_Studiable_Desc>
+
+  <!-- EN: Source -->
+  <Stat_Source_Label>來源</Stat_Source_Label>
+  <!-- EN: This content came from the official expansion -->
+  <Stat_Source_OfficialExpansionReport>這個內容來自於官方擴展包</Stat_Source_OfficialExpansionReport>
+  <!-- EN: This content came from the mod -->
+  <Stat_Source_ModReport>這個內容來自於模組</Stat_Source_ModReport>
+  
+  <!-- UNUSED -->
+  <Stat_Thing_Plant_LifespanDesc>此植物種下後可以生存的時間。無關成長度或損傷，植物會在他們過老的時候死亡。</Stat_Thing_Plant_LifespanDesc>
+
+</LanguageData>
