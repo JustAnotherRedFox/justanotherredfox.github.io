@@ -1,5 +1,7 @@
 # IsNUSFwiki
+
 [Home](Data/Home.md)
+
 [About](Data/About.md)
 
 [Menu Item]()
@@ -12,6 +14,6 @@
 	* [Submenu Item 3](subitem3.md)
 	* [Submenu Item 4](subitem4.md)
 
-[gimmick:theme (inverse: false)](spacelab)
+[gimmick:theme (inverse: false)](darkly)
 <!-- Comment -->
 [gimmick:ThemeChooser](Change theme)
