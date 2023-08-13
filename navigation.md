@@ -5,7 +5,7 @@
 [About]()
 
 	* # Consept
-	* [About IsNUSF](about.md)
+	* [About IsNUSF](Data/about.md)
 	- - - -
 	* # Road Ahead
 	* [Ideas to Implement](Data/GameIdeas.md)
