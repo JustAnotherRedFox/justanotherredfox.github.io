@@ -13,4 +13,4 @@
 
 [gimmick:theme (inverse: true)](flatly)
 <!-- Comment -->
-[gimmick:ThemeChooser](Change theme)
+[gimmick:themechooser](Choose theme)

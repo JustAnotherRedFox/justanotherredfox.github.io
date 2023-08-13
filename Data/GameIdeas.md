@@ -1,4 +1,10 @@
-# Time
+Game Ideas
+============
+
+> Game Ideas to Implement, or to write down and organize
+
+Time
+-----
 * day: 24 RL minutes
 * month: 10 ~ 15 GT days
 * year: 8 GT months
@@ -9,7 +15,8 @@
 *NT1: RL: Real Life
 *NT2: GT: Game Time
 
-# quots and books phases
+quots and books phases
+-----------------------
 1. "From the appearance of chaos, through the obedience of a set of rules, comes the appearance of order."
 2. "My disappointment is immeasurable, and my day is ruined"
 3. "Once is a chance, Twice is a Coincidence, but the third time is a pattern"
@@ -17,7 +24,8 @@
 5. The strongest Emotion of mankind is Fear, and the Strongest kind of Fear is the fear of the unknown" - H.P Lovecraft 
 6. "if you want something done right, do it yourself"
 
-# AI and story telling Generation
+AI and story telling Generation
+---------------------------------
 * Storyteling is based on context, each 'entity' will have a context, or concept relative to the world around it
 
 * Object Concept
@@ -35,19 +43,24 @@
 		* e.g.: has_FishingKnowledge (true or false)
 			* if the char haven't the fishing knowledge all actions dependent of this will not be available 
 			
-# Function
+Function
+----------
+```C++
 int negativeToZero(int n) {
 return n + abs(n);.     //e.g  -5 + 5 = 0
 }
-# Ideas Stage
-## Biomes
+```
+
+Biomes
+-------------
 ### Naturals
 * Underground Cave System
 	* filled with mold, poisonous mushrooms and toxic spores filled air
 ### Artificial
+* Empty
 
-
-## Mechanics
+Mechanics
+-----------
 ### Game Modes
 * Easy mode
 	* autodave on sleep,
@@ -96,8 +109,9 @@ return n + abs(n);.     //e.g  -5 + 5 = 0
 	* Only when using a Full body mirror(the equip menu(UI) will appear when interaction with a fullbody mirror)
 	* Equips whill depend on Armors or CLothes on character backpack(and similars) or on close storages
 
-### Actor Anatomy
-#### Humanoid
+Actor Anatomy
+---------------
+### Humanoid
 * Head			(isBodyPart=True)
 	* brain
 	* ear.l
@@ -140,7 +154,8 @@ return n + abs(n);.     //e.g  -5 + 5 = 0
 * NT*: Body Parts is just a storage, the damage will be done and calculated based on what they contain, empty body parts(limbs) get the damage calculated in a bone variable
 * NT*: if isBodyPart=True then, enter the child component and continue to perform the action inside
 
-### Actors
+Actors
+--------
 * NT*: exemple of basic info
 * Organization:
 	* Entity
@@ -152,8 +167,9 @@ return n + abs(n);.     //e.g  -5 + 5 = 0
 				* Rodentia(subclass of Mammalia)
 					* Rat(subclass of Rodentia)
 
-
-#### Rodentia
+Classifications of Actors
+--------------------------
+### Rodentia
 * Rat
 	* Classe: Mammalia
 	* Order: Rodentia
@@ -175,14 +191,15 @@ return n + abs(n);.     //e.g  -5 + 5 = 0
 			* Run from Predators 
 			* Walk in groups
 			* Attack in groups 
-#### Squamata
+### Squamata
 * Mamba
 	* Classe: Reptilia
 	* Order: Squamata
 	* Attack
 	* Behavior
 	
-### Effects
+Effects
+--------
 * NT*: exemple of effects
 
 * Bleeding
