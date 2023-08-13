@@ -1,8 +1,8 @@
 # IsNUSFwiki
 
-[Home](Data/Home.md)
+[Home](index.md)
 
-[About](Data/About.md)
+<!--[About](about.md)-->
 
 [Menu Item]()
 
@@ -14,6 +14,6 @@
 	* [Submenu Item 3](subitem3.md)
 	* [Submenu Item 4](subitem4.md)
 
-[gimmick:theme (inverse: false)](darkly)
+[gimmick:theme (inverse: true)](flatly)
 <!-- Comment -->
 [gimmick:ThemeChooser](Change theme)
