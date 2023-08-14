@@ -10,6 +10,6 @@
   * [Ideas to Implement](data/GameIdeas.md)
   * [Roadmap](data/Roadmap.md)
 
-[gimmick:theme (inverse: true)](flatly)
+[gimmick:theme](yeti)
 
-[gimmick:themechooser](Choose theme)
+[gimmick:ThemeChooser](Choose theme)
