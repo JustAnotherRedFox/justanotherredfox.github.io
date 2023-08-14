@@ -7,8 +7,8 @@
   * [About IsNUSF](data/about.md)
   - - - -
   * # Road Ahead
-  * [Ideas to Implement](data/GameIdeas.md)
-  * [Roadmap](data/Roadmap.md)
+  * [Ideas to Implement](data/game_ideas.md)
+  * [Roadmap](data/game_roadmap.md)
 
 [gimmick:theme](yeti)
 
