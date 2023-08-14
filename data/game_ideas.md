@@ -1,7 +1,7 @@
 Game Ideas
 ============
 
-> Game Ideas to Implement, or to write down and organize
+NOTE: Game Ideas to Implement, or to write down and organize
 
 Time
 -----
