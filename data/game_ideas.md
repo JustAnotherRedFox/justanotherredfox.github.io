@@ -1,7 +1,7 @@
 Game Ideas
 ============
 
-NOTE: Game Ideas to Implement, or to write down and organize
+Note: Game Ideas to Implement, or to write down and organize
 
 Time
 -----
@@ -12,10 +12,10 @@ Time
 * building an archtectures takes months or years to finish, 
 * making possible a more realistic time period for building and crafting
 
-*NT1: RL: Real Life
-*NT2: GT: Game Time
+Note: RL: Real Life
+Note: GT: Game Time
 
-quots and books phases
+Quots and books phases
 -----------------------
 1. "From the appearance of chaos, through the obedience of a set of rules, comes the appearance of order."
 2. "My disappointment is immeasurable, and my day is ruined"
@@ -45,7 +45,7 @@ AI and story telling Generation
 			
 Function
 ----------
-```C++
+```cpp
 int negativeToZero(int n) {
 return n + abs(n);.     //e.g  -5 + 5 = 0
 }
@@ -56,6 +56,7 @@ Biomes
 ### Naturals
 * Underground Cave System
 	* filled with mold, poisonous mushrooms and toxic spores filled air
+
 ### Artificial
 * Empty
 
