@@ -11,4 +11,5 @@
   * [Roadmap](data/Roadmap.md)
 
 [gimmick:theme (inverse: true)](flatly)
-<!--[gimmick:themechooser](Choose theme)-->
+
+[gimmick:themechooser](Choose theme)
