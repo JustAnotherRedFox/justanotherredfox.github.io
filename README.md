@@ -1,1 +1,1 @@
-Site
+Site for the IsNUFS project
