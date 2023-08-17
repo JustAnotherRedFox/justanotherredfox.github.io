@@ -5,6 +5,7 @@ Info
 -----
 
 * Name: Is Nature you Should Fear
+* Acronym: IsNUSF
 * Project Start Date: Friday, 19 of August of 2022
 * Base Theme: A nature that enchants, and oppresses
 * Art Style: Simplist, heavy use of solid colors, stylized, focused on natural atmosphere.
@@ -31,7 +32,7 @@ Info
 	* stellaris: tech tree
 	* Kenshi: engine, character damage system
 	* cave of qud: general concept, UI, procedural generation, story oriented
-	* TES: Arena, Daggerfall, Morrowind: dungeon Consept, UI, Inventory(TES3), Equipment System(TES3)
+	* TES: Arena, Daggerfall, Morrowind, Skyrim: dungeon Consept, UI, Inventory(TES3), Equipment System(TES3), House Building System(TES5::HeartfireDLC)
 	* Rimworld: Entity System, effect(debuffs, buffs, sicknesses, etc), craft system, heavy focus in simulation
 	* Dwarf Fortress: Heavy focus in life simulation, story, history and background of characters and world
 	* Starbound: Crafting System, procedural generation

@@ -214,5 +214,13 @@ Effects
 	* difficult to find cure(antidote)
 	* stack
 	* multiple side effects(debuff)
-	* increase chance of infection
-	
+	* increase chance of Infection
+
+## Mechanic (Coding)
+* layed clothes and armor damage/destruction calculation
+	* use a dinamic array to store wearables and check them layer by layer agains the object dealing Damage
+	* e.g:
+		* cloth[underwhere, skirt, armor]
+		* cloth[-1] - damageDealer
+		* cloth[-2] - damageDealer.restDamage
+		* etc	
