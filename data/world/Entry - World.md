@@ -1,45 +1,4 @@
 # World, Land and Environment
-## Star Systems
-### Erpitia-Verqu
-* Type: Pulsar Star
-* Planets Count: 15
-* Orbiting Bodys
-    * 7th: Cháng lǜ 
-        * Equatorial Circumference: 68,127 km (1.7 Di yi)
-        * Landmass count: 3
-
-    * 10th: Huāngliáng
-        * Equatorial Circumference: 52,097 km (1.3 Di yi)
-        * Landmass count: 2
-
-    * 14th: DiYi
-        * Equatorial Circumference: 40,075 km (1.0 earth)
-        * Landmass count: 3
-        * Natural Satellite: 3
-        * Map:
-            * Map size: 84.9 km^2 (9.22 km x 9.22 km)
-
-### Osume
-* Type: Red Dwarf Star 
-* Planets Counts: 5
-
-* Orbiting Bodys:
-    * 2th: Fú zhào
-        * Equatorial Circumference: 32.060 km (0.8 Di Yi)
-        * Landmass count: 2
-
-    * 3th: yǒnghéng de júxiàn
-        * Equatorial Circumference: 148.277 km (3.7 Di Yi)
-        * Landmass count: 1
-
-    * 4th: Mú
-        * Equatorial Circumference: 56.105 km (1.4 Di Yi)
-        * Landmass count: 1
-
-    * 5th: wúrèmù dì
-        * Equatorial Circumference: 76.142 km (1.9 Di Yi)
-        * Landmass count: --
-
 ## World Data
 ### Planet Diyi
 #### General

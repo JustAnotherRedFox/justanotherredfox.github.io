@@ -1,25 +1,36 @@
-# Society and Culture
-## Continent 1 - Forest Nation
+Society and Culture
+====================
 
-### Calendar
-* Day of Month/Year, Season [DD of MM/YYYY, S]
+Continent 1 - Forest Nation
+-----------------------------
+* Calendar:
+	* Format: 
+		* unabbreviated: Day of Month/Year, Season 
+		* Acronym: DD of MM/YYYY, S
+	* Months
+		* 1 = 
+		* 2 =
+		* 3 =
+		* 4 =
+		* 5 =
+		* 6 = 
+		* 7 =
+		* 8 = 
 
-* Months
-    * 1 = 
-    * 2 =
-    * 3 =
-    * 4 =
-    * 5 =
-    * 6 = 
-    * 7 =
-    * 8 = 
-    * 9 =
-    * 10 =
-    * 11 =
-    * 12 =
-### Ethic and Moral Values
-* Central Value: Hunting, Bows and Traps
-* Beauty Standard: slim arms, dextrous fingers, blond
+* Ethic and Moral Values
+	* Central Value: Hunting, Bows and Traps
+	* Beauty Standard: slim arms, dextrous fingers, blond
+### Government Structure
+* Republic: 
+    * Leaders are elected by the people being governed, and laws are also often passed
+    * in a similar manner. Nothing becomes law unless the public votes for it.
+
+### Law System
+#### Laws and Rules
+#### Law Enforcement
+### Economy System
+* Monetary System: 1000 small cicle = 100 big cicle = 1 full cicle
+
 ### Apparel
 #### Weapons
 * Desired: Bow and Arrows
@@ -82,16 +93,19 @@ Bloodline:  (sufix) [, pleasant]
 
 -- attributes --
 Potential (a.k.a. attr cap): A- (in this case used as spawn cap)
-* exp multiply 
-Mind:                             1.05x       
-Knowledge:                  1.05x  
-Organs Efficiency:     0.75x
-Organs Elasticity:      0.80x
-Muscular strength:    0.75x
-Muscular Density:     0.65x
-Muscular Elasticity:  1.45x
-Dexterity:.                    1.50x
-Appearance:.               0.85x
+* attr multiply 
+Note: Attr. Mult. (attributes multipliers) Are Used as stat floor control, multiplying the base value by the expecific of each folk
+| Attribute           | Attr. Mult |
+|:--------------------|:----------:|
+| Mind                |    1.05x   |    
+| Knowledge           |    1.05x   |
+| Organs Efficiency   |     0.75x  |
+| Organs Elasticity   |     0.80x  |
+| Muscular strength   |   0.75x    |
+| Muscular Density    |   0.65x    |
+| Muscular Elasticity |  1.45x     |
+| Dexterity           |  1.50x     |
+| Appearance          |     0.85x  |
 
 -- Personality --
 [ traits ]
@@ -199,7 +213,8 @@ Appearance:.               0.85x
 * Nation Characteristics:
     * The Skillest Hunters
 
-## Continent 2 - Desert Nation
+Continent 2 - Desert Nation
+----------------------------
 
 ### Calendar
 * Day Of Month From Year, Season [DD of MM from YY, S]
@@ -213,10 +228,19 @@ Appearance:.               0.85x
     * 6 = 
     * 7 =
     * 8 = 
-    * 9 =
-    * 10 =
-    * 11 =
-    * 12 =
+### Government Structure
+* Anarchy:
+    * There is no publicly enforced government, authority, or hierarchy. 
+    * Society operates on groups of individuals who volunteer to help those in need. 
+    * It encourages cooperation to achieve anything, and no individual or group is seen 
+    * as superior over another. 
+
+### Law System
+#### Laws and Rules
+#### Law Enforcement
+### Economy System
+* monetary system: 1000 lepton = 100 assario = 10 denario
+
 ### Ethic and Moral Values
 * Central Value: Physique, Strenght and Forge
 * Beauty Standard: tained skin, Big and well defined Muscles
@@ -410,7 +434,8 @@ Appearance:.               1.05x
 + heat(resistance): --
 + disease(resistance): --
 
-## Continent 3 - Frost Nation
+Continent 3 - Frost Nation
+----------------------------
 
 ### Calendar
 * Day of Year of Month in Season [DD of YY of MM in S]
@@ -424,10 +449,22 @@ Appearance:.               1.05x
     * 6 = 
     * 7 =
     * 8 = 
-    * 9 =
-    * 10 =
-    * 11 =
-    * 12 =
+### Government Structure
+* Monarchy: 
+    * Society is ruled by a single leader from a royal family. 
+    * The actual power of the monarch Is absolute being held by the older daughter
+    * of the royal family
+
+### Law System
+#### Laws and Rules
+* Rule 1: peasant shall not have haircuts shorter that ear length or longer than back length 
+* Law 1: fighting is forbidden 
+
+#### Law Enforcement
+### Economy System
+* Monetary System: 4000 Mon = 16 Shu = 1 Ryõ
+
+
 ### Ethic and Moral Values
 * Central Value: Sociality, Traditions and Knowledge
 * Beauty Standard: fair skin, black or white hair, slim and tall
@@ -661,10 +698,13 @@ Appearance:.               1.80x
     * 6 = 
     * 7 =
     * 8 = 
-    * 9 =
-    * 10 =
-    * 11 =
-    * 12 =
+### Government Structure
+### Law System
+#### Laws and Rules
+#### Law Enforcement
+### Economy System
+
+
 ### Ethic and Moral Values
 * Central Value:
 * Beauty Standard:
@@ -818,10 +858,12 @@ Appearance:.               1.80x
     * 6 = 
     * 7 =
     * 8 = 
-    * 9 =
-    * 10 =
-    * 11 =
-    * 12 =
+### Government Structure
+### Law System
+#### Laws and Rules
+#### Law Enforcement
+### Economy System
+* Monetary System: 10000 taels of copper = 1000 Taels of silver = 1 tael of gold
 ### Ethic and Moral Values
 * Central Value:
 * Beauty Standard:
@@ -988,10 +1030,7 @@ Appearance:.               1.80x
     * 6 = 
     * 7 =
     * 8 = 
-    * 9 =
-    * 10 =
-    * 11 =
-    * 12 =
+
 ### Ethic and Moral Values
 ### Apparel
 #### Weapons
