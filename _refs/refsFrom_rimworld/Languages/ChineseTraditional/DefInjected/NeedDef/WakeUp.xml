@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  
-  <!-- EN: wake-up -->
-  <Chemical_WakeUp.label>醒神劑</Chemical_WakeUp.label>
-  <!-- EN: Because of a wake-up addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
-  <Chemical_WakeUp.description>因為醒神劑成癮，此人需要經常服用醒神劑，避免戒斷症狀。</Chemical_WakeUp.description>
-  
-</LanguageData>

@@ -191,7 +191,7 @@
     * Eyes Color:
     * Hair Color: 
     * Hairstyles:
-    * Favorite Activity: Deadlift
+    * Favorite Activity: Forge
     * Favorite Color: Blue
     * Favorite Animal:
     * Iddle Expression: Business Smile 
@@ -214,7 +214,7 @@
     * Eyes Color:
     * Hair Color: 
     * Hairstyles:
-    * Favorite Activity: Shopping 
+    * Favorite Activity: Croche
     * Favorite Color: Purple
     * Favorite Animal:
     * Iddle Expression: Warm Smile 
