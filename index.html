@@ -8,8 +8,8 @@
 		<style>
 			body {
 				font-family: Arial, Helvertica, sans-serif;
-				overflow: hidden; /*hide scrollbars*/
-				margin: 0px 0px 8px 0px;
+				/*overflow: hidden; /*hide scrollbars*/
+				margin: 0px;
 			}
 			.header {
 				padding: 0px 80px;
@@ -66,6 +66,30 @@
 				background-color: white;
 				padding: 20px;
 			}
+			
+			.projects-container {
+				display: flex;
+				flex-wrap: wrap;
+				align-content: center;
+				justify-content: center;
+				align-items: center;
+			}
+
+			.image-container {
+				position: relative;
+				width: fit-content;
+				margin: 0px 10px;
+			}
+
+			.image-name {
+				position: absolute;
+				bottom: 0;
+				width: 100%;
+				background-color: #000000CC;
+				color: white;
+				text-align: left;
+				padding: 10px;
+			}
 			@media screen and (max-width: 700px) {
 				.row {
 					flex-direction: column;
@@ -78,7 +102,7 @@
 				}
 			}
 			.footer {
-				position: fixed;
+				position: relative;
 				left: 0;
 				bottom: 0;
 				width: 100%;
@@ -87,6 +111,11 @@
 				/*background: #ddd;*/
 				background: #333;
 				color: white;
+			}
+
+			.footer-content {
+				margin: 0px;
+				padding: 10px;
 			}
 			.dark-mode {
 				background-color: #222222;
@@ -113,15 +142,34 @@
 		<div class="row">
 			<div class="side">...</div>
 			<div class="main">
-				<h2> Lastest Project </h2>
-				<h3> IFYSS, TODO: Finish Date </h3>
-				<!--- Starting Date: 18 August, 2023
-				<!---<p> Scene Name: In Forest You Should Study <p>--->
+				<h2 style="text-align:center"> Lastest Project </h2>
+				<div class="projects-container">
+					<div class="image-container">
+						<img src="https://source.unsplash.com/random/320x180">
+						<p class="image-name"> IFYSS, TODO: Finish Date </p>
+					</div>
+					<!--- Starting Date: 18 August, 2023 --->
+					<!--- <p> Scene Name: In Forest You Should Study <p>--->
+				</div>
+
+				<h2 style="text-align:center">All Projects</h2>
+				<div class="projects-container">
+					<div class="image-container">
+						<img src="https://source.unsplash.com/random/320x180" alt="">
+						<p class="image-name">INYSW, TODO: Finish Date</p>
+						<!--- Scene Name: In Nature You Should Workout --->
+					</div>
+					<div class="image-container">
+						<img src="https://source.unsplash.com/random/320x180" alt="">
+						<p class="image-name">Placeholder Name, TODO: Finish Date</p>
+						<!--- Scene Name: In Nature You Should Workout --->
+					</div>
+				</div>
 			</div>
 		</div>
 
 		<div class="footer">
-			<p>Footer</p>
+			<p class="footer-content">Footer</p>
 		</div>
 
 		<!---<script src="myScript.js"></script>--->
