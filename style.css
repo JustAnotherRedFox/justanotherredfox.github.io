@@ -1,0 +1,141 @@
+* {
+
+}
+
+:root {
+	/* Text Color */
+	--text-color: #000000;
+	--flip-text-color: #FFFFFF;
+	--flip-title-text-color: #FFFFFF;
+
+	/* Text Weight */
+	--title-text-weight: 500;
+	--paragrafe-text-weight: 400;
+
+	/* Backgrounds */
+	--flip-background-color: #000000BF;
+	--flip-background-radius: 8px;
+}
+
+/* CARD */
+.card { /*assigning general property to the card */
+	position: relative;
+	/*width: 320px;*/
+	width: fit-content;
+	height: 180px;
+	/*background: #000000 url(./resources/images/empty.jpg) center;/* shorthand: color image repeat attachment position */
+	background-size: cover;
+	/*background-color: #FF0000;*/
+	bakcground-image: url(./resources/images/empty.jpg);
+	border-radius: 8px;
+	background-position: center;
+	overflow: hidden;
+}
+
+.card-inner {/*properties of inner card content*/
+	background-color: #000000E6;
+	color: #FFFFFF;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	z-index: 1;
+	opacity: 0;
+	padding: 2px;
+	transition: all 0.4s ease 0s;
+}
+
+.card:hover .card-inner {
+	opacity: 1;
+}
+
+.card-inner h3 {
+	margin: 10px 5px;
+	color: #00000000;
+}
+
+.card:hover .image-name {
+	z-index: 2;
+	top: 0;
+	margin: 0px;
+	height: 32px;
+	/*TODO: Adding Transition Animation, Fix alignment of Title */
+}
+
+.card-inner p {
+	overflow-y: hidden;
+	margin: 0px 5px;
+	padding: 0px;
+	/*height: 320;*/
+	height: 65%;
+	/*padding-right: 1rem;
+	font-weight: 200;
+	line-height: 2.5rem;
+	margin-top: 1.5rem;
+	*/
+}
+
+/* FLIP CARD */
+.flip-card { /* Flip card Container */
+	background-color: transparent;
+	width: 320px;
+	height: 180px;
+	/*border: 1px solid #f1f1f133; /* debug visible border */
+	perspective: 1000px; /*add 3D effect */
+}
+
+.flip-card img {
+
+	border-radius: var(--flip-background-radius)
+}
+
+.flip-card-inner { /* Position front and back side */
+	position: relative;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	transition: transform 0.8s;
+	transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner { /* responsible for horizontal flip */
+	transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back { /* position front and back side */
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+	-webkit-backface-visibility: hidden; /* safari compatibility */
+	border-radius: var(--flip-background-radius)
+}
+
+.flip-card-front { /* front side style (fallback if img is missing) */ 
+	background-color: #bbb;
+	color: #000000;
+}
+
+.flip-card-back {
+	box-shadow: 0 4px 30px #0000000D;
+	background-color: var(--flip-background-color);
+	backdrop-filter: blur(9.2px);
+	-webkit-backdrop-filter: blur(9.2px); /* safari compatibility */
+	transform: rotateY(180deg);
+}
+
+.flip-card-back h3 {
+	color: var(--flip-title-text-color);
+	font-weight: var(--title-text-weight);
+}
+
+.flip-card-back p {
+	color: var(--flip-text-color);
+	font-weight: var(--paragrafe-text-weight);
+}
+
+.flip-card-back ul {
+	color: var(--flip-text-color);
+	font-weight: var(--paragrafe-text-weight);
+}
