@@ -10,7 +10,7 @@
 			.then(response => response.json())
 			.then(data => {
 				let vTitle = data.titles[contentID].content;
-				document.querySelector(elementID).innerHTML = vTitle;
+				document.getElementById(elementID).innerHTML = vTitle;
 			})
 	}
 </script>
