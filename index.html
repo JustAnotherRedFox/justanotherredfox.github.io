@@ -1,15 +1,15 @@
 <body>
 	<h1 style="margin-top: 300px; text-align: center">Site in Maintenance</h1>
 	<div>
-		<p id="subtitle1" callTitle(0, this) >title</p>
+		<p id="subtitle1" onload ="callTitle(0, this)" >title</p>
 	</div>
 <script>
-	function callTitle(id, element) {
+	function callTitle(contentID, elemenent) {
 		elementID = element.id;
 		fetch("./extfiles/test.json")
 			.then(response => response.json())
 			.then(data => {
-				let vTitle = data.titles[id].content;
+				let vTitle = data.titles[contentID].content;
 				document.querySelector(elementID).innerHTML = vTitle;
 			})
 	}
