@@ -1,14 +1,17 @@
 <body>
 	<h1 style="margin-top: 300px; text-align: center">Site in Maintenance</h1>
 	<div>
-		<p id="subtitle">title</p>
+		<p id="subtitle1" callTitle(0, this) >title</p>
 	</div>
 <script>
-	fetch("./extfiles/test.json")
-		.then(response => response.json())
-		.then(data => {
-			let vTitle = data.titles[id].content;
-			document.querySelector("#subtitle").innerHTML = vTitle;
-		})
+	function callTitle(id, element) {
+		elementID = element.id;
+		fetch("./extfiles/test.json")
+			.then(response => response.json())
+			.then(data => {
+				let vTitle = data.titles[id].content;
+				document.querySelector(elementID).innerHTML = vTitle;
+			})
+	}
 </script>
 </body>
