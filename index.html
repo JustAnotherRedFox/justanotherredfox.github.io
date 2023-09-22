@@ -1,24 +1,14 @@
-<head>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-
-<script>
-$(function() {
-	var content = [];
-	
-	$.getJSON('./extfiles/test.json', function(data) {
-		var content = data.content;
-		$(content).appendTo("#extdata p");
-	});
-});
-
-</script>
-</head>
-
-
 <body>
 	<h1 style="margin-top: 300px; text-align: center">Site in Maintenance</h1>
-	<div id="extdata">
-		<p> </p>
+	<div>
+		<p id="subtitle">title</p>
 	</div>
-
+<script>
+	fetch("./extfiles/test.json")
+		.then(response => response.json())
+		.then(data => {
+			let vTitle = data.titles[id].content;
+			document.querySelector("#subtitle").innerHTML = vTitle;
+		})
+</script>
 </body>

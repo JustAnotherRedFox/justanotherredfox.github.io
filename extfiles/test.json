@@ -1,5 +1,11 @@
 {
-	"id": 0,
-	"name": "tstmsg",
-	"content": "testing message with special char"
+	"titles" : [
+	{
+		"id": 0,
+		"name": "testing title",
+		"content": "testing message with special char"
+	}
+	
+	]
+	
 }
