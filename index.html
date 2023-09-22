@@ -1,17 +1,18 @@
 <body>
 	<h1 style="margin-top: 300px; text-align: center">Site in Maintenance</h1>
 	<div>
-		<p id="subtitle1" onload ="callTitle(0, this)" >title</p>
+		<p style="text-align: center" id="subtitle1" onload ="callTitle(0, this)" >title</p>
 	</div>
-<script>
+<script type="module">
 	function callTitle(contentID, elemenent) {
 		elementID = element.id;
-		fetch("./extfiles/test.json")
-			.then(response => response.json())
-			.then(data => {
-				let vTitle = data.titles[contentID].content;
-				document.getElementById(elementID).innerHTML = vTitle;
-			})
+		//fetch('./extfiles/test.json')
+			//.then((response) => response.json())
+			//.then((json) => {
+			import data from './extfiles/test.json' assert {type: 'json'};
+				let vTitle = data.titles[0].content;
+				document.getElementById(subtitle1).innerHTML = vTitle;
+			//});
 	}
 </script>
 </body>
