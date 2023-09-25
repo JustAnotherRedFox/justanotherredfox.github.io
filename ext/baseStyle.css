@@ -1,0 +1,112 @@
+* {
+	margin: 0;
+	border: 0;
+}
+
+:root {
+	--border: 2px solid red;
+	--bg-url: url("/resources/images/bg-desktop-light-alt2.jpg");
+}
+
+html, body {
+	height: 100%;
+}
+
+.canvas-container {
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-wrap: nowrap;
+
+	width: 400vw;
+	height: 100vh;
+}
+
+.canvas {
+	border: var(--border);
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+
+	height: 100%;
+	width: 100vw;
+}
+
+.canvas .navigation {
+	height: 128px;
+	border: var(--border);
+	width: 100%;
+}
+
+.canvas .page-body {
+	border: var(--border);
+	height: 100%;
+   	width: 100%;	
+}
+
+.canvas .welcome-container {
+	border: var(--border);
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-start;
+
+	width: 100%;
+}
+
+.canvas .welcome-frame {
+	border: var(--border);
+	display: flex;
+	flex-direction: column;
+
+	width: 100%;
+	min-height: 100%;
+	padding: 35vh 10px 10px 128px;
+}
+
+.welcome-frame .welcome-phrase {
+	border: var(--border);
+	display: flex;
+	width: 100%;
+	min-height: fit-content;
+	max-height: 48px;
+}
+
+.canvas .profile-frame {
+	border: var(--border);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	min-height: 75vh;
+	min-width: 25vw;
+	max-width: 440px;
+	padding: 10px 25px;
+}
+
+.profile-frame .profile-holder {
+	width: 384px;
+	height: 384px;
+}
+
+#homepage-profile-pic {
+	max-width: 100%;
+	height: auto;
+}
+
+.paralax {
+	/* Paralax Effect */
+	background: var(--bg-url) no-repeat fixed center;
+	background-size: cover;
+}
+
+/*---------------------------------------------------------
+ * At Rules
+ ---------------------------------------------------------*/
+/* Turn off paralax scrolling to mobile devices */
+@media only screen and (max-device-width: 1440px) {
+	.paralax {
+		background-attachment: scroll;
+	}
+}

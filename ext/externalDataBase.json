@@ -1,0 +1,32 @@
+{
+	"titles" : [
+		{
+			"id": 0,
+			"content": "testing message with special char"
+		},
+
+		{
+			"id": 1,
+			"content": "testing second message"
+		}
+	
+	],
+
+	"paragraphs": [
+		{
+			"id": 0,
+			"content": "Hi There, I'm Joao Santos."
+		},
+
+		{
+			"id": 1,
+			"content": "I Currently have my focus on Front-End,"
+		},
+
+		{
+			"id": 2,
+			"content": "but also studying Digital 3D Art and trying to find my way between font and back-end."
+		}
+	]
+	
+}

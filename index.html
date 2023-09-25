@@ -1,18 +1,20 @@
-<body>
-	<h1 style="margin-top: 300px; text-align: center">Site in Maintenance</h1>
-	<div>
-		<p style="text-align: center" id="subtitle1" onload ="callTitle(0, this)" >title</p>
-	</div>
-<script type="module">
-	function callTitle(contentID, elemenent) {
-		elementID = element.id;
-		//fetch('./extfiles/test.json')
-			//.then((response) => response.json())
-			//.then((json) => {
-			import data from './extfiles/test.json' assert {type: 'json'};
-				let vTitle = data.titles[0].content;
-				document.getElementById(subtitle1).innerHTML = vTitle;
-			//});
-	}
-</script>
-</body>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>testing json and js</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+
+	<body>
+
+		<h1 style="margin-top: 300px; text-align: center">Site in Maintenance</h1>
+		<!--
+		<div>
+			<p style="text-align: center" class="ExtTitle">title</p>
+			<p class="ExtTitle">tile</p>
+		</div>
+		<script src="./ext/externalData.js"></script>
+		-->
+	</body>
+</html>
