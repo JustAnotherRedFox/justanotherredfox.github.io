@@ -1,25 +1,230 @@
+/*-------------------------------------------------------------
+ * Global Parameters
+ *------------------------------------------------------------*/
 * {
 	margin: 0;
 	border: 0;
 }
 
 :root {
-	--border: 2px solid red;
 	--bg-url: url("/resources/images/bg-desktop-light-alt2.jpg");
+	--text-medium: 24px/24px Kurale, serif;
+	--text-title: 36px/32px Kurale, serif;
+	--text-small: 20px/24px Kurale, serif;
+
+	/*-------------------------------
+	 * Colors
+	 *-------------------------------*/
+	--text-color: #000000;
+	--text-color-alt: #033651;
+	--secondary-color: #033651;
+	--button-contrast-color: #F3F3F3A3;
+	--button-highlight-color: #00293538;
+	--button-radius: 4px;
+}
+
+.Debug {
+	--border: 1px solid #FF0000;
+}
+
+.Dark {
+	/*---------------------------------
+	 * Colors 
+	 *--------------------------------*/
+	--text-color: #CDCDCC;
+	--text-color-alt: #3A3A00;
+	--secondary-color: #3A3A00;
 }
 
 html, body {
 	height: 100%;
+	width: 400vw;
+}
+/*------------------------------------------------------
+ * Navigation Bar 
+ *----------------------------------------------------*/
+.Navigation {
+	position: sticky;
+	left: 0;
+	height: 128px;
+	width: 100vw;
+
+	overflow: hidden;
+
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
 
+.Navigation a {
+	float: right;
+	padding: 10px;
+	height: 54px;
+
+	display: flex;
+	align-items: center;
+}
+
+.Navigation a.Logo {
+	display: flex;
+	justify-content: center;
+
+	width: 128px;
+	height: 128px;
+	margin: 0 10px;
+}
+
+/* Menu Icon */
+.Navigation .MenuButton {
+	display: flex;
+	cursor: pointer;
+
+	padding: 10px;
+	height: 54px;
+	width: 66px;
+
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.MenuButton .Bar1, .Bar2, .Bar3 {
+	width: 35px;
+	height: 5px;
+	background-color: #333;
+	margin: 3px 0;
+	transition: 0.4s;
+}
+
+.Change .Bar1 { /*rotate first bar */
+	transform: translate(0, 11px) rotate(-45deg);
+}
+
+.Change .Bar2 { /*fade out second bar */
+	opacity: 0;
+}
+
+.Change .Bar3 { /*rotate last bar */
+	transform: translate(0, -11px) rotate(45deg);
+}
+
+/* Menu Panel */
+.MenuButton:hover > div { /*color of menuButton children on hover */
+	background-color: var(--secondary-color);
+}
+
+.Navigation .Nav-panel {
+	padding: 10px 5px;
+	display: none;
+	overflow: hidden;
+
+	max-width: 0%;
+	transition: max-width 0.2s ease-out;
+	flex-grow: 4;
+}
+
+.Nav-panel a img.MobileMenu {
+	background-color: red;
+}
+
+.Nav-panel a {
+	border: 2px;
+	box-shadow: 0px 4px #00000040;
+	border-radius: var(--button-radius);
+	height: 26px;
+	padding: 2px 3px;
+	margin: 20px 10px;
+	text-decoration: none;
+	color: var(--text-color);
+}
+
+.Debug .Nav-panel a {
+	border: 2px solid red;
+}
+
+.Nav-panel a:hover {
+	border: 2px;
+	padding: 4px 3px 0px;
+	box-shadow: 0px 2px 0px 0.5px #00000040;
+	color: var(--secondary-color);
+
+	transition: box-shadow 0.1s;
+	transition: padding 0.1s;
+}
+
+.Nav-panel img {
+	display: inline-block;
+	filter: invert(0);
+}
+
+.Nav-panel a:hover img {
+	filter: invert(0.2) sepia(1) saturate(5) hue-rotate(175deg);
+}
+
+.Nav-panel .ModeSwitch:hover img {
+	filter: invert(0.2) sepia(1) saturate(5) hue-rotate(175deg);
+}
+
+.Dark .Nav-panel a:hover img {
+	filter: invert(0.2) sepia(1) saturate(3) hue-rotate(8deg);
+}
+
+.Dark .ModeSwitch:hover img {
+	filter: invert(0.2) sepia(1) saturate(3) hue-rotate(8deg);
+}
+
+.Nav-panel .ModeSwitch {
+	display: flex;
+	justify-content: center;
+
+	float: right;
+	margin: 20px 10px;
+	border-radius: 16px;
+	padding: 0px 5px 6px;
+	width: 56px;
+	height: 26px;
+
+	box-shadow: 0px 4px #00000040; /* 40 = 25% */
+	transition: padding 0.1s;
+	transition: box-shadow 0.1s;
+}
+/*
+
+.Nav-panel .ModeSwitch:hover {
+	background-image: radial-gradient(farthest-corner at 50% 100%, #DFDFDF7D 10%, transparent 40%);
+	box-shadow: 0px 1px 0px 1px #00000040;
+	padding: 4px 5px 2px;
+	cursor: pointer;
+}
+
+*/
+.Dark .ModeSwitch {
+	box-shadow: 0px -4px #00000040;
+	padding: 6px 5px 0px;
+}
+/*
+.Dark .ModeSwitch:hover {
+	background-image: radial-gradient(farthest-corner at 50% 50%, #DFDFDF7D 10%, transparent 40%);
+	box-shadow: 0px -1px 0px 1px #00000040;
+	padding: 2px 5px 4px;
+}
+*/
+
+/*----------------------------------------------------
+ * Body Page 
+ *---------------------------------------------------*/
 .canvas-container {
 	display: flex;
 	align-items: flex-start;
 	justify-content: flex-start;
 	flex-wrap: nowrap;
 
-	width: 400vw;
+	width: 100%;
 	height: 100vh;
+}
+
+.Debug .canvas-container {
+	border-left: 1px solid purple;
 }
 
 .canvas {
@@ -34,24 +239,23 @@ html, body {
 	width: 100vw;
 }
 
-.canvas .navigation {
-	height: 128px;
-	border: var(--border);
-	width: 100%;
+.Debug .canvas {
+	border-left: 1px solid #EE0000;
 }
 
-.canvas .page-body {
+.canvas .canvas-body {
 	border: var(--border);
 	height: 100%;
-   	width: 100%;	
+	padding: 10px;
 }
 
 .canvas .welcome-container {
 	border: var(--border);
 	display: flex;
 	justify-content: flex-end;
-	align-items: flex-start;
+	align-items: flex-end;
 
+	margin-top: 10%;
 	width: 100%;
 }
 
@@ -61,8 +265,6 @@ html, body {
 	flex-direction: column;
 
 	width: 100%;
-	min-height: 100%;
-	padding: 35vh 10px 10px 128px;
 }
 
 .welcome-frame .welcome-phrase {
@@ -71,18 +273,31 @@ html, body {
 	width: 100%;
 	min-height: fit-content;
 	max-height: 48px;
+	padding: 10px 0px;
+}
+
+.welcome-frame .wp1 {
+	font: var(--text-medium);
+	color: var(--text-color-alt);
+}
+
+.welcome-frame .wp2 {
+	font: var(--text-title);
+}
+
+.welcome-frame .wp3 {
+	font: var(--text-small);
 }
 
 .canvas .profile-frame {
 	border: var(--border);
 	display: flex;
-	justify-content: center;
+	flex-direction: column;
 	align-items: center;
 
-	min-height: 75vh;
 	min-width: 25vw;
 	max-width: 440px;
-	padding: 10px 25px;
+	padding: 10px 60px;
 }
 
 .profile-frame .profile-holder {
@@ -95,7 +310,51 @@ html, body {
 	height: auto;
 }
 
-.paralax {
+.PostsContainer {
+
+}
+
+.PostsTitle {
+
+}
+
+.PostsGrid {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto;
+	grid-template-rows: 128px 128px;
+	gap: 80px 40px; /*row-gap column-gap*/
+	padding: 10px 40px;
+}
+
+.PostItem {
+	padding: 10px;
+	border-radius: 24px;
+
+}
+
+.Debug .PostsContainer {
+	border: 1px solid red;
+}
+
+.Debug .PostsTitle {
+	border: 1px solid red;
+}
+
+.Debug .PostsGrid {
+	border: 1px solid red;
+}
+
+.Debug .PostItem {
+	border: 1px solid red;
+}
+
+.Paralax {
+	/*image position*/
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	z-index: -1;
+
 	/* Paralax Effect */
 	background: var(--bg-url) no-repeat fixed center;
 	background-size: cover;
@@ -104,9 +363,3 @@ html, body {
 /*---------------------------------------------------------
  * At Rules
  ---------------------------------------------------------*/
-/* Turn off paralax scrolling to mobile devices */
-@media only screen and (max-device-width: 1440px) {
-	.paralax {
-		background-attachment: scroll;
-	}
-}

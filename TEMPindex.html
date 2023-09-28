@@ -1,21 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="Debug">
 	<head>
+		<link rel="icon" type="image/x-icon" href="/resources/images/icons/foxicon.svg">
 		<title>Joao V. S. Santos</title>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Kurale&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="/ext/baseStyle.css">
 	</head>
 	<body>
-		<div class="paralax canvas-container">
+		<div class="Paralax"></div>
+		<div class="Navigation">
+			<a href="#" class="Logo"><img src="/resources/images/icons/foxicon.svg"></img></a>
+			
+			<div class="Nav-panel">
+				<span class="ModeSwitch" onclick="toggleDarkMode()"><img src="/resources/images/icons/lightbulb-off.svg"></img></span>
+				<a href="#" onclick="translate()"><img src="/resources/images/icons/translate.svg"></img></a>
+				<a href="#"><img class="MobileMenu"></img>About Me</a>
+				<a href="#"><img class="MobileMenu"></img>Articles</a>
+				<a href="#"><img class="MobileMenu"></img>My Projects</a>
+			</div>
+
+			<div class="MenuButton" onclick="menuSwift(this)">
+				<div class="Bar1"></div>
+				<div class="Bar2"></div>
+				<div class="Bar3"></div>
+			</div>
+		</div>
+		<div class="canvas-container">
 			<div class="canvas">
-				<div class="navigation"></div>
-				<div class="page-body">
+				<div class="canvas-body">
 					<div class="welcome-container">
 						<div class="welcome-frame">
-							<p class="welcome-phrase ExtParagraph"></p>
-							<p class="welcome-phrase ExtParagraph"></p>
-							<p class="welcome-phrase ExtParagraph"></p>
+							<p class="welcome-phrase wp1 ExtParagraph"></p>
+							<p class="welcome-phrase wp2 ExtParagraph"></p>
+							<p class="welcome-phrase wp3 ExtParagraph"></p>
 						</div>
 						<div class="profile-frame">
 							<div class="profile-holder">
@@ -23,22 +44,35 @@
 							</div>
 						</div>
 					</div>
+
+					<div class="PostsContainer">
+						<p class="PostsTitle"></p>
+						<div class="PostsGrid">
+							<div class="PostItem">1</div>
+							<div class="PostItem">2</div>
+							<div class="PostItem">3</div>
+							<div class="PostItem">4</div>
+							<div class="PostItem">5</div>
+							<div class="PostItem">6</div>
+							<div class="PostItem">7</div>
+							<div class="PostItem">8</div>
+							<div class="PostItem">9</div>
+							<div class="PostItem">10</div>
+						</div>
+					</div>
 				</div>
 			</div>
 
 			<div class="canvas">
-				<div class="navigation"></div>
-				<div class="page-body"></div>
+				<div class="canvas-body"></div>
 			</div>
 
 			<div class="canvas">
-				<div class="navigation"></div>
-				<div class="page-body"></div>
+				<div class="canvas-body"></div>
 			</div>
 
 			<div class="canvas">
-				<div class="navigation"></div>
-				<div class="page-body"></div>
+				<div class="canvas-body"></div>
 			</div>
 		</div>
 
