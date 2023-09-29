@@ -1,0 +1,43 @@
+.Dark {
+	--bg-url: url("/resources/images/bg-desktop-dark-alt2.jpg");
+	--separator-color: #3A3A00;
+
+	/*---------------------------------
+	 * Colors 
+	 *--------------------------------*/
+	--text-color: #CDCDCC;
+	--text-color-alt: #3A3A00;
+	--secondary-color: #BD9023;
+	--button-contrast-color: #F3F3F3A3;
+	--button-highlight-color: #00293538;
+}
+
+.Dark .Navigation .Logo img{
+	background-color: #CDCDCD;
+	border-radius: 40px;
+}
+
+.Dark .Nav-panel a:hover img {
+	filter: invert(0.2) sepia(1) saturate(3) hue-rotate(8deg);
+}
+
+.Dark .Nav-panel img {
+	filter: invert(0.7);
+}
+
+.Dark .ModeSwitch:hover img {
+	filter: invert(0.2) sepia(1) saturate(3) hue-rotate(8deg);
+}
+
+.Dark .ModeSwitch {
+	box-shadow: 0px -4px #00000040;
+	padding: 6px 5px 0px;
+}
+
+.Dark .welcome-frame .wp1 {
+	color: #816522;
+}
+
+.Dark .Footer img {
+	filter: invert(0.7);
+}

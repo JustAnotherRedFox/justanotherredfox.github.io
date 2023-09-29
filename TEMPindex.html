@@ -8,19 +8,22 @@
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Kurale&display=swap" rel="stylesheet">
-		<link rel="stylesheet" href="/ext/baseStyle.css">
+		<link rel="stylesheet" href="/ext/styles/baseStyle.css">
+		<link rel="stylesheet" href="/ext/styles/postsCardStyle.css">
+		<link rel="stylesheet" href="/ext/styles/debugStyle.css">
+		<link rel="stylesheet" href="/ext/styles/darkStyle.css">
 	</head>
 	<body>
 		<div class="Paralax"></div>
 		<div class="Navigation">
-			<a href="#" class="Logo"><img src="/resources/images/icons/foxicon.svg"></img></a>
+			<a href="#homepage" class="Logo"><img src="/resources/images/icons/foxicon.svg"></img></a>
 			
 			<div class="Nav-panel">
 				<span class="ModeSwitch" onclick="toggleDarkMode()"><img src="/resources/images/icons/lightbulb-off.svg"></img></span>
 				<a href="#" onclick="translate()"><img src="/resources/images/icons/translate.svg"></img></a>
 				<a href="#"><img class="MobileMenu"></img>About Me</a>
 				<a href="#"><img class="MobileMenu"></img>Articles</a>
-				<a href="#"><img class="MobileMenu"></img>My Projects</a>
+				<a href="#projects"><img class="MobileMenu"></img>My Projects</a>
 			</div>
 
 			<div class="MenuButton" onclick="menuSwift(this)">
@@ -29,8 +32,11 @@
 				<div class="Bar3"></div>
 			</div>
 		</div>
+
+		<span class="Separator"></span>
+
 		<div class="canvas-container">
-			<div class="canvas">
+			<div class="canvas" id="homepage">
 				<div class="canvas-body">
 					<div class="welcome-container">
 						<div class="welcome-frame">
@@ -46,24 +52,49 @@
 					</div>
 
 					<div class="PostsContainer">
-						<p class="PostsTitle"></p>
+						<p class="PostsTitle ExtTitle"></p>
+						<span class="Separator"></span>
 						<div class="PostsGrid">
-							<div class="PostItem">1</div>
-							<div class="PostItem">2</div>
-							<div class="PostItem">3</div>
-							<div class="PostItem">4</div>
-							<div class="PostItem">5</div>
-							<div class="PostItem">6</div>
-							<div class="PostItem">7</div>
-							<div class="PostItem">8</div>
-							<div class="PostItem">9</div>
-							<div class="PostItem">10</div>
+							<div class="PostItem">
+								<div class="PostCard ExtPost">
+									<div class="CardFront">
+										<img width="180" height="140" src="/resources/images/covers/wip.jpg">
+										<p></p>
+									</div>
+
+									<div class="CardInner">
+										<h2></h2>
+										<p></p>
+									</div>
+								</div>
+							</div>
+							<div class="PostItem">
+								<div class="PostCard ExtPost">
+									<div class="CardFront">
+										<img width="180" height="140" src="/resources/images/covers/wip.jpg">
+										<p></p>
+									</div>
+
+									<div class="CardInner">
+										<h2></h2>
+										<p></p>
+									</div>
+								</div>
+							</div>
+							<div class="PostItem"></div>
+							<div class="PostItem"></div>
+							<div class="PostItem"></div>
+							<div class="PostItem"></div>
+							<div class="PostItem"></div>
+							<div class="PostItem"></div>
+							<div class="PostItem"></div>
+							<div class="PostItem"></div>
 						</div>
 					</div>
 				</div>
 			</div>
 
-			<div class="canvas">
+			<div class="canvas" id="projects">
 				<div class="canvas-body"></div>
 			</div>
 
@@ -76,7 +107,23 @@
 			</div>
 		</div>
 
-			<script src="/ext/externalData.js"></script>
+		<span class="Separator"></span>
+
+		<div class="Footer">
+			<div class="Signature">
+				<img src="/resources/images/icons/copyright.svg">
+				<p>Joao V. S. Santos 2023</p>
+			</div>
+
+			<div class="SocialLinks">
+				<img src="/resources/images/icons/logo-linkedin.svg">
+				<img src="/resources/images/icons/logo-pinterest.svg">
+				<img src="/resources/images/icons/logo-instagram.svg">
+				<img src="/resources/images/icons/logo-github.svg">
+				<img src="/resources/images/icons/logo-twitter.svg">
+			</div>
+		</div>
+		<script src="/ext/externalData.js"></script>
 		<script src="/ext/modes.js"></script>
 	</body>
 </html>

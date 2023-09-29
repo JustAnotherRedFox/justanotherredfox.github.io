@@ -1,0 +1,89 @@
+.Debug {
+	--border: 2px solid #FF0000;
+	--border_main: 4px solid #FF00DD;
+	--border_light: 1px solid #FF0000;
+	--border_img: 4px dotted #FF0000;
+}
+
+.Debug .Navigation {
+	border: var(--border_main); 
+}
+
+.Debug .Navigation .Logo {
+	border: var(--border_img);
+}
+
+.Debug .Navigation .Nav-panel a {
+	border: var(--border);
+}
+
+.Debug .Navigation .MenuButton {
+	border: var(--border);
+}
+
+.Debug .canvas-container {
+	border-left: 1px solid purple;
+}
+
+.Debug .canvas {
+	border-left: 1px solid #EE0000;
+}
+
+.Debug .canvas-body {
+	border: var(--border);
+}
+
+.Debug .welcome-container {
+	border: var(--border);
+}
+
+.Debug .welcome-frame {
+	border: var(--border);
+}
+
+.Debug .welcome-profile {
+	border: var(--border);
+}
+
+.Debug .welcome-phrase {
+	border: var(--border);
+}
+.Debug .PostsContainer {
+	border: 1px solid red;
+}
+
+.Debug .PostsTitle {
+	border: 1px solid red;
+}
+
+.Debug .PostsGrid {
+	border: 1px solid red;
+}
+
+.Debug .PostItem {
+	border: 1px solid red;
+}
+
+.Debug .SocialLinks img {
+	border: var(--border);
+}
+
+.Debug .SocialLinks {
+	border: var(--border);
+}
+
+.Debug .Signature {
+	border: var(--border);
+}
+
+.Debug .Signature img {
+	border: var(--border);
+}
+
+.Debug .Signature p {
+	border: var(--border);
+}
+
+.Debug .Footer {
+	border: var(--border);
+}

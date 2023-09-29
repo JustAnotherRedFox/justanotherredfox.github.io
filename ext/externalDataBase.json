@@ -2,7 +2,7 @@
 	"titles" : [
 		{
 			"id": 0,
-			"content": "testing message with special char"
+			"content": "Featured Posts"
 		},
 
 		{
@@ -26,6 +26,16 @@
 		{
 			"id": 2,
 			"content": "but also studying Digital 3D Art and trying to find my way between font and back-end."
+		}
+	],
+
+	"posts": [
+		{
+			"id": 0,
+			"imgUrl":  "/resources/images/covers/devlinksCover.png",
+			"imgLegend": "Devlinks, 15/sep",
+			"cardTitle": "DevLinks Website",
+			"cardMsg": "Site Created in Discover Course feat Rocketseat, initiated day: 11/Sep finished: 15/Sep"
 		}
 	]
 	

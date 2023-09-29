@@ -1,0 +1,67 @@
+.PostItem .PostCard {
+	background-color: red;
+	position: relative;
+	width: fit-content;
+	height: 140px;
+	background-size: cover;
+	border-radius: 12px;
+	background-position: center;
+	overflow: hidden;
+}
+
+.PostItem .PostCard .CardFront {
+
+}
+
+.PostItem .PostCard .CardFront img {
+	position: relative;
+	height: 140px;
+}
+
+.PostItem .PostCard .CardFront p {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background-color: #000000CC;
+	color: #FFFFFF;
+	text-align: left;
+	padding: 10px;
+}
+
+.PostItem .PostCard:hover .CardFront p {
+	z-index: 2;
+	top: 0;
+	margin: 0;
+	height: fit-content;
+}
+
+.PostItem .PostCard .CardInner {
+	background-color: #000000E6;
+	color: #FFFFFF;
+	position: absolute;
+	top: 0px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 1;
+	opacity: 0;
+	padding: 2px;
+	transition: all 0.4s ease 0s; 
+}
+
+.PostItem .PostCard:hover .CardInner {
+	opacity: 1;
+}
+
+.PostItem .PostCard .CardInner h2 {
+	color: #00000000;
+	padding: 2px;
+	height: 28px;
+}
+
+.PostItem .PostCard .CardInner p {
+	overflow-y: hidden;
+	margin: 0 5px;
+	padding: 4px 0 0;
+	height: 65%;
+}

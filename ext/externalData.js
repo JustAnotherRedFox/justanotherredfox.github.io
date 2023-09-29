@@ -10,7 +10,7 @@ function callExtDt() {
 			// Get Element Classes
 			let titles = document.getElementsByClassName('ExtTitle');
 			let paragraphs = document.getElementsByClassName('ExtParagraph');
-			let subtitles = document.getElementsByClassName('ExtSubtitle');
+			let posts = document.getElementsByClassName('ExtPost');
 			let lists = document.getElementsByClassName('ExtList');
 			let buttons = document.getElementsByClassName('ExtButton');
 
@@ -27,9 +27,33 @@ function callExtDt() {
 				paragraphs[i].innerHTML = eDB.paragraphs[i].content;
 			}
 
-			//SUBTITLES 
-			for (let i = 0; i < subtitles.length; i++) {
-				subtitles[i].innerHTML = "testing subtitles";
+			//HOMEPAGE POSTS 
+			for (let i = 0; i < posts.length; i++) {
+				let $cardFrontImg = posts[i].children[0].children[0];
+				let $cardFrontP = posts[i].children[0].children[1];
+				let $cardInnerH2 = posts[i].children[1].children[0];
+				let $cardInnerP = posts[i].children[1].children[1];
+
+				/* value variables */
+				let cardimg = "/resources/images/covers/wip.jpg";
+				let cardlegend = "Unnamed, WIP";
+				let cardtitle = "Unnamed, WIP";
+				let carddesc = "no description added";
+
+				if (eDB.posts[i] != null) {
+
+					if (typeof eDB.posts[i].imgUrl === "string" && eDB.posts[i].imgUrl.length !== 0) {
+						cardimg = eDB.posts[i].imgUrl;
+						cardlegend = eDB.posts[i].imgLegend;
+						cardtitle = eDB.posts[i].cardTitle;
+						carddesc = eDB.posts[i].cardMsg;
+					}
+				}
+
+				$cardFrontImg.setAttribute("src", cardimg);
+				$cardFrontP.innerHTML = cardlegend;
+				$cardInnerH2.innerHTML = cardtitle;
+				$cardInnerP.innerHTML = carddesc;
 			}
 
 			//LISTS 
