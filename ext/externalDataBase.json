@@ -7,7 +7,7 @@
 
 		{
 			"id": 1,
-			"content": "testing second message"
+			"content": "Projects"
 		}
 	
 	],
@@ -37,6 +37,74 @@
 			"cardTitle": "DevLinks Website",
 			"cardMsg": "Site Created in Discover Course feat Rocketseat, initiated day: 11/Sep finished: 15/Sep"
 		}
+	],
+
+	"buttons": [
+		{
+			"id": 0,
+			"content": "About Me"
+		},
+
+		{
+			"id": 1,
+			"content": "Articles"
+		},
+
+		{
+			"id": 2,
+			"content": "My Projects"
+		},
+
+		{
+			"id": 3,
+			"content": "Sort By"
+		},
+
+		{
+			"id": 4,
+			"content": "By Relevance"
+		},
+
+		{
+			"id": 5,
+			"content": "By Date <img src='/resources/images/icons/sort_New2Old.svg'>"
+		},
+	
+		{
+			"id": 6,
+			"content": "By Date <img src='/resources/images/icons/sort_Old2New.svg'>"
+		},
+	
+		{
+			"id": 7,
+			"content": "By Name <img src='/resources/images/icons/sort_A2Z.svg'>"
+		},
+	
+		{
+			"id": 8,
+			"content": "By Name <img src='/resources/images/icons/sort_Z2A.svg'>"
+		},
+
+		{
+			"id": 9,
+			"content": ""
+		},
+
+		{
+			"id": 10,
+			"content": "All"
+		},
+
+		{
+			"id": 11,
+			"content": "Websites Only"
+		},
+
+		{
+			"id": 12,
+			"content": "Digital Art Only"
+		}
+
 	]
 	
 }

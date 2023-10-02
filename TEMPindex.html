@@ -10,6 +10,7 @@
 		<link href="https://fonts.googleapis.com/css2?family=Kurale&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="/ext/styles/baseStyle.css">
 		<link rel="stylesheet" href="/ext/styles/postsCardStyle.css">
+		<link rel="stylesheet" href="/ext/styles/navbarsStyle.css">
 		<link rel="stylesheet" href="/ext/styles/debugStyle.css">
 		<link rel="stylesheet" href="/ext/styles/darkStyle.css">
 	</head>
@@ -21,9 +22,9 @@
 			<div class="Nav-panel">
 				<span class="ModeSwitch" onclick="toggleDarkMode()"><img src="/resources/images/icons/lightbulb-off.svg"></img></span>
 				<a href="#" onclick="translate()"><img src="/resources/images/icons/translate.svg"></img></a>
-				<a href="#"><img class="MobileMenu"></img>About Me</a>
-				<a href="#"><img class="MobileMenu"></img>Articles</a>
-				<a href="#projects"><img class="MobileMenu"></img>My Projects</a>
+				<a href="#"><img class="MobileMenu"></img><span class="ExtButton">About Me</span></a>
+				<a href="#"><img class="MobileMenu"></img><span class="ExtButton">About Me</span></a>
+				<a href="#projects"><img class="MobileMenu"></img><span class="ExtButton">About Me</span></a>
 			</div>
 
 			<div class="MenuButton" onclick="menuSwift(this)">
@@ -95,7 +96,37 @@
 			</div>
 
 			<div class="canvas" id="projects">
-				<div class="canvas-body"></div>
+				<div class="canvas-body">
+					<div class="ProjectsBar">
+						<p class="ExtTitle"></p>
+						<div class="ProjectsNav">
+							<div class="Dropdown">
+								<span class="ExtButton DropdownButton" onclick="dropdownToggle(this)">Button</span>
+								<div class="DropdownPanel">
+									<span class="ExtButton First">By Relevance</span>
+									<span class="ExtButton">Websites Only</span>
+									<span class="ExtButton">Websites Only</span>
+									<span class="ExtButton">Websites Only</span>
+									<span class="ExtButton Last">Digital Art Only</span>
+								</div>
+							</div>
+
+							<div class="Dropdown">
+								<img src="/resources/images/icons/funnel.svg" class="ExtButton DropdownButton" onclick="dropdownToggle(this)"></img>
+								<div class="DropdownPanel">
+									<span class="ExtButton First">All</span>
+									<span class="ExtButton">Websites Only</span>
+									<span class="ExtButton Last">Digital Art Only</span>
+								</div>
+							</div>
+
+						</div>
+					</div>	
+
+					<div class="ProjectsFrame">
+						
+					</div>
+				</div>
 			</div>
 
 			<div class="canvas">

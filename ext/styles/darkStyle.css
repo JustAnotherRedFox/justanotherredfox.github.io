@@ -41,3 +41,11 @@
 .Dark .Footer img {
 	filter: invert(0.7);
 }
+
+.Dark .DropdownPanel {
+	background-color: #00000033;
+}
+
+.Dark .DropdownPanel span {
+	color: #FFFFFF;
+}

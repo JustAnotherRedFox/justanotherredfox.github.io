@@ -52,3 +52,25 @@ for (let i = 0; i < $menu.length; i++) {
 	});
 }
 */
+
+/*----------------------------------------------------
+ * Dropdown Menu
+ *---------------------------------------------------*/
+function  dropdownToggle($element) {
+	$element.nextElementSibling.classList.toggle("Show");
+}
+
+//Close the dropdown menu fi user clicks outside
+window.onclick = function(event) {
+	if (!event.target.matches('.DropdownButton')) {
+		let dropdowns = document.getElementsByClassName("DropdownPanel");
+
+		for (let i = 0; i < dropdowns.length; i++) {
+			let openDropdown = dropdowns[i];
+
+			if (openDropdown.classList.contains('Show')) {
+				openDropdown.classList.remove('Show');
+			}
+		}
+	}
+}
