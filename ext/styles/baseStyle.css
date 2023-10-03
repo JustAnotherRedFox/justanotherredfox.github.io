@@ -347,6 +347,66 @@ body {
 	height: 24px;
 }
 
+.ProjectsFrame {
+	width: 100%;
+}
+
+.ProjectsFrame .ProjectsGrid {
+	display: grid;
+	gap: 75px 30px;
+	grid-template-columns: auto auto auto;
+	grid-auto-flow: row;
+	grid-auto-rows: 256px;
+
+	padding: 60px 30px;
+	max-height: 125vh;
+
+	overflow-y: auto;
+}
+
+.ProjectsFrame .ProjectsGrid .ProjectsItem {
+	border-radius: 20px;
+}
+
+.ProjectsFrame .ProjectsGrid .ExtProj{
+	position: relative;
+	height: 256px;
+	max-width: 460px;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+}
+
+.ProjectsFrame .ProjectsGrid .ExtProj .ItemImg {
+	width: fit-content;
+	height: fit-content;
+}
+
+.ExtProj .ItemImg img {
+	height: 256px;
+	width: 460px;
+	border-radius: 20px;
+}
+
+.ExtProj .ItemImg p {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background-color: #000000CC;
+	color: #FFFFFF;
+	text-align: left;
+	margin: 20px 0px;
+	padding: 10px;
+}
+
+.ExtProj .ItemInner h2 {
+
+}
+
+.ExtProj .ItemInner p {
+
+}
+
 .Paralax {
 	/*image position*/
 	position: fixed;

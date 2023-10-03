@@ -105,6 +105,16 @@
 			"content": "Digital Art Only"
 		}
 
+	],
+
+	"projs": [
+		{
+			"id": 0,
+			"imgUrl": "/resources/images/covers/devlinksCover.png",
+			"imgSub": "DevLinks, 15 sep",
+			"innerTitle": "DevLinks, Social Links Page",
+			"innerDesc": "A Page Made With Discover cource by Rocketseat"
+		}
 	]
 	
 }

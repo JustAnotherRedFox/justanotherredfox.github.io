@@ -42,7 +42,7 @@
 .DropdownButton:hover, .DropdownButton:focus {
 	background-color: #C8C8CC;
 	border-radius: 10px;
-	/*cursor: */
+	cursor: pointer;
 }
 
 .Dropdown {

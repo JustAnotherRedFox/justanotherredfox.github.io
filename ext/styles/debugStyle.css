@@ -84,6 +84,19 @@
 	border: var(--border);
 }
 
-.Debug .Footer {
+.Debug .ProjectsBar {
 	border: var(--border);
+}
+
+.Debug .ProjectsFrame {
+	border: var(--border);
+}
+
+.Debug .ProjectsItem {
+	background-color: #DD000080;
+	border: var(--border-);
+}
+
+.Debug .Footer {
+	border: var(--border_light);
 }

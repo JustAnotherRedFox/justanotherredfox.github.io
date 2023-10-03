@@ -13,6 +13,7 @@ function callExtDt() {
 			let posts = document.getElementsByClassName('ExtPost');
 			let lists = document.getElementsByClassName('ExtList');
 			let buttons = document.getElementsByClassName('ExtButton');
+			let projs = document.getElementsByClassName('ExtProj');
 
 			
 			// Alter Element Inner HTML with the External Data Base
@@ -64,6 +65,38 @@ function callExtDt() {
 			//BUTTONS 
 			for (let i = 0; i < buttons.length; i++) {
 				buttons[i].innerHTML = eDB.buttons[i].content;
+			}
+
+			//Project Covers 
+			for (let i = 0; i < projs.length; i++) {
+				let cover_imgUrl = "/resources/images/covers/wip.jpg";
+				let cover_imgSub = "Unnamed, WIP";
+				let cover_innerTitle = "Untitled";
+				let cover_innerDesc = "not added Description";
+
+				if (eDB.projs[i] != null) {
+					if (typeof eDB.projs[i].imgUrl === "string" && eDB.projs[i].imgUrl.length !== 0) {
+						cover_imgUrl = eDB.projs[i].imgUrl;
+						cover_imgSub = eDB.projs[i].imgSub;
+						cover_innerTitle = eDB.projs[i].innerTitle;
+						cover_innerDesc = eDB.projs[i].innerDesc;
+
+
+					}
+				}
+
+				projs[i].innerHTML = `
+					<div class="ItemImg">
+						<img src="${cover_imgUrl}">
+						<p> ${cover_imgSub} </p>
+					</div>
+
+					<div class="ItemInner">
+						<h2> ${cover_innerTitle} </h2>
+						<p> ${cover_innerDesc} </p>
+					</div>
+				`;
+
 			}
 		})
 	
